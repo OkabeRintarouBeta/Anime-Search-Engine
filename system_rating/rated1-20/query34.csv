@@ -1,0 +1,151 @@
+qid,docno,Rank,BM25 score,Title,label
+34,10172,0,9.78486278,Freezing Specials,1
+34,7591,1,9.78486278,Tono to Issho,1
+34,2457,2,9.16476197,Majokko Tsukune-chan,3
+34,10298,3,8.88327979,Kaichou wa Maid-sama!: Goshujinsama to Asonjao‚ô•,1
+34,39590,4,8.36918536,Africa no Salaryman (TV),1
+34,20431,5,8.30705858,Hoozuki no Reitetsu,1
+34,4737,6,8.13382443,Himitsukessha Taka no Tsume,0
+34,3125,7,8.13382443,Tokimeki Tonight,2
+34,33161,8,8.0582852,Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA,1
+34,38397,9,8.0582852,Nande Koko ni Sensei ga!?,2
+34,1,10,7.5779058,Cowboy Bebop,4
+34,6654,11,7.56639858,Namakura Gatana,1
+34,12321,12,7.37350422,Thermae Romae,0
+34,12711,13,7.37350422,Uta no‚òÜPrince-sama‚ô™ Maji Love 2000%,1
+34,2325,14,7.31315044,Angel Blade Punish!,1
+34,17849,15,7.31137327,Sparrow's Hotel,1
+34,840,16,7.19020049,Narue no Sekai,0
+34,690,17,7.07596379,Kyuuketsuhime Miyu (TV),0
+34,2951,18,7.07297867,Gintama: Nanigoto mo Saiyo ga Kanjin nano de Tasho Senobisuru Kurai ga Choudoyoi,4
+34,35330,19,6.90414137,Poputepipikku,1
+34,28833,20,6.8762917,Chain Chronicle: Haecceitas no Hikari,1
+34,786,21,6.84963936,Pugyuru,0
+34,1556,22,6.81804113,Kikoushi Enma,1
+34,31678,23,6.7959911,Long Zhi Gu: Jingling Wangzuo,1
+34,2758,24,6.75815335,Shippuu! Iron Leaguer,1
+34,6999,25,6.74317669,Tennis no Ouji-sama: Another Story - Kako to Mirai no Message Specials,1
+34,404,26,6.73287349,Bastard!!: Ankoku no Hakaishin,2
+34,34148,27,6.69117683,Nyanko Days,1
+34,3946,28,6.63997283,Jarinko Chie,4
+34,3418,29,6.58954654,Jungle no Ouja Taa-chan,1
+34,940,30,6.58954654,Inukami!,1
+34,369,31,6.57487373,Boogiepop wa Warawanai,1
+34,1145,32,6.46854449,Kaze no Youjinbou,0
+34,10578,33,6.44276079,C¬≥,4
+34,2391,34,6.43386156,SD Gundam Force,2
+34,31711,35,6.40472351,To LOVE-Ru Darkness 2nd Specials,2
+34,14407,36,6.37516493,Persona 3 the Movie 1: Spring of Birth,0
+34,4094,37,6.36559965,Batman: Gotham Knight,0
+34,21473,38,6.35266436,Persona 3 the Movie 2: Midsummer Knight's Dream,0
+34,9936,39,6.34848349,Maken-Ki!,0
+34,21835,40,6.33200901,Majin Bone,0
+34,6112,41,6.302372,Shin Koihime‚Ä†Musou,1
+34,23133,42,6.16923674,M3: Sono Kuroki Hagane,0
+34,8937,43,6.16797093,Toaru Majutsu no Index II,0
+34,5962,44,6.07552926,Metal Fight Beyblade,2
+34,32801,45,6.01919417,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka OVA,3
+34,3642,46,6.01310118,Shina Dark: Kuroki Tsuki no Ou to Souheki no Tsuki no Himegimi,0
+34,24,47,5.99743993,School Rumble,1
+34,39836,48,5.95940688,Yami Shibai 7,0
+34,15313,49,5.9549263,Wooser no Sono Higurashi,0
+34,246,50,5.95343427,Groove Adventure Rave,4
+34,603,51,5.93380757,Futari wa Precure,4
+34,2049,52,5.92552001,Kouryuu Densetsu Villgust,0
+34,2172,53,5.87560416,Crayon Shin-chan Movie 15: Arashi wo Yobu Utau Ketsu dake Bakudan!,0
+34,37893,54,5.84332603,Yami Shibai 6,0
+34,38759,55,5.83901823,Sewayaki Kitsune no Senko-san,1
+34,2605,56,5.83608486,Sayonara Zetsubou Sensei,0
+34,3613,57,5.83608486,Toshokan Sensou,4
+34,12893,58,5.79709362,Danshi Koukousei no Nichijou Specials,0
+34,885,59,5.67744313,Tenshi no Tamago,0
+34,679,60,5.67744313,Shadow Skill (1996),0
+34,8,61,5.64667877,Bouken Ou Beet,0
+34,1123,62,5.64667877,Bouken Ou Beet Excellion,0
+34,14967,63,5.60969989,Boku wa Tomodachi ga Sukunai Next,0
+34,34675,64,5.57198974,Chou Yuu Sekai: Being the Reality,0
+34,1931,65,5.52071856,Futari wa Precure: Max Heart Movie 2 - Yukizora no Tomodachi,1
+34,1148,66,5.47038232,Teito Monogatari,0
+34,15125,67,5.46828794,Teekyuu,1
+34,1245,68,5.44181539,Shihaisha no Tasogare,0
+34,31884,69,5.36877257,Mahoutsukai Precure!,0
+34,19951,70,5.36877257,Hunter x Hunter Movie 2: The Last Mission,0
+34,5163,71,5.36682093,Code Geass: Hangyaku no Lelouch R2 Picture Drama,0
+34,38292,72,5.32473439,Mutafukaz,0
+34,1164,73,5.32473439,Mahou Senshi Louie,2
+34,38450,74,5.32115705,Mo Dao Zu Shi 2,4
+34,8241,75,5.30124267,Rio: Rainbow Gate!,0
+34,1686,76,5.2778934,Bleach Movie 1: Memories of Nobody,3
+34,2034,77,5.26905087,Lovely‚òÖComplex,1
+34,2023,78,5.23186934,Bakuen Campus Guardress,2
+34,1165,79,5.23186934,Sakura Taisen: Ouka Kenran,0
+34,37105,80,5.20582611,Grand Blue,0
+34,3239,81,5.18664101,Cream Lemon,3
+34,11705,82,5.18664101,Dragon Age: Blood Mage no Seisen,0
+34,36906,83,5.17477933,Jashin-chan Dropkick,5
+34,1655,84,5.17477933,Nerima Daikon Brothers,4
+34,2111,85,5.16095373,Rockman.EXE Movie: Hikari to Yami no Program,0
+34,4224,86,5.14410067,Toradora!,0
+34,5593,87,5.14218796,Dogs: Bullets & Carnage,0
+34,966,88,5.11378362,Crayon Shin-chan,2
+34,2959,89,5.11378362,Utsukushiki Sei no Dendoushi Reirei,0
+34,2337,90,5.09849042,Tetsujin 28-gou (2004),0
+34,39597,91,5.09521053,Sword Art Online: Alicization - War of Underworld,0
+34,1768,92,5.05552929,Kikaider 01 The Animation,0
+34,13161,93,5.05230443,Hagure Yuusha no Aesthetica,0
+34,10495,94,5.02493932,Yuru Yuri,0
+34,21273,95,4.99600662,Gochuumon wa Usagi Desu ka?,0
+34,5060,96,4.99600662,Hetalia Axis Powers,1
+34,550,97,4.98928327,Yu‚òÜGi‚òÜOh!,0
+34,1227,98,4.97174304,Shuten Douji,0
+34,32606,99,4.97174304,Onigiri,0
+34,4049,100,4.97174304,Mafukiden: Pandarian,1
+34,2204,101,4.93088281,Karakurizoushi Ayatsuri Sakon,0
+34,3323,102,4.93088281,Kite Liberator,0
+34,38480,103,4.92781496,Toaru Kagaku no Accelerator,0
+34,6956,104,4.91117365,Working!!,0
+34,2993,105,4.91117365,Rosario to Vampire,3
+34,1860,106,4.89996856,Tokyo Majin Gakuen Kenpucho: Tou,0
+34,39071,107,4.88767067,Machikado Mazoku,0
+34,1059,108,4.81223487,Mutant Turtles: Choujin Densetsu-hen,0
+34,1277,109,4.81223487,Ys: Tenkuu no Shinden - Adol Christine no Bouken,0
+34,2281,110,4.81223487,Jikuu Tantei Genshi-kun,2
+34,867,111,4.81223487,Slayers Gorgeous,4
+34,1534,112,4.81223487,Futari wa Precure: Splash‚òÜStar,1
+34,30276,113,4.7760113,One Punch Man,3
+34,1384,114,4.77394432,Kyuuketsuhime Miyu,0
+34,358,115,4.77394432,"Iriya no Sora, UFO no Natsu",0
+34,20889,116,4.77394432,Kuro no Sumika: Chronus,0
+34,3101,117,4.77394432,F-Zero: Falcon Densetsu,0
+34,693,118,4.77394432,Burn Up Scramble,4
+34,231,119,4.77394432,Asagiri no Miko,0
+34,1576,120,4.77394432,Bakumatsu Kikansetsu Irohanihoheto,0
+34,14741,121,4.75217366,Chuunibyou demo Koi ga Shitai!,0
+34,19815,122,4.7498667,No Game No Life,4
+34,74,123,4.7498667,Gakuen Alice,0
+34,1189,124,4.73625831,Eden's Bowy,0
+34,360,125,4.73625831,Himiko-den,0
+34,20907,126,4.69916263,Ookii 1 Nensei to Chiisana 2 Nensei,0
+34,463,127,4.69916263,One Piece Movie 5: Norowareta Seiken,0
+34,23279,128,4.69916263,Gyakusatsu Kikan,0
+34,2026,129,4.67312261,Hayate no Gotoku!,0
+34,766,130,4.66264353,Kishin Houkou Demonbane,0
+34,33850,131,4.65990029,Nil Admirari no Tenbin,0
+34,20583,132,4.64808938,Haikyuu!!,1
+34,724,133,4.62668765,Enzai,0
+34,2017,134,4.59128208,Mermaid's Scar,0
+34,4807,135,4.55641428,Mashin Eiyuuden Wataru 2,0
+34,1807,136,4.52207207,Prism Ark,2
+34,2031,137,4.38972858,Shining Tears X Wind,0
+34,13145,138,4.35784429,Cardfight!! Vanguard: Asia Circuit-hen,0
+34,30694,139,4.35784429,Dragon Ball Super,2
+34,30782,140,4.35784429,Bikini Warriors,0
+34,1132,141,4.35784429,Digimon Frontier,0
+34,29093,142,4.32641983,Grisaia no Meikyuu: Caprice no Mayu 0,0
+34,38483,143,4.32382049,Ore wo Suki nano wa Omae dake ka yo,0
+34,31380,144,4.29544533,To LOVE-Ru Darkness 2nd OVA,0
+34,207,145,4.29544533,Lodoss-tou Senki,0
+34,36517,146,4.29544533,Ninja Batman,0
+34,1226,147,4.26491119,Seihou Tenshi Angel Links,4
+34,1952,148,4.2348081,Vampire Hunter,0
+34,1181,149,4.2348081,Hikyou Tanken Fam & Ihrlie,4

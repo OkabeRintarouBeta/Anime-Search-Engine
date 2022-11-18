@@ -1,0 +1,151 @@
+qid,docno,Rank,BM25 score,Title,label
+30,3685,0,13.1995799,4-Day Weekend,0
+30,10012,1,12.1117928,Carnival Phantasm,5
+30,35427,2,11.0289483,Animegataris,5
+30,1992,3,10.3834344,Chou Kousoku Gran Doll,5
+30,2051,4,10.3074637,Akai Kiba: Blue Sonnet,5
+30,24031,5,9.84056698,Denki-gai no Honya-san,4
+30,12979,6,9.16723396,Naruto SD: Rock Lee no Seishun Full-Power Ninden,5
+30,1527,7,9.04946133,Pokemon: Senritsu no Mirage Pokemon,3
+30,1935,8,8.82276691,Megazone 23,2
+30,23225,9,8.82030334,Yuru Yuri Nachuyachumi!,3
+30,275,10,8.5808771,Love‚ô•Love?,5
+30,12711,11,8.54617347,Uta no‚òÜPrince-sama‚ô™ Maji Love 2000%,3
+30,23135,12,8.40182541,PriPara,3
+30,427,13,8.35201522,Kaleido Star,5
+30,30652,14,8.30374706,Long Riders!,4
+30,30915,15,8.23377788,Kekkai Sensen: Soresaemo Saitei de Saikou na Hibi,5
+30,40228,16,8.06166143,Bananya: Fushigi na Nakama-tachi,4
+30,32899,17,7.92895421,Watashi ga Motete Dousunda,4
+30,24629,18,7.84434712,Koufuku Graffiti,4
+30,19157,19,7.78231406,Youkai Watch,1
+30,688,20,7.58733035,Uta‚àΩKata,3
+30,9332,21,7.58593879,.hack//Quantum,4
+30,2406,22,7.45234826,Sazae-san,5
+30,10257,23,7.39081966,Pretty Rhythm: Aurora Dream,3
+30,9047,24,7.36852852,Toaru Kagaku no Railgun: Misaka-san wa Ima Chuumoku no Mato Desu kara,4
+30,3642,25,7.34751735,Shina Dark: Kuroki Tsuki no Ou to Souheki no Tsuki no Himegimi,0
+30,33142,26,7.10860619,Re:Zero kara Hajimeru Break Time,5
+30,12117,27,7.03260849,Detective Conan Movie 16: The Eleventh Striker,1
+30,2967,28,7.02775461,Saishuu Shiken Kujira,4
+30,1006,29,7.02775461,Tenchi Muyou! in Love,3
+30,2622,30,6.98539066,Big Wars: Kami Utsu Akaki Kouya ni,2
+30,24823,31,6.96906666,Days,0
+30,3948,32,6.950925,Mahou Sensei Negima!: Introduction Film,3
+30,715,33,6.90666278,Yume de Aetara,5
+30,38768,34,6.87849669,Black Clover: Jump Festa 2018 Special,2
+30,1613,35,6.87849669,Jikuu Ihoujin Kyoko: Chocola ni Omakase!,3
+30,589,36,6.84536657,Ginga Nagareboshi Gin,2
+30,8440,37,6.80506874,Black Lagoon Omake,5
+30,656,38,6.59389915,Air in Summer,3
+30,5684,39,6.58873656,Fresh Precure!,4
+30,6023,40,6.55451208,Nogizaka Haruka no Himitsu: Purezza,2
+30,8647,41,6.52639184,Self-Portrait,0
+30,1853,42,6.52133438,Cutey Honey F,5
+30,6793,43,6.4881478,"Kuroshitsuji: Sono Shitsuji, Kougyou",3
+30,5347,44,6.46025279,Bible Black: Imari Ryoujoku Genba,1
+30,234,45,6.44497522,Dan Doh!!,4
+30,34471,46,6.44089838,Youkai Watch Movie 4: Shadow Side - Oni-ou no Fukkatsu,1
+30,196,47,6.42277773,Onegai‚òÜTwins,2
+30,15059,48,6.39544081,Initial D Fifth Stage,4
+30,1750,49,6.39544081,Amaenaide yo!! Katsu!!: Damasarenaide yo!!,3
+30,13755,50,6.39544081,Shanshui Qing,0
+30,3010,51,6.39156832,Kaiketsu Zorro,4
+30,38483,52,6.35894795,Ore wo Suki nano wa Omae dake ka yo,1
+30,1953,53,6.35871177,Code Geass: Hangyaku no Lelouch Picture Drama,5
+30,342,54,6.35871177,Starship Operators,0
+30,6280,55,6.33903927,Cat Shit One,5
+30,1400,56,6.33903927,Macross 7 Movie: Ginga ga Ore wo Yondeiru!,0
+30,38789,57,6.33191635,One Room 2nd Season Special,1
+30,3883,58,6.2873666,YU-NO,1
+30,1199,59,6.26497392,Nintama Rantarou,5
+30,31054,60,6.20857953,"Letchu, Getchu, Saru Getchu",4
+30,1749,61,6.20857953,Amaenaide yo!!: Yasumanaide yo!!,2
+30,2823,62,6.20857953,Barbapapa,4
+30,253,63,6.14869557,Jungle wa Itsumo Hare nochi Guu,5
+30,46,64,6.0888341,Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Chinkonka,3
+30,2648,65,6.03232766,Doraemon: 2112-nen Doraemon Tanjou,3
+30,354,66,5.99419648,UG‚òÜUltimate Girls,0
+30,21773,67,5.97577997,Sugar*Soldier,4
+30,2891,68,5.97577997,Iblard Jikan,0
+30,1021,69,5.94797237,Kaikan Phrase,2
+30,5298,70,5.90245571,Yu‚òÜGi‚òÜOh! 5D's: Shinkasuru Kettou! Stardust vs. Red Demon's,5
+30,1962,71,5.90245571,Chikyuu Bouei Kazoku,4
+30,2044,72,5.90245571,Mahou no Tenshi Creamy Mami,0
+30,28069,73,5.86580657,Shigatsu wa Kimi no Uso: Moments,1
+30,101,74,5.86172079,Air,3
+30,1324,75,5.85763039,Earthian,0
+30,601,76,5.81232393,Nekojiru-sou,1
+30,2583,77,5.81232393,Soukou Kihei Votoms: The Last Red Shoulder,3
+30,9988,78,5.76999171,Otome wa Boku ni Koishiteru: Futari no Elder The Animation,4
+30,5279,79,5.75980775,Sekirei: Hajimete no Otsukai,3
+30,594,80,5.75980775,Naruto: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!,3
+30,30103,81,5.75980775,Precure All Stars Movie: Haru no Carnival‚ô™ - Ima Koko kara,0
+30,2723,82,5.70823208,D4 Princess,5
+30,1784,83,5.68493678,Injuu Nerawareta Hanayome,3
+30,31246,84,5.65757186,Choegang Habche: Mix Master,3
+30,32491,85,5.64334277,Kanojo to Kanojo no Neko: Everything Flows,4
+30,1198,86,5.60780295,Tsuyokiss,5
+30,981,87,5.56195436,Ichigo 100% OVA,1
+30,30127,88,5.56195436,Danchigai,3
+30,12187,89,5.55890202,Carnival Phantasm EX Season,0
+30,2071,90,5.55890202,Hana yori Dango (Movie),4
+30,762,91,5.55890202,Bleach: Memories in the Rain,1
+30,4059,92,5.5221342,"Clannad: Mou Hitotsu no Sekai, Tomoyo-hen",1
+30,9288,93,5.51084657,Heartcatch Precure! Movie: Hana no Miyako de Fashion Show... Desu ka!?,0
+30,10794,94,5.51084657,IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou,1
+30,52,95,5.51084657,Kidou Tenshi Angelic Layer,4
+30,966,96,5.48355363,Crayon Shin-chan,5
+30,2959,97,5.48355363,Utsukushiki Sei no Dendoushi Reirei,2
+30,21421,98,5.46361486,Mahou Shoujo Taisen,4
+30,381,99,5.46361486,Fushigi Yuugi: Dai Ni Bu,1
+30,12321,100,5.41718588,Thermae Romae,0
+30,2497,101,5.41718588,Shin Cutey Honey,5
+30,36951,102,5.41718588,Yuu‚òÜYuu‚òÜHakusho: Two Shots/Noru ka Soru ka,1
+30,6511,103,5.37153934,Chou Seimeitai Transformers Beast Wars Neo,1
+30,2964,104,5.36839655,Blue Drop: Tenshi-tachi no Gikyoku,1
+30,2825,105,5.36839655,Arabian Nights: Sindbad no Bouken (TV),5
+30,10165,106,5.33129043,Nichijou,4
+30,1557,107,5.32665564,Shounen Onmyouji,3
+30,32551,108,5.25743252,Digimon Adventure tri. 3: Kokuhaku,0
+30,297,109,5.23910149,Grenadier: Hohoemi no Senshi,1
+30,11237,110,5.22298724,Hidamari Sketch x SP,1
+30,38578,111,5.22298724,Star‚òÜTwinkle Precure,5
+30,32108,112,5.21442784,Digimon Adventure tri. 2: Ketsui,0
+30,25857,113,5.19639496,PriPara Movie: Mi~nna Atsumare! Prism‚òÜTours,0
+30,3092,114,5.19318825,Junjou Romantica,4
+30,417,115,5.18785744,Ragnar√∂k The Animation,0
+30,5162,116,5.11899672,Minami-ke Okaeri,3
+30,1277,117,5.11303713,Ys: Tenkuu no Shinden - Adol Christine no Bouken,1
+30,1594,118,5.08524735,Jigoku Shoujo Futakomori,1
+30,3008,119,5.07235312,Time Bokan Series: Yatterman,0
+30,1163,120,5.07235312,Neo Ranga,0
+30,35330,121,5.07235312,Poputepipikku,2
+30,31973,122,5.05194009,Mobile Suit Gundam Thunderbolt,5
+30,1888,123,5.03231144,Ichigo Mashimaro OVA,4
+30,146,124,5.03231144,Kono Minikuku mo Utsukushii Sekai,3
+30,10278,125,5.01906629,The iDOLM@STER,5
+30,5485,126,5.00954288,Shin Mazinger Shougeki! Z-hen,2
+30,4926,127,4.98661757,Marco: Haha wo Tazunete Sanzenri,0
+30,1485,128,4.95458571,Akachan to Boku,3
+30,176,129,4.95409515,Triangle Heart: Sweet Songs Forever,2
+30,31417,130,4.91589176,Binan Koukou Chikyuu Boueibu LOVE! LOVE!,2
+30,204,131,4.91589176,Yumeria,4
+30,4232,132,4.87827306,Mobile Suit Gundam MS IGLOO 2: Gravity of the Battlefront,2
+30,258,133,4.87827306,Hitsuji no Uta,5
+30,2895,134,4.87827306,Kujiratori,0
+30,1727,135,4.83047037,Shinkyoku Soukai Polyphonica,4
+30,233,136,4.80473689,Daa! Daa! Daa!,3
+30,1214,137,4.80040711,Binbou Shimai Monogatari,5
+30,11179,138,4.80040711,Papa no Iukoto wo Kikinasai!,4
+30,17187,139,4.77071573,Koukaku Kidoutai Arise: Ghost in the Shell - Border:1 Ghost Pain,0
+30,1325,140,4.76879396,Hamelin no Violin Hiki,2
+30,866,141,4.76879396,Slayers Premium,4
+30,1885,142,4.73338479,Master of Epic: The Animation Age,4
+30,28981,143,4.73338479,Ame-iro Cocoa,5
+30,4720,144,4.7124214,White Album,0
+30,1661,145,4.7124214,Cutey Honey,5
+30,4719,146,4.69849759,Queen's Blade: Rurou no Senshi,1
+30,7058,147,4.68380522,Uragiri wa Boku no Namae wo Shitteiru,4
+30,1106,148,4.6641209,Eikyuu Kazoku,0
+30,541,149,4.6641209,Tenchi Muyou! Ryououki 3rd Season,1

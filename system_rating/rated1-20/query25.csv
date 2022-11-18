@@ -1,0 +1,151 @@
+qid,docno,Rank,BM25 score,Title,Genre,label
+25,6987,0,16.6066238,Aki-Sora,"['Ecchi', 'Romance', 'Seinen']",4
+25,38920,1,15.6323123,Kochouki: Wakaki Nobunaga,"['Action', 'Historical', 'Drama', 'Samurai']",3
+25,39959,2,14.584676,Ani ni Tsukeru Kusuri wa Nai! 3,"['Slice of Life', 'Comedy', 'School']",3
+25,36936,3,13.4687356,Mirai no Mirai,"['Adventure', 'Drama', 'Fantasy']",5
+25,15605,4,13.2930455,Brothers Conflict,"['Harem', 'Romance', 'Shoujo']",3
+25,258,5,12.7989361,Hitsuji no Uta,"['Horror', 'Drama', 'Vampire']",4
+25,20545,6,12.692346,Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita. OVA,"['Comedy', 'Ecchi', 'Fantasy']",3
+25,6421,7,12.172534,Fullmetal Alchemist: Brotherhood Specials,"['Military', 'Adventure', 'Drama', 'Magic', 'Fantasy', 'Shounen']",4
+25,3229,8,12.1273275,Kimi ga Aruji de Shitsuji ga Ore de,"['Comedy', 'Ecchi', 'Harem', 'Parody', 'Romance']",3
+25,10721,9,12.1231798,Mawaru Penguindrum,"['Mystery', 'Comedy', 'Dementia', 'Psychological', 'Drama']",2
+25,2494,10,11.8412624,Goshuushou-sama Ninomiya-kun,"['Harem', 'Comedy', 'Ecchi', 'Fantasy']",2
+25,605,11,11.6843519,Tenshi ni Narumon!,"['Comedy', 'Romance', 'Vampire', 'Fantasy']",2
+25,286,12,11.0755606,B'T X,"['Adventure', 'Mecha', 'Sci-Fi', 'Shounen']",3
+25,37924,13,11.0268634,Ani ni Tsukeru Kusuri wa Nai! 2,"['Comedy', 'School', 'Slice of Life']",4
+25,8311,14,10.9943639,Tegamibachi Reverse,"['Adventure', 'Supernatural', 'Fantasy', 'Shounen']",0
+25,5042,15,10.9238891,Kiss x Sis,"['Comedy', 'Ecchi', 'Harem', 'Romance', 'School', 'Seinen']",1
+25,1031,16,10.827601,Hanare Toride no Yonna,"['Adventure', 'Fantasy']",2
+25,36001,17,10.827601,Alice or Alice: Siscon Niisan to Futago no Imouto,"['Seinen', 'Slice of Life']",4
+25,835,18,10.8152041,Sister Princess: Re Pure,"['Drama', 'Romance']",4
+25,167,19,10.8113018,Scrapped Princess,"['Adventure', 'Comedy', 'Drama', 'Fantasy', 'Mecha', 'Sci-Fi', 'Shounen']",3
+25,2445,20,10.6476749,Maple Colors,['Hentai'],0
+25,1065,21,10.5791389,Touch,"['Sports', 'Romance', 'School', 'Drama', 'Slice of Life', 'Shounen']",3
+25,12447,22,10.5773756,Ben-To Picture Drama,['Comedy'],0
+25,17513,23,10.5661623,Diabolik Lovers,"['Harem', 'School', 'Shoujo', 'Vampire']",4
+25,35015,24,10.5536179,Ani ni Tsukeru Kusuri wa Nai!,"['Comedy', 'School', 'Slice of Life']",5
+25,5162,25,10.5435758,Minami-ke Okaeri,"['Slice of Life', 'Comedy', 'School']",3
+25,6573,26,10.540445,Darker than Black: Ryuusei no Gemini,"['Action', 'Sci-Fi', 'Mystery', 'Super Power']",3
+25,9254,27,10.4718192,Mianhada Saranghanda,['Drama'],0
+25,5196,28,10.4553433,Aria The Origination Picture Drama,"['Fantasy', 'Sci-Fi', 'Shounen', 'Slice of Life']",0
+25,7593,29,10.2750787,Kiss x Sis (TV),"['Harem', 'Comedy', 'Romance', 'Ecchi', 'School', 'Seinen']",4
+25,7759,30,10.1055759,Saki Picture Drama,"['Comedy', 'Slice of Life']",0
+25,4581,31,10.0831992,Shikabane Hime: Aka,"['Action', 'Horror', 'Martial Arts']",5
+25,36548,32,10.0735727,Kokkoku,"['Psychological', 'Supernatural', 'Drama', 'Mystery', 'Seinen']",2
+25,10351,33,9.99412981,Tenchi Muyou! Ryououki 2nd Season Picture Drama,"['Comedy', 'Sci-Fi', 'Shounen', 'Space']",0
+25,33242,34,9.99412981,IS: Infinite Stratos 2 - Infinite Wedding,"['Harem', 'Comedy', 'Romance']",0
+25,10180,35,9.99412981,Otome Youkai Zakuro Picture Drama,"['Romance', 'Supernatural', 'Demons', 'Historical', 'Seinen']",0
+25,469,36,9.79936403,Karin,"['Comedy', 'Romance', 'Vampire', 'School', 'Shounen']",0
+25,2813,37,9.76846689,Chiisana Ahiru no Ooki na Ai no Monogatari: Ahiru no Kwak,"['Adventure', 'Fantasy', 'Comedy', 'Drama', 'Kids']",0
+25,260,38,9.71357507,Happy‚òÜLesson (TV),"['Comedy', 'Drama', 'Harem', 'Romance', 'Slice of Life']",0
+25,38963,39,9.67406784,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.: Menma e no Tegami,"['Comedy', 'Drama']",0
+25,38000,40,9.65645277,Kimetsu no Yaiba,"['Action', 'Demons', 'Historical', 'Shounen', 'Supernatural']",0
+25,1071,41,9.61176629,Memories Off #5 Togireta Film The Animation,"['Romance', 'Drama']",0
+25,38101,42,9.59251088,5-toubun no Hanayome,"['Harem', 'Comedy', 'Romance', 'School', 'Shounen']",0
+25,819,43,9.50110954,Boku wa Imouto ni Koi wo Suru,"['Romance', 'Shoujo']",4
+25,2546,44,9.43661441,Alps Monogatari: Watashi no Annette,"['Slice of Life', 'Historical', 'Drama']",3
+25,2495,45,9.4111377,Chance Triangle Session,"['Slice of Life', 'Music', 'Drama']",0
+25,1865,46,9.31837488,Getsumen To Heiki Mina,"['Comedy', 'Parody', 'Sci-Fi']",0
+25,8726,47,9.3105777,Soredemo Machi wa Mawatteiru,"['Slice of Life', 'Comedy', 'Seinen']",0
+25,31680,48,9.29666777,Super Lovers,"['Slice of Life', 'Comedy', 'Drama', 'Romance', 'Shounen Ai']",2
+25,1975,49,9.29462579,Mutekiou Tri-Zenon,"['Mecha', 'Sci-Fi']",1
+25,33156,50,9.27790149,Code Geass: Hangyaku no Lelouch R2 Picture Drama - Last Moratorium,"['Comedy', 'School', 'Slice of Life']",0
+25,23,51,9.10080042,Ring ni Kakero 1,"['Action', 'Shounen', 'Sports']",3
+25,2817,52,9.10077252,Cinderella Monogatari,"['Adventure', 'Kids', 'Romance', 'Fantasy']",3
+25,10521,53,8.96825602,Working'!!,"['Comedy', 'Romance', 'Seinen', 'Slice of Life']",3
+25,1218,54,8.94569684,Tonagura!,"['Comedy', 'Drama', 'Ecchi', 'Romance', 'School']",0
+25,1721,55,8.91290577,Hitohira,"['Drama', 'Romance', 'School', 'Seinen', 'Slice of Life']",0
+25,1485,56,8.87001544,Akachan to Boku,"['Comedy', 'Drama', 'Shoujo']",4
+25,1824,57,8.86465776,Hadashi no Gen,"['Drama', 'Historical']",0
+25,35608,58,8.86237094,Chuunibyou demo Koi ga Shitai! Movie: Take On Me,"['Comedy', 'Drama', 'Romance', 'School', 'Slice of Life']",0
+25,30363,59,8.83249224,Shinmai Maou no Testament Burst,"['Action', 'Ecchi', 'Fantasy', 'Romance', 'Harem', 'Demons']",5
+25,1043,60,8.83249224,Tokyo Babylon,"['Action', 'Magic', 'Mystery', 'Supernatural']",0
+25,8518,61,8.82610034,Mai-Otome Special: Otome no Inori,"['School', 'Slice of Life']",0
+25,20541,62,8.79328367,Mikakunin de Shinkoukei,"['Slice of Life', 'Comedy', 'Romance', 'School']",2
+25,3005,63,8.69462118,Shadow Skill,"['Adventure', 'Drama', 'Fantasy', 'Shounen']",4
+25,23233,64,8.65295248,Shinmai Maou no Testament,"['Action', 'Ecchi', 'Fantasy', 'Romance', 'Harem', 'Demons']",5
+25,30127,65,8.64141867,Danchigai,"['Comedy', 'Slice of Life']",5
+25,14075,66,8.62801345,Zetsuen no Tempest,"['Action', 'Mystery', 'Psychological', 'Drama', 'Magic', 'Fantasy', 'Shounen']",0
+25,104,67,8.6052514,Ayashi no Ceres,"['Adventure', 'Comedy', 'Horror', 'Psychological', 'Supernatural', 'Drama', 'Romance', 'Shoujo']",2
+25,13659,68,8.60132784,Ore no Imouto ga Konnani Kawaii Wake ga Nai.,"['Comedy', 'Romance', 'Slice of Life']",4
+25,148,69,8.57554114,Kita e.: Diamond Dust Drops,"['Drama', 'Romance', 'Slice of Life']",0
+25,15043,70,8.55083902,Haitai Nanafa,"['Comedy', 'Supernatural']",1
+25,31646,71,8.51081253,3-gatsu no Lion,"['Drama', 'Game', 'Seinen', 'Slice of Life']",0
+25,8769,72,8.45815583,Ore no Imouto ga Konnani Kawaii Wake ga Nai,"['Slice of Life', 'Comedy']",4
+25,32998,73,8.42741761,91 Days,"['Action', 'Drama', 'Historical']",0
+25,2559,74,8.3701288,Romeo no Aoi Sora,"['Adventure', 'Drama', 'Historical', 'Slice of Life']",0
+25,62,75,8.30630318,D.C.: Da Capo,"['Harem', 'Drama', 'Magic', 'Romance']",0
+25,2029,76,8.28304398,Sirius no Densetsu,"['Drama', 'Fantasy', 'Romance']",5
+25,4936,77,8.24544849,Ninja Hattori-kun,"['Slice of Life', 'Comedy', 'Martial Arts', 'Shounen']",0
+25,9181,78,8.19032919,Motto To LOVE-Ru,"['Sci-Fi', 'Harem', 'Comedy', 'Ecchi', 'School', 'Shounen']",0
+25,1032,79,8.18812756,Kumo no You ni Kaze no You ni,"['Adventure', 'Historical', 'Drama', 'Romance']",0
+25,36654,80,8.11477701,Tsukumogami Kashimasu,"['Slice of Life', 'Comedy', 'Historical', 'Demons', 'Supernatural']",1
+25,795,81,8.08985022,Oniisama e...,"['Psychological', 'Drama', 'School', 'Shoujo', 'Shoujo Ai']",1
+25,4181,82,8.08777523,Clannad: After Story,"['Slice of Life', 'Comedy', 'Supernatural', 'Drama', 'Romance']",0
+25,5163,83,8.07318633,Code Geass: Hangyaku no Lelouch R2 Picture Drama,"['Comedy', 'Ecchi', 'Slice of Life']",0
+25,11597,84,8.06306827,Nisemonogatari,"['Mystery', 'Comedy', 'Supernatural', 'Ecchi']",0
+25,825,85,8.04278929,King of Fighters: Another Day,"['Adventure', 'Drama', 'Shounen']",0
+25,11179,86,7.98046143,Papa no Iukoto wo Kikinasai!,"['Comedy', 'Romance', 'Slice of Life']",3
+25,1198,87,7.97203793,Tsuyokiss,"['Comedy', 'Romance', 'School', 'Slice of Life']",0
+25,6211,88,7.94965234,Tokyo Magnitude 8.0,['Drama'],4
+25,4725,89,7.90760458,Ga-Rei: Zero,"['Action', 'Super Power', 'Supernatural', 'Thriller']",1
+25,1640,90,7.83805554,Angel's Feather,"['Sci-Fi', 'Supernatural', 'Drama', 'Romance', 'Fantasy', 'Shounen Ai']",2
+25,1602,91,7.81772189,Soukou no Strain,"['Drama', 'Ecchi', 'Mecha', 'Military', 'Sci-Fi', 'Space']",0
+25,35413,92,7.797952,Imouto sae Ireba Ii.,"['Comedy', 'Romance']",4
+25,31376,93,7.62924972,Flying Witch,"['Slice of Life', 'Comedy', 'Supernatural', 'Magic', 'Shounen']",0
+25,149,94,7.5933887,Loveless,"['Action', 'Mystery', 'Supernatural', 'Drama', 'Romance', 'Fantasy', 'Josei', 'Shounen Ai']",1
+25,39195,95,7.56756967,Beastars,"['Slice of Life', 'Psychological', 'Drama', 'Shounen']",0
+25,29974,96,7.5267044,"Diabolik Lovers More,Blood","['Harem', 'School', 'Shoujo', 'Vampire']",1
+25,5941,97,7.46609792,Cross Game,"['Comedy', 'Drama', 'Romance', 'School', 'Shounen', 'Sports']",1
+25,12131,98,7.46383297,30-sai no Hoken Taiiku Specials,"['Ecchi', 'Parody', 'Romance', 'Seinen']",0
+25,9776,99,7.4478929,A-Channel,"['Comedy', 'School', 'Seinen', 'Slice of Life']",0
+25,4189,100,7.4478929,Fuyu no Sonata,"['Drama', 'Romance']",0
+25,2800,101,7.41864908,Candy Candy,"['Slice of Life', 'Drama', 'Shoujo']",2
+25,33850,102,7.37774788,Nil Admirari no Tenbin,"['Fantasy', 'Historical', 'Josei', 'Romance']",2
+25,60,103,7.36653488,Chrno Crusade,"['Action', 'Demons', 'Historical', 'Romance', 'Shounen', 'Supernatural']",4
+25,1661,104,7.32152829,Cutey Honey,"['Action', 'Sci-Fi', 'School']",0
+25,34076,105,7.31489126,Uchouten Kazoku 2,"['Comedy', 'Demons', 'Drama', 'Fantasy', 'Slice of Life']",2
+25,28,106,7.27435377,Yakitate!! Japan,"['Comedy', 'Shounen']",4
+25,1209,107,7.22601358,Nasu: Andalusia no Natsu,"['Action', 'Sports', 'Seinen']",3
+25,315,108,7.21084386,Xiao Qian,"['Action', 'Drama', 'Fantasy', 'Romance']",0
+25,35330,109,7.21084386,Poputepipikku,"['Comedy', 'Parody', 'Dementia']",0
+25,1029,110,7.17929673,Omoide Poroporo,"['Slice of Life', 'Drama', 'Romance']",0
+25,19613,111,7.17561761,New Initial D Movie: Legend 1 - Kakusei,"['Action', 'Cars', 'Seinen', 'Sports']",3
+25,28283,112,7.16745402,Sengoku Musou,"['Action', 'Historical', 'Samurai']",3
+25,30251,113,7.15392071,Venus Project: Climax,"['Action', 'Music']",0
+25,1852,114,7.10638002,Hidamari Sketch,"['Slice of Life', 'Comedy', 'School', 'Seinen']",3
+25,31678,115,7.09788924,Long Zhi Gu: Jingling Wangzuo,"['Action', 'Adventure', 'Magic', 'Fantasy']",0
+25,1742,116,7.08961254,Souryuuden,"['Mystery', 'Super Power', 'Supernatural', 'Drama']",2
+25,13663,117,7.07234882,To LOVE-Ru Darkness,"['Comedy', 'Ecchi', 'Harem', 'Romance', 'School', 'Sci-Fi', 'Shounen']",3
+25,7668,118,6.9884188,Suki Desu Suzuki-kun!!,['Romance'],0
+25,19367,119,6.9785245,Galilei Donna,"['Action', 'Sci-Fi', 'Adventure']",2
+25,9587,120,6.97307425,Oniichan no Koto nanka Zenzen Suki ja Nai n da kara ne!!,"['Harem', 'Comedy', 'Romance', 'Ecchi']",5
+25,543,121,6.95448963,Vampire Hunter D (2000),"['Action', 'Sci-Fi', 'Horror', 'Drama', 'Romance', 'Vampire', 'Fantasy']",0
+25,121,122,6.91338404,Fullmetal Alchemist,"['Action', 'Adventure', 'Comedy', 'Drama', 'Fantasy', 'Magic', 'Military', 'Shounen']",3
+25,21497,123,6.89748748,Sengoku Musou SP: Sanada no Shou,"['Action', 'Historical', 'Samurai']",3
+25,309,124,6.89058038,Akahori Gedou Hour Rabuge,"['Comedy', 'Magic', 'Parody']",0
+25,2931,125,6.84503198,Mokke,"['Slice of Life', 'Supernatural', 'Mystery']",3
+25,28979,126,6.83171836,To LOVE-Ru Darkness 2nd,"['Comedy', 'Ecchi', 'Harem', 'Romance', 'School', 'Sci-Fi', 'Shounen']",3
+25,1087,127,6.83171836,Kimagure Orange‚òÜRoad,"['Comedy', 'Drama', 'Romance', 'School', 'Shounen', 'Slice of Life', 'Super Power']",0
+25,2523,128,6.83171836,Izumo: Takeki Tsurugi no Senki,"['Adventure', 'Drama', 'Fantasy', 'Martial Arts', 'Romance', 'Supernatural']",2
+25,2963,129,6.76267202,Minami-ke,"['Slice of Life', 'Comedy', 'School']",2
+25,14511,130,6.73565737,Minami-ke Tadaima,"['Comedy', 'School', 'Slice of Life']",2
+25,4061,131,6.72087374,Grimm Masterpiece Theater II,"['Adventure', 'Comedy', 'Fantasy', 'Kids', 'Magic']",0
+25,1219,132,6.70885769,Chocotto Sister,"['Comedy', 'Drama', 'Romance', 'Ecchi']",5
+25,11239,133,6.65618245,Hidamari Sketch x Honeycomb,"['Slice of Life', 'Comedy', 'School', 'Seinen']",0
+25,10219,134,6.65062817,Oniichan no Koto nanka Zenzen Suki ja Nai n da kara ne!! Special,"['Comedy', 'Romance', 'Ecchi']",0
+25,21773,135,6.6316983,Sugar*Soldier,['Shoujo'],3
+25,1953,136,6.58234211,Code Geass: Hangyaku no Lelouch Picture Drama,"['Comedy', 'School', 'Slice of Life']",0
+25,19815,137,6.56002482,No Game No Life,"['Game', 'Adventure', 'Comedy', 'Supernatural', 'Ecchi', 'Fantasy']",1
+25,4999,138,6.53033832,Asu no Yoichi!,"['Harem', 'Comedy', 'Romance', 'Ecchi', 'Martial Arts', 'Shounen']",0
+25,4060,139,6.51445199,Grimm Masterpiece Theater,"['Adventure', 'Comedy', 'Kids', 'Magic', 'Fantasy']",0
+25,1655,140,6.50772279,Nerima Daikon Brothers,"['Comedy', 'Music']",1
+25,9135,141,6.50772279,Fullmetal Alchemist: The Sacred Star of Milos,"['Action', 'Adventure', 'Comedy', 'Drama', 'Fantasy', 'Magic', 'Military', 'Shounen']",3
+25,5289,142,6.47627792,Beast Wars Second Chou Seimeitai Transformers: Lio Convoy Kiki Ippatsu! Movie,"['Action', 'Sci-Fi', 'Adventure']",0
+25,2718,143,6.44760569,Umi no Triton,"['Adventure', 'Fantasy', 'Shounen']",2
+25,2705,144,6.41102744,Bakusou Kyoudai Let's & Go,"['Adventure', 'Cars', 'Sports', 'Shounen']",1
+25,39592,145,6.4091644,Mobile Suit Gundam: The Origin - Advent of the Red Comet,"['Action', 'Military', 'Sci-Fi', 'Space', 'Mecha', 'Shounen']",4
+25,15813,146,6.40313776,Majokko Shimai no Yoyo to Nene,"['Fantasy', 'Magic']",2
+25,12431,147,6.39865486,Uchuu Kyoudai,"['Comedy', 'Sci-Fi', 'Seinen', 'Slice of Life', 'Space']",2
+25,508,148,6.35166897,Tottoko Hamtarou,"['Adventure', 'Comedy', 'Kids']",0
+25,30383,149,6.31792791,Classroom‚òÜCrisis,"['School', 'Sci-Fi']",0

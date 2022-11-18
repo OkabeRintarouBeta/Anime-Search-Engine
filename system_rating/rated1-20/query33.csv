@@ -1,0 +1,151 @@
+qid,docno,Rank,BM25 score,Title,label
+33,6023,0,12.4214058,Nogizaka Haruka no Himitsu: Purezza,0
+33,8899,1,11.7766194,Kaitei Shounen Marine,5
+33,7304,2,11.1953816,Detective Conan Movie 08: Time Travel of the Silver Sky,5
+33,35427,3,10.6810614,Animegataris,1
+33,6980,4,10.4167007,Kaidan Restaurant,5
+33,6280,5,10.2499775,Cat Shit One,0
+33,4903,6,10.1002684,Kyou no 5 no 2 (TV),0
+33,1367,7,10.0248885,Detective Conan Movie 08: Magician of the Silver Sky,2
+33,5298,8,9.54403907,Yu‚òÜGi‚òÜOh! 5D's: Shinkasuru Kettou! Stardust vs. Red Demon's,5
+33,781,9,9.47830123,Detective Conan Movie 03: The Last Wizard of the Century,2
+33,6383,10,9.02122261,Chargeman Ken!,4
+33,4059,11,8.92907413,"Clannad: Mou Hitotsu no Sekai, Tomoyo-hen",2
+33,4298,12,8.91987193,Futari no Joe,2
+33,2895,13,8.82767933,Kujiratori,5
+33,30649,14,8.65553502,Shin Atashin'chi,4
+33,2406,15,8.65433854,Sazae-san,4
+33,2514,16,8.60532542,Detective Conan OVA 04: Conan and Kid and Crystal Mother,5
+33,12711,17,8.54617347,Uta no‚òÜPrince-sama‚ô™ Maji Love 2000%,2
+33,1844,18,8.4347923,Clamp Gakuen Tanteidan,2
+33,30915,19,8.23377788,Kekkai Sensen: Soresaemo Saitei de Saikou na Hibi,2
+33,8609,20,8.08219508,Detective Conan OVA 10: Kid in Trap Island,5
+33,15359,21,8.08219508,Kyousou Giga (2012),4
+33,40228,22,8.06166143,Bananya: Fushigi na Nakama-tachi,5
+33,8115,23,7.99885843,Uchuu Show e Youkoso,3
+33,552,24,7.96345177,Digimon Adventure,5
+33,28479,25,7.93207559,Detective Conan Movie 19: The Hellfire Sunflowers,3
+33,34561,26,7.90908732,Re:Creators,2
+33,1978,27,7.85908785,Onkyo Seimeitai Noiseman,2
+33,34839,28,7.7923366,Sanrio Danshi,4
+33,19157,29,7.78231406,Youkai Watch,5
+33,17187,30,7.71405998,Koukaku Kidoutai Arise: Ghost in the Shell - Border:1 Ghost Pain,1
+33,6467,31,7.64796738,Detective Conan Movie 14: The Lost Ship in the Sky,1
+33,1500,32,7.64796738,Teizokurei Daydream,0
+33,9332,33,7.58593879,.hack//Quantum,1
+33,10012,34,7.58029135,Carnival Phantasm,2
+33,2513,35,7.38350759,Detective Conan OVA 03: Conan and Heiji and the Vanished Boy,4
+33,9047,36,7.36852852,Toaru Kagaku no Railgun: Misaka-san wa Ima Chuumoku no Mato Desu kara,0
+33,1339,37,7.19686186,Cool Devices,0
+33,12117,38,7.03260849,Detective Conan Movie 16: The Eleventh Striker,2
+33,2967,39,7.02775461,Saishuu Shiken Kujira,0
+33,1006,40,7.02775461,Tenchi Muyou! in Love,5
+33,24823,41,6.96906666,Days,2
+33,838,42,6.96220102,Narutaru: Mukuro Naru Hoshi Tama Taru Ko,3
+33,566,43,6.96220102,Tetsuwan Birdy,5
+33,715,44,6.90666278,Yume de Aetara,0
+33,589,45,6.84536657,Ginga Nagareboshi Gin,5
+33,8310,46,6.81902715,Magic Kaito,4
+33,1098,47,6.79600806,Samurai Girl Real Bout High School,4
+33,1127,48,6.79600806,UFO Princess Valkyrie,0
+33,24031,49,6.58637899,Denki-gai no Honya-san,1
+33,234,50,6.44497522,Dan Doh!!,5
+33,34471,51,6.44089838,Youkai Watch Movie 4: Shadow Side - Oni-ou no Fukkatsu,5
+33,6399,52,6.39228681,Higashi no Eden: Falling Down,3
+33,3010,53,6.39156832,Kaiketsu Zorro,5
+33,1400,54,6.33903927,Macross 7 Movie: Ginga ga Ore wo Yondeiru!,5
+33,4240,55,6.29511132,Ginga Senpuu Braiger,2
+33,3883,56,6.2873666,YU-NO,0
+33,406,57,6.20366366,Buzzer Beater,4
+33,1132,58,6.20366366,Digimon Frontier,4
+33,5830,59,6.11483484,Tsurupika Hagemaru-kun,5
+33,1218,60,6.11483484,Tonagura!,0
+33,46,61,6.0888341,Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Chinkonka,4
+33,40480,62,6.01521395,Sound & Fury,1
+33,354,63,5.99419648,UG‚òÜUltimate Girls,0
+33,1021,64,5.94797237,Kaikan Phrase,1
+33,1865,65,5.94537565,Getsumen To Heiki Mina,0
+33,6945,66,5.94012811,Gintama: Shiroyasha Koutan,0
+33,9581,67,5.92966076,MM! Specials,0
+33,1962,68,5.90245571,Chikyuu Bouei Kazoku,1
+33,2044,69,5.90245571,Mahou no Tenshi Creamy Mami,1
+33,28149,70,5.89110369,Nihon Animator Mihonichi,0
+33,1368,71,5.86298278,Detective Conan OVA 06: Follow the Vanished Diamond! Conan & Heiji vs. Kid!,5
+33,1324,72,5.85763039,Earthian,5
+33,4966,73,5.85668264,Jigazou,2
+33,18799,74,5.85668264,Take Your Way,0
+33,1506,75,5.82301067,Detective Conan Movie 10: Requiem of the Detectives,5
+33,13029,76,5.82086308,Arashi no Yoru ni: Himitsu no Tomodachi,5
+33,4813,77,5.785479,Lolita Anime,0
+33,9988,78,5.76999171,Otome wa Boku ni Koishiteru: Futari no Elder The Animation,1
+33,4107,79,5.74876839,Tengen Toppa Gurren Lagann Movie 1: Gurren-hen,5
+33,3203,80,5.74467955,Chibi Maruko-chan Movie,5
+33,1797,81,5.70283951,Animation Seisaku Shinkou Kuromi-chan,1
+33,1784,82,5.68493678,Injuu Nerawareta Hanayome,0
+33,1992,83,5.68493678,Chou Kousoku Gran Doll,2
+33,12449,84,5.68186167,Maken-Ki! Specials,0
+33,1196,85,5.64814245,Masuda Kousuke Gekijou Gag Manga Biyori,0
+33,32491,86,5.64334277,Kanojo to Kanojo no Neko: Everything Flows,1
+33,2051,87,5.64334277,Akai Kiba: Blue Sonnet,4
+33,25517,88,5.63105614,Magic Kaito 1412,3
+33,3302,89,5.63105614,Megachu!,0
+33,6935,90,5.61314877,Enkinhou no Hako: Hakase no Sagashimono,0
+33,25519,91,5.59417395,Yuuki Yuuna wa Yuusha de Aru,2
+33,2286,92,5.56935309,Little Nemo,3
+33,981,93,5.56195436,Ichigo 100% OVA,0
+33,30127,94,5.56195436,Danchigai,1
+33,1247,95,5.55777175,Project BLUE Chikyuu SOS,2
+33,33010,96,5.55777175,FLCL Progressive,3
+33,3444,97,5.55425053,The‚òÜUltraman,3
+33,11917,98,5.54934409,Major: World Series,3
+33,1743,99,5.52184024,Super Milk-chan,2
+33,17739,100,5.49017053,Hidamari Sketch: Sae Hiro Sotsugyou-hen,2
+33,37655,101,5.49017053,Sword Gai The Animation Part II,2
+33,17409,102,5.49017053,Sukitte Ii na yo.: Mei and Marshmallow,3
+33,34720,103,5.49017053,In Search of Axis,0
+33,33811,104,5.49017053,Teekyuu 8,4
+33,35370,105,5.49017053,Teekyuu 9,4
+33,31560,106,5.49017053,Miss Monochrome The Animation 3,4
+33,10445,107,5.49017053,Perfect Day,1
+33,1885,108,5.48378049,Master of Epic: The Animation Age,1
+33,29619,109,5.48378049,Good-by Marilyn,1
+33,25875,110,5.45394271,"Wake Up, Girl Zoo!",4
+33,461,111,5.45394271,One Piece Movie 3: Chinjuu-jima no Chopper Oukoku,4
+33,7705,112,5.44197279,Starry‚òÜSky,0
+33,18391,113,5.42755227,Mini Van,3
+33,8986,114,5.42130708,Supernatural The Animation,0
+33,35044,115,5.3826431,Tu Bian Ying Xiong Leaf,2
+33,2964,116,5.36839655,Blue Drop: Tenshi-tachi no Gikyoku,0
+33,2825,117,5.36839655,Arabian Nights: Sindbad no Bouken (TV),3
+33,12783,118,5.36634629,Sora no Otoshimono Final: Eternal My Master,0
+33,27927,119,5.36634629,Urawa no Usagi-chan,2
+33,36119,120,5.36634629,Uma no Friends,3
+33,39539,121,5.34893349,No Guns Life,0
+33,10165,122,5.33129043,Nichijou,4
+33,2594,123,5.31564348,Piano no Mori,2
+33,13561,124,5.30650534,Guilty Crown: 4-koma Gekijou,2
+33,40151,125,5.30650534,Shao Nu Qian Xian Ren Xing Xiao Ju Chang,2
+33,19919,126,5.30650534,Tesagure! Bukatsumono,2
+33,7017,127,5.30650534,K-On!: Ura-On!,3
+33,7295,128,5.30650534,Koi Tsubomi,5
+33,13859,129,5.30650534,Accel World: Acchel World.,4
+33,4458,130,5.30202667,Bavel no Hon,2
+33,1812,131,5.30202667,Hanoka,5
+33,30384,132,5.30202667,Miss Monochrome The Animation 2,4
+33,6941,133,5.29979016,Toriko: Jump Super Anime Tour 2009 Special,3
+33,1070,134,5.28092806,Love Get Chu,2
+33,2151,135,5.2726534,Nils no Fushigi na Tabi,2
+33,29617,136,5.2726534,Good-by Elvis and USA,5
+33,2722,137,5.25029129,Crusher Joe,0
+33,6884,138,5.24798426,Ookami to Koushinryou II Specials,3
+33,28381,139,5.24798426,Monster High: Kowa-ike Girls,5
+33,11543,140,5.24798426,Hate You,0
+33,13267,141,5.24798426,Shinryaku!! Ika Musume,4
+33,9203,142,5.24798426,K-On!!: Ura-On!!,3
+33,3906,143,5.24798426,H. P. Lovecraft's The Dunwich Horror and Other Stories,0
+33,12669,144,5.24798426,Amagami SS+ Plus Specials,0
+33,11237,145,5.22298724,Hidamari Sketch x SP,3
+33,38578,146,5.22298724,Star‚òÜTwinkle Precure,2
+33,15961,147,5.21487252,Shakotan‚òÖBoogie,4
+33,9591,148,5.19073987,Code Geass: Hangyaku no Lelouch R2 Omake Flash,4
+33,983,149,5.19073987,Cosplay Complex: Extra Identification,0

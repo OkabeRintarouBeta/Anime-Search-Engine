@@ -1,0 +1,151 @@
+qid,docno,Rank,BM25 score,Title,Genre,label
+22,6234,6234,6234,True Tears Specials,"['Comedy', 'Parody', 'School']",3
+22,3335,3335,3335,Haikara-san ga Tooru,"['Drama', 'Historical', 'Romance', 'Shoujo', 'Slice of Life']",2
+22,37779,37779,37779,Yakusoku no Neverland,"['Sci-Fi', 'Mystery', 'Horror', 'Psychological', 'Thriller', 'Shounen']",5
+22,10020,10020,10020,Ore no Imouto ga Konnani Kawaii Wake ga Nai Specials,"['Slice of Life', 'Comedy']",0
+22,275,275,275,Love‚ô•Love?,"['Ecchi', 'Comedy', 'Harem', 'Romance']",1
+22,28725,28725,28725,Kokoro ga Sakebitagatterunda.,"['Drama', 'Romance', 'School']",0
+22,31519,31519,31519,Anitore! EX,"['Comedy', 'Sports']",1
+22,1634,1634,1634,Ai Shimai: Futari no Kajitsu,['Hentai'],0
+22,38062,38062,38062,Endro~!,"['Fantasy', 'Magic', 'Slice of Life']",0
+22,9745,9745,9745,Sengoku Basara Movie: The Last Party,"['Action', 'Historical', 'Martial Arts', 'Samurai', 'Super Power']",1
+22,33027,33027,33027,Infini-T Force,"['Action', 'Sci-Fi', 'Super Power']",4
+22,34539,34539,34539,Saint Seiya: Saintia Shou,"['Action', 'Adventure', 'Seinen']",2
+22,8190,8190,8190,Nodame Cantabile: Finale OVA,"['Comedy', 'Romance', 'Josei']",0
+22,30321,30321,30321,Strike the Blood: Valkyria no Oukoku-hen,"['Action', 'Supernatural', 'Ecchi', 'Vampire', 'Fantasy', 'School', 'Shounen']",2
+22,6171,6171,6171,Saint Seiya: The Lost Canvas - Meiou Shinwa,"['Action', 'Adventure', 'Martial Arts', 'Shounen', 'Super Power', 'Supernatural']",0
+22,189,189,189,Love Hina,"['Comedy', 'Ecchi', 'Harem', 'Romance', 'Shounen', 'Slice of Life']",0
+22,3210,3210,3210,Ikoku Irokoi Romantan,"['Comedy', 'Romance', 'Yaoi']",3
+22,31715,31715,31715,Working!!!: Lord of the Takanashi,"['Comedy', 'Romance', 'Seinen', 'Slice of Life']",5
+22,667,667,667,Kashimashi: Girl Meets Girl,"['Comedy', 'Drama', 'Romance', 'School', 'Shoujo Ai', 'Slice of Life']",1
+22,221,221,221,Mezzo Forte,"['Action', 'Comedy', 'Hentai', 'Sci-Fi']",2
+22,33011,33011,33011,Kaijuu Girls: Ultra Kaijuu Gijinka Keikaku,"['Comedy', 'Parody', 'Fantasy']",1
+22,35994,35994,35994,Satsuriku no Tenshi,"['Adventure', 'Horror', 'Psychological', 'Thriller']",5
+22,16049,16049,16049,Toaru Kagaku no Railgun S,"['Action', 'Sci-Fi', 'Super Power']",3
+22,315,315,315,Xiao Qian,"['Action', 'Drama', 'Fantasy', 'Romance']",1
+22,283,283,283,Akage no Anne,"['Drama', 'Historical', 'Slice of Life']",2
+22,32603,32603,32603,Okusama ga Seitokaichou!+!,"['Comedy', 'Romance', 'Ecchi', 'School', 'Shounen']",1
+22,2934,2934,2934,Shiawase Sou no Okojo-san,['Comedy'],1
+22,2828,2828,2828,Ie Naki Ko,"['Adventure', 'Drama', 'Historical', 'Kids', 'Slice of Life']",2
+22,1560,1560,1560,Choujin Gakuen Gowcaizer: The Voltage Fighters,"['Action', 'Sci-Fi', 'Ecchi', 'Martial Arts', 'Shounen']",1
+22,7739,7739,7739,11eyes: Momoiro Genmutan,"['Ecchi', 'Comedy', 'Super Power', 'Supernatural']",1
+22,29974,29974,29974,"Diabolik Lovers More,Blood","['Harem', 'School', 'Shoujo', 'Vampire']",1
+22,5220,5220,5220,Shangri-La,"['Action', 'Drama', 'Sci-Fi']",4
+22,2603,2603,2603,Mushi-Uta,"['Action', 'Sci-Fi', 'Fantasy']",1
+22,577,577,577,Kagi Hime Monogatari: Eikyuu Alice Rondo,"['Fantasy', 'Magic']",4
+22,10937,10937,10937,Mobile Suit Gundam: The Origin,"['Action', 'Mecha', 'Military', 'Sci-Fi', 'Shounen', 'Space']",3
+22,11079,11079,11079,Kill Me Baby,"['Comedy', 'School', 'Seinen']",0
+22,15451,15451,15451,High School DxD New,"['Action', 'Harem', 'Comedy', 'Demons', 'Romance', 'Ecchi', 'School']",1
+22,3079,3079,3079,Aoki Ryuusei SPT Layzner,"['Space', 'Mecha', 'Military', 'Sci-Fi']",4
+22,239,239,239,Gankutsuou,"['Drama', 'Mystery', 'Sci-Fi', 'Supernatural', 'Thriller']",4
+22,10191,10191,10191,Katte ni Kaizou,"['Comedy', 'Parody', 'School', 'Sci-Fi', 'Shounen']",1
+22,16904,16904,16904,K: Missing Kings,"['Action', 'Super Power', 'Supernatural']",5
+22,5830,5830,5830,Tsurupika Hagemaru-kun,"['Kids', 'Comedy']",0
+22,1604,1604,1604,Katekyo Hitman Reborn!,"['Action', 'Comedy', 'Shounen', 'Super Power']",1
+22,24625,24625,24625,Gundam Build Fighters Try,"['Action', 'Sci-Fi', 'Mecha']",4
+22,6213,6213,6213,Toaru Kagaku no Railgun,"['Action', 'Sci-Fi', 'Super Power']",3
+22,5112,5112,5112,Akikan!,"['Comedy', 'Ecchi', 'Fantasy', 'Romance']",1
+22,3467,3467,3467,Nogizaka Haruka no Himitsu,"['Comedy', 'Romance']",1
+22,33814,33814,33814,Ao Oni The Animation,"['Comedy', 'Horror']",3
+22,2959,2959,2959,Utsukushiki Sei no Dendoushi Reirei,"['Hentai', 'Yuri']",0
+22,24455,24455,24455,Madan no Ou to Vanadis,"['Adventure', 'Ecchi', 'Fantasy', 'Harem', 'Romance']",3
+22,7054,7054,7054,Kaichou wa Maid-sama!,"['Comedy', 'Romance', 'School', 'Shoujo']",1
+22,1166,1166,1166,Sakura Taisen: Gouka Kenran,"['Adventure', 'Mecha', 'Sci-Fi', 'Shounen']",0
+22,732,732,732,Vampire Hunter D,"['Action', 'Sci-Fi', 'Horror', 'Supernatural', 'Vampire']",3
+22,32998,32998,32998,91 Days,"['Action', 'Drama', 'Historical']",5
+22,33003,33003,33003,Mahou Shoujo Ikusei Keikaku,"['Action', 'Supernatural', 'Magic', 'Thriller', 'Fantasy']",1
+22,550,550,550,Yu‚òÜGi‚òÜOh!,"['Action', 'Game', 'Comedy', 'Fantasy', 'Shounen']",0
+22,3558,3558,3558,Doukyuusei (OVA): Natsu no Owari ni,"['Drama', 'Harem', 'Hentai', 'Romance']",0
+22,21569,21569,21569,Pokemon Movie 17: Hakai no Mayu to Diancie,"['Adventure', 'Kids', 'Fantasy']",0
+22,28805,28805,28805,Bakemono no Ko,"['Adventure', 'Supernatural']",3
+22,13663,13663,13663,To LOVE-Ru Darkness,"['Comedy', 'Ecchi', 'Harem', 'Romance', 'School', 'Sci-Fi', 'Shounen']",0
+22,3509,3509,3509,Riki-Oh: Toukatsu Jigoku,"['Action', 'Martial Arts', 'Super Power', 'Seinen']",1
+22,3074,3074,3074,Minerva no Kenshi,"['Fantasy', 'Hentai']",0
+22,2666,2666,2666,Doraemon Movie 10: Nobita no Nippon Tanjou,"['Adventure', 'Comedy', 'Fantasy', 'Kids', 'Shounen']",0
+22,351,351,351,Ojamajo Doremi Sharp,"['Comedy', 'Magic', 'Shoujo']",1
+22,17187,17187,17187,Koukaku Kidoutai Arise: Ghost in the Shell - Border:1 Ghost Pain,"['Sci-Fi', 'Police', 'Psychological', 'Mecha']",4
+22,34776,34776,34776,Eureka Seven AO Final Episode: One More Time - Lord Don't Slow Me Down,"['Action', 'Adventure', 'Drama', 'Mecha', 'Sci-Fi']",0
+22,24655,24655,24655,Date A Live Movie: Mayuri Judgment,"['Harem', 'Romance', 'Sci-Fi']",0
+22,1572,1572,1572,Jungle Taitei,"['Adventure', 'Kids', 'Shounen']",0
+22,586,586,586,Ayakashi: Japanese Classic Horror,"['Mystery', 'Historical', 'Horror', 'Fantasy']",4
+22,4024,4024,4024,Sanrio Anime Sekai Meisaku Gekijou,"['Adventure', 'Fantasy', 'Kids']",0
+22,19151,19151,19151,Walkure Romanze,"['Action', 'Ecchi', 'Romance', 'Harem', 'School', 'Sports']",1
+22,36990,36990,36990,Non Non Biyori Movie: Vacation,"['Comedy', 'Slice of Life', 'Seinen']",1
+22,32,32,32,Neon Genesis Evangelion: The End of Evangelion,"['Sci-Fi', 'Dementia', 'Psychological', 'Drama', 'Mecha']",4
+22,5460,5460,5460,Detective Conan Movie 13: The Raven Chaser,"['Action', 'Police', 'Mystery', 'Shounen']",3
+22,35466,35466,35466,ReLIFE: Kanketsu-hen,"['Romance', 'School', 'Slice of Life']",2
+22,5530,5530,5530,Pandora Hearts,"['Adventure', 'Fantasy', 'Mystery', 'Shounen', 'Supernatural']",3
+22,3927,3927,3927,Mobile Suit Gundam 00 Second Season,"['Action', 'Drama', 'Mecha', 'Military', 'Sci-Fi', 'Space']",1
+22,2486,2486,2486,Rumiko Takahashi Anthology,"['Comedy', 'Drama', 'Romance', 'Shounen', 'Slice of Life', 'Supernatural']",1
+22,10259,10259,10259,Da Yu Hai Tang (Movie),"['Adventure', 'Supernatural', 'Drama', 'Romance']",3
+22,8500,8500,8500,Haguregumo,"['Comedy', 'Historical', 'Samurai', 'Seinen']",1
+22,1283,1283,1283,Choujuu Densetsu Gestalt,"['Adventure', 'Comedy', 'Fantasy']",1
+22,37433,37433,37433,Wakaokami wa Shougakusei!,"['Comedy', 'Slice of Life', 'Supernatural']",0
+22,38145,38145,38145,"Doukyonin wa Hiza, Tokidoki, Atama no Ue.","['Slice of Life', 'Comedy']",1
+22,13587,13587,13587,Persona 4 the Animation: No One is Alone,"['Sci-Fi', 'Adventure', 'Mystery', 'Super Power', 'Supernatural', 'School']",1
+22,2895,2895,2895,Kujiratori,['Adventure'],1
+22,65,65,65,Rozen Maiden: Tr√§umend,"['Action', 'Comedy', 'Drama', 'Magic', 'Seinen']",3
+22,34471,34471,34471,Youkai Watch Movie 4: Shadow Side - Oni-ou no Fukkatsu,"['Demons', 'Kids', 'Supernatural']",1
+22,5272,5272,5272,Tondemo Nezumi Daikatsuyaku,['Adventure'],0
+22,1104,1104,1104,Shinkon Gattai Godannar!! 2nd Season,"['Ecchi', 'Comedy', 'Mecha', 'Romance', 'Sci-Fi']",0
+22,18149,18149,18149,Ishida to Asakura Special,"['Comedy', 'School', 'Seinen']",1
+22,12189,12189,12189,Hyouka,"['Mystery', 'School', 'Slice of Life']",1
+22,880,880,880,Aa! Megami-sama!: Sorezore no Tsubasa,"['Comedy', 'Magic', 'Romance', 'Seinen', 'Supernatural']",1
+22,35434,35434,35434,Konbini Kareshi,"['Slice of Life', 'Romance']",0
+22,10805,10805,10805,Kami nomi zo Shiru Sekai: 4-nin to Idol,"['Comedy', 'Music', 'Shounen', 'Supernatural']",0
+22,18661,18661,18661,Kamisama Hajimemashita OVA,"['Comedy', 'Demons', 'Supernatural', 'Romance', 'Fantasy', 'Shoujo']",0
+22,6736,6736,6736,Mouryou no Hako: Chuuzenji Atsuko no Jikenbo - Hako no Yurei no Koto,"['Mystery', 'Seinen', 'Supernatural', 'Thriller']",3
+22,2994,2994,2994,Death Note: Rewrite,"['Mystery', 'Police', 'Psychological', 'Supernatural', 'Thriller']",3
+22,19111,19111,19111,Love Live! School Idol Project 2nd Season,"['Music', 'School', 'Slice of Life']",2
+22,25567,25567,25567,DRAMAtical Murder: Data_xx_Transitory,"['Sci-Fi', 'Psychological', 'Drama', 'Shounen Ai']",0
+22,540,540,540,Tenchi Muyou! Ryououki 2nd Season,"['Action', 'Comedy', 'Harem', 'Sci-Fi', 'Shounen', 'Space']",0
+22,1706,1706,1706,Gun Frontier,"['Action', 'Adventure', 'Drama', 'Historical', 'Sci-Fi', 'Seinen']",3
+22,19685,19685,19685,Kanojo ga Flag wo Oraretara,"['Comedy', 'Harem', 'Romance', 'School']",0
+22,16700,16700,16700,Higurashi no Naku Koro ni Kaku: Outbreak,"['Horror', 'Mystery', 'Psychological', 'Thriller']",4
+22,9055,9055,9055,Tamayura,"['Slice of Life', 'Comedy', 'Drama']",0
+22,38731,38731,38731,Diamond no Ace: Act II,"['Comedy', 'Sports', 'School', 'Shounen']",1
+22,517,517,517,School Rumble: Ichi Gakki Hoshuu,"['Comedy', 'Romance', 'School', 'Shounen']",1
+22,3545,3545,3545,Kochira Katsushikaku Kameari Kouenmae Hashutsujo,"['Slice of Life', 'Comedy', 'Police']",1
+22,2557,2557,2557,Trapp Ikka Monogatari,"['Drama', 'Historical', 'Music', 'Romance']",1
+22,16239,16239,16239,One Piece: Episode of Luffy - Hand Island no Bouken,"['Action', 'Adventure', 'Comedy', 'Super Power', 'Fantasy', 'Shounen']",1
+22,36259,36259,36259,Pingu in the City,"['Comedy', 'Kids', 'Slice of Life']",1
+22,8358,8358,8358,Crayon Shin-chan Movie 01: Action Kamen vs. Haigure Maou,"['Action', 'Adventure', 'Comedy', 'Seinen']",1
+22,14267,14267,14267,Persona 4 the Animation: The Factor of Hope,"['Adventure', 'Mystery', 'Super Power', 'Supernatural', 'School']",2
+22,4015,4015,4015,School Rumble San Gakki,"['Comedy', 'Romance', 'School', 'Shounen']",0
+22,34566,34566,34566,Boruto: Naruto Next Generations,"['Action', 'Adventure', 'Martial Arts', 'Shounen', 'Super Power']",2
+22,1196,1196,1196,Masuda Kousuke Gekijou Gag Manga Biyori,"['Comedy', 'Parody']",0
+22,32561,32561,32561,Hai to Gensou no Grimgar: Furoagari no Kabe ni Kaketa Seishun - One More Centimeter,['Comedy'],0
+22,3007,3007,3007,Bronze: Kouji Nanjo Cathexis,"['Music', 'Shounen Ai']",1
+22,2840,2840,2840,Youkoso Lodoss-tou e!,"['Comedy', 'Parody']",1
+22,11979,11979,11979,Mahou Shoujo Madoka‚òÖMagica Movie 2: Eien no Monogatari,"['Drama', 'Magic', 'Psychological', 'Thriller']",4
+22,31339,31339,31339,Drifters,"['Action', 'Adventure', 'Comedy', 'Historical', 'Samurai', 'Fantasy', 'Seinen']",1
+22,6217,6217,6217,Crayon Shin-chan Movie 03: Unkokusai no Yabou,"['Sci-Fi', 'Comedy', 'Historical', 'Seinen']",1
+22,8063,8063,8063,Sekaiichi Hatsukoi OVA,"['Comedy', 'Drama', 'Romance', 'Shounen Ai']",1
+22,23201,23201,23201,Sengoku Basara: Judge End,"['Action', 'Super Power', 'Martial Arts', 'Samurai', 'Historical']",2
+22,33934,33934,33934,Trigger-chan,['Action'],0
+22,37449,37449,37449,Strike the Blood III,"['Action', 'Ecchi', 'Fantasy', 'Supernatural', 'Vampire']",0
+22,5658,5658,5658,Great Mazinger,"['Action', 'Mecha', 'Sci-Fi', 'Shounen']",3
+22,22359,22359,22359,Sanzoku no Musume Ronja,['Adventure'],1
+22,37086,37086,37086,Kakegurui√ó√ó,"['Drama', 'Game', 'Mystery', 'Psychological', 'School', 'Shounen']",4
+22,5494,5494,5494,Konnichiwa Anne: Before Green Gables,"['Drama', 'Historical', 'Kids', 'Slice of Life']",1
+22,4173,4173,4173,Shigofumi Picture Drama,['Comedy'],1
+22,1907,1907,1907,Harukanaru Toki no Naka de: Hachiyou Shou OVA,"['Fantasy', 'Comedy', 'Supernatural', 'Demons', 'Historical', 'Shoujo']",1
+22,23151,23151,23151,Shounen Hollywood: Holly Stage for 49,"['Music', 'Slice of Life', 'Shoujo']",1
+22,670,670,670,Lamune,"['Drama', 'Romance', 'Slice of Life']",3
+22,1023,1023,1023,Wolf's Rain OVA,"['Sci-Fi', 'Adventure', 'Psychological', 'Supernatural', 'Drama']",0
+22,715,715,715,Yume de Aetara,"['Comedy', 'Drama', 'Ecchi', 'Romance', 'Seinen']",1
+22,11769,11769,11769,Gokujo.: Gokurakuin Joshikou Ryou Monogatari,"['Comedy', 'Ecchi', 'School', 'Seinen', 'Shoujo Ai']",1
+22,21557,21557,21557,Omoide no Marnie,"['Mystery', 'Psychological', 'Drama']",4
+22,4814,4814,4814,Junjou Romantica 2,"['Comedy', 'Drama', 'Romance', 'Shounen Ai']",1
+22,8857,8857,8857,Nichijou: Nichijou no 0-wa,"['Slice of Life', 'Comedy', 'School', 'Shounen']",1
+22,28479,28479,28479,Detective Conan Movie 19: The Hellfire Sunflowers,"['Action', 'Mystery', 'Police', 'Shounen']",3
+22,12131,12131,12131,30-sai no Hoken Taiiku Specials,"['Ecchi', 'Parody', 'Romance', 'Seinen']",1
+22,10172,10172,10172,Freezing Specials,"['Action', 'Comedy', 'Ecchi']",0
+22,7169,7169,7169,Ibarahime Mata wa Nemurihime,"['Drama', 'Historical']",0
+22,2581,2581,2581,Mobile Suit Gundam 00,"['Action', 'Military', 'Sci-Fi', 'Space', 'Drama', 'Mecha']",3
+22,209,209,209,R.O.D: The TV,"['Action', 'Sci-Fi', 'Adventure', 'Comedy', 'Super Power', 'Drama']",2
+22,35255,35255,35255,Soutai Sekai,['Sci-Fi'],3
+22,5802,5802,5802,Fantascope: Tylostoma,"['Fantasy', 'Supernatural']",3
+22,30909,30909,30909,vivi,"['Adventure', 'Music', 'Romance', 'Fantasy']",0
+22,33726,33726,33726,Saiyuuki Reload Blast,"['Action', 'Adventure', 'Comedy', 'Supernatural', 'Drama', 'Josei']",1
+22,22777,22777,22777,Dragon Ball Kai (2014),"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Martial Arts', 'Shounen', 'Super Power']",1

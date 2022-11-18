@@ -1,0 +1,151 @@
+qid,docno,Rank,BM25 score,Title,label
+40,2236,0,13.509812,Toki wo Kakeru Shoujo,5
+40,9253,1,11.6846966,Steins;Gate,2
+40,2420,2,11.5698072,Spirit of Wonder: Shounen Kagaku Club,5
+40,5462,3,10.5034529,Top wo Nerae! Kagaku Kouza,5
+40,2389,4,10.0581045,Kagaku Ninja-tai Gatchaman,3
+40,3391,5,9.47413188,Maicching Machiko-sensei,0
+40,256,6,8.77584521,Hoshi no Koe,3
+40,286,7,8.65477453,B'T X,1
+40,170,8,8.54268991,Slam Dunk,0
+40,11743,9,8.39772141,Toaru Majutsu no Index Movie: Endymion no Kiseki,3
+40,37407,10,7.7106827,Penguin Highway,1
+40,545,11,7.65846948,Mousou Kagaku Series: Wandaba Style,3
+40,29589,12,7.4565014,Denpa Kyoushi (TV),0
+40,201,13,6.97621846,Video Girl Ai,0
+40,6213,14,6.95230226,Toaru Kagaku no Railgun,2
+40,226,15,6.95230226,Elfen Lied,3
+40,385,16,6.90982647,Gilgamesh,2
+40,878,17,6.89541759,Zegapain,4
+40,133,18,6.85571501,Green Green,0
+40,38707,19,6.70137378,RobiHachi,3
+40,121,20,6.62678015,Fullmetal Alchemist,3
+40,5690,21,6.51795222,Nodame Cantabile: Finale,0
+40,941,22,6.47469095,Renkin San-kyuu Magical? Pokaan,1
+40,38480,23,6.25967641,Toaru Kagaku no Accelerator,4
+40,1034,24,6.09111266,Ouritsu Uchuugun: Honneamise no Tsubasa,3
+40,11757,25,6.02336069,Sword Art Online,3
+40,2281,26,4.39701873,Jikuu Tantei Genshi-kun,5
+40,3115,27,4.21081021,Toki no Tabibito: Time Stranger,5
+40,3915,28,4.19242139,Time Bokan,5
+40,31054,29,4.15992587,"Letchu, Getchu, Saru Getchu",0
+40,29893,30,4.10901783,Aria The Avvenire,0
+40,295,31,4.06917981,Divergence Eve 2: Misaki Chronicles,4
+40,6951,32,4.04553861,Yu‚òÜGi‚òÜOh! Movie: Chou Yuugou! Toki wo Koeta Kizuna,5
+40,903,33,4.0379376,Dragon Ball Z Movie 10: Kiken na Futari! Super Senshi wa Nemurenai,1
+40,1652,34,4.01439348,Uchuu Senkan Yamato III,3
+40,11239,35,4.00096206,Hidamari Sketch x Honeycomb,1
+40,11307,36,4.00096206,Ginga Patrol PJ,0
+40,2162,37,3.95499536,Koutetsu Sangokushi,1
+40,1795,38,3.95178509,Dirty Pair: Bouryaku no 005-bin,3
+40,33026,39,3.92628932,Time Bokan 24,4
+40,37555,40,3.9069351,Hangyakusei Million Arthur,4
+40,1274,41,3.9006746,Injuu Gakuen EX,0
+40,648,42,3.89221047,Tsuki wa Higashi ni Hi wa Nishi ni: Operation Sanctuary,3
+40,29513,43,3.87869961,Aki no Kanade,0
+40,35250,44,3.87869961,Urahara,0
+40,6217,45,3.8344054,Crayon Shin-chan Movie 03: Unkokusai no Yabou,5
+40,781,46,3.82022142,Detective Conan Movie 03: The Last Wizard of the Century,3
+40,276,47,3.82022142,Mahoromatic: Automatic Maiden,1
+40,5191,48,3.79638989,Trouble Evocation,0
+40,11441,49,3.79638989,Rurouni Kenshin: Meiji Kenkaku Romantan - Shin Kyoto-hen,4
+40,2238,50,3.79322105,Fuyu no Semi,1
+40,215,51,3.79322105,Pia Carrot e Youkoso!! 2 DX,0
+40,1889,52,3.79216595,Higurashi no Naku Koro ni Kai,4
+40,610,53,3.77829218,Popotan,1
+40,8250,54,3.7144624,Soukou Kihei Votoms: Koei Futatabi,0
+40,16051,55,3.7114288,Ro-Kyu-Bu! SS,0
+40,1029,56,3.68394724,Omoide Poroporo,0
+40,443,57,3.67481052,Onegai‚òÜTeacher: Himitsu na Futari,0
+40,1915,58,3.65236258,Mahou Shoujo Lyrical Nanoha StrikerS,4
+40,1219,59,3.65236258,Chocotto Sister,0
+40,1917,60,3.63308943,Mobile Suit Gundam MS IGLOO: The Hidden One Year War,3
+40,4639,61,3.63308943,Gosenzo-sama Banbanzai!,4
+40,2089,62,3.61401861,Choujikuu Seiki Orguss,5
+40,6712,63,3.61401861,Natsu no Arashi! Akinaichuu,4
+40,30230,64,3.60675165,Diamond no Ace: Second Season,0
+40,6219,65,3.57647137,Nijiiro Hotaru: Eien no Natsuyasumi,5
+40,3078,66,3.56077666,Magical Twilight,0
+40,1606,67,3.52068148,Kekkaishi (TV),2
+40,9922,68,3.52068148,Oretachi ni Tsubasa wa Nai: Under the Innocent Sky.,0
+40,3841,69,3.50366979,Chi's Sweet Home,0
+40,9167,70,3.48860618,Shukufuku no Campanella Specials,0
+40,38920,71,3.48860618,Kochouki: Wakaki Nobunaga,0
+40,1689,72,3.48593015,Byousoku 5 Centimeter,0
+40,31722,73,3.48593015,Nanatsu no Taizai: Seisen no Shirushi,0
+40,19297,74,3.45360701,Ketsuekigata-kun! Featuring Yuri & Nasuno,0
+40,8302,75,3.45360701,Ladies versus Butlers! Specials,0
+40,1113,76,3.45098439,One: Kagayaku Kisetsu e - True Stories,0
+40,2216,77,3.43377294,Shigurui,1
+40,406,78,3.43377294,Buzzer Beater,0
+40,1914,79,3.41930312,Saiunkoku Monogatari 2nd Season,2
+40,11783,80,3.41673231,Dog Days',0
+40,34209,81,3.41587624,Meiji Tokyo Renka,4
+40,32899,82,3.40461511,Watashi ga Motete Dousunda,0
+40,2973,83,3.39985999,Fire Tripper,5
+40,8626,84,3.38567399,Good Morning,0
+40,31128,85,3.38567399,Arslan Senki (TV): Tsuioku no Shou - Dakkan no Yaiba,0
+40,24075,86,3.38315349,Persona 4 the Golden Animation,3
+40,32551,87,3.38231415,Digimon Adventure tri. 3: Kokuhaku,1
+40,9618,88,3.35269991,Asobi ni Iku yo!: Asobi ni Oide,0
+40,8487,89,3.35269991,Onigamiden,5
+40,835,90,3.35269991,Sister Princess: Re Pure,0
+40,9951,91,3.35022824,Jiu Se Lu,3
+40,1798,92,3.33857735,Animation Seisaku Shinkou Kuromi-chan 2,0
+40,8934,93,3.32781932,Star Driver: Kagayaki no Takuto,3
+40,1608,94,3.32036192,Salaryman Kintarou,0
+40,40369,95,3.32036192,Mini Yuri,0
+40,12481,96,3.32036192,Gregory Horror Show: The Second Guest,0
+40,39022,97,3.32036192,Ling Feng Zhe,0
+40,23209,98,3.31793769,Sora no Method,4
+40,6974,99,3.30650992,Seikimatsu Occult Gakuin,5
+40,14373,100,3.30202471,Arata naru Sekai: World's/Start/Load/End,5
+40,333,101,3.30202471,Mama wa Shougaku 4 Nensei,4
+40,2530,102,3.29595724,G-Taste,0
+40,8740,103,3.2886418,One Piece Film: Strong World Episode 0,0
+40,8768,104,3.2886418,Hiyokoi,0
+40,2609,105,3.2886418,Kakyuusei (TV),0
+40,893,106,3.2886418,Dragon Ball Movie 4: Saikyou e no Michi,0
+40,1824,107,3.28626365,Hadashi no Gen,1
+40,28539,108,3.28626365,Garo Movie: Divine Flame,3
+40,584,109,3.28626365,Noein: Mou Hitori no Kimi e,5
+40,2398,110,3.28547169,Digimon Adventure 02: Diablomon no Gyakushuu,0
+40,12403,111,3.27065232,Yuru Yuri‚ô™‚ô™,0
+40,1107,112,3.27065232,Youjuu Toshi,4
+40,1046,113,3.257522,Elf wo Karu Mono-tachi II,2
+40,21663,114,3.257522,Last Orders,0
+40,4935,115,3.257522,Ikkyuu-san,0
+40,1599,116,3.257522,Eat-Man '98,2
+40,37779,117,3.25518862,Yakusoku no Neverland,2
+40,2820,118,3.23987046,Time Travel Tondekeman!,4
+40,1513,119,3.22698564,Kaette Kita Court no Naka no Tenshi-tachi,0
+40,1102,120,3.22698564,Urda,2
+40,7579,121,3.22698564,Happy‚òÜLesson: Hoka Hoka‚òÖKanna to Futari Kiri,0
+40,10928,122,3.22698564,Nogizaka Haruka no Himitsu: Finale,0
+40,39569,123,3.22469579,Sora no Aosa wo Shiru Hito yo,5
+40,31221,124,3.22469579,Tantei Team KZ Jiken Note,3
+40,1087,125,3.2096626,Kimagure Orange‚òÜRoad,0
+40,1896,126,3.19701646,Akibakei Kanojo,0
+40,40477,127,3.19701646,Curry Meshi x Zombieland Saga,0
+40,2882,128,3.19701646,Anime Oyako Gekijou,4
+40,6882,129,3.19701646,Hatsukoi Limited.: Gentei Shoujo,0
+40,16732,130,3.19476893,Kiniro Mosaic,0
+40,15117,131,3.16759881,Kami nomi zo Shiru Sekai: Tenri-hen,0
+40,3272,132,3.16759881,Kinnikuman,0
+40,2397,133,3.16539244,Digimon Adventure: Bokura no War Game!,0
+40,34984,134,3.16539244,Koi wa Ameagari no You ni,0
+40,19489,135,3.15090586,Little Witch Academia: Mahoujikake no Parade,3
+40,3907,136,3.13871761,Ginga Sengoku Gunyuuden Rai,3
+40,1345,137,3.13871761,Soujuu Senshi Psychic Wars,5
+40,2583,138,3.13871761,Soukou Kihei Votoms: The Last Red Shoulder,0
+40,1119,139,3.13655128,Pokemon Movie 04: Celebi Toki wo Koeta Deai,2
+40,1006,140,3.13655128,Tenchi Muyou! in Love,2
+40,7465,141,3.12232689,Eve no Jikan (Movie),2
+40,38659,142,3.12232689,Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru,2
+40,37497,143,3.12232689,Irozuku Sekai no Ashita kara,5
+40,24823,144,3.11035831,Days,0
+40,21335,145,3.11035831,Double Circle,2
+40,33672,146,3.11035831,Doraemon Movie 37: Nobita no Nankyoku Kachikochi Daibouken,1
+40,685,147,3.11035831,To Heart: Remember My Memories,0
+40,1335,148,3.11035831,Koukaku Kidoutai: Stand Alone Complex - Tachikoma na Hibi,0
+40,11577,149,3.10823093,Steins;Gate Movie: Fuka Ryouiki no D√©j√† vu,5

@@ -1,0 +1,151 @@
+qid,docno,Rank,BM25 score,Title,label
+38,6980,0,14.4752857,Kaidan Restaurant,4
+38,3656,1,10.450625,Monochrome Factor,4
+38,6645,2,10.2330018,Chu-Bra!!,0
+38,1532,3,9.50597843,Suki na Mono wa Suki Dakara Shou ga Nai!!,1
+38,2025,4,9.4393777,Darker than Black: Kuro no Keiyakusha,4
+38,23281,5,9.38654837,Psycho-Pass 2,3
+38,850,6,9.36492745,Gakuen Heaven,1
+38,31665,7,8.94130944,Hibike! Euphonium: Kakedasu Monaka,0
+38,195,8,8.74647688,Onegai‚òÜTeacher,0
+38,1743,9,8.65049243,Super Milk-chan,1
+38,6421,10,8.3022024,Fullmetal Alchemist: Brotherhood Specials,3
+38,28619,11,8.17967508,Ranpo Kitan: Game of Laplace,5
+38,586,12,8.15271848,Ayakashi: Japanese Classic Horror,5
+38,1387,13,8.10026456,Yakin Byoutou,0
+38,4835,14,8.09272573,Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu,4
+38,39836,15,7.92841799,Yami Shibai 7,5
+38,38628,16,7.92841799,Hero Mask,4
+38,16700,17,7.90185409,Higurashi no Naku Koro ni Kaku: Outbreak,5
+38,1524,18,7.89665103,Fuujin Monogatari,1
+38,37893,19,7.8046571,Yami Shibai 6,5
+38,25517,20,7.66588528,Magic Kaito 1412,1
+38,38632,21,7.44156857,Honda-san x Taka no Tsume,0
+38,24909,22,7.36823639,Kaitou Joker,0
+38,33506,23,7.32770611,Ao no Exorcist: Kyoto Fujouou-hen,2
+38,12485,24,7.29356601,Gregory Horror Show: The Bloody Karte,5
+38,1124,25,7.29356601,Seikai no Danshou: Tanjou,1
+38,13125,26,7.25662105,Shinsekai yori,5
+38,7169,27,7.24532741,Ibarahime Mata wa Nemurihime,1
+38,3359,28,7.1303564,Amatsuki,2
+38,33354,29,7.10385933,Cardcaptor Sakura: Clear Card-hen,1
+38,30757,30,7.06072114,Monster Strike,3
+38,31741,31,7.0575157,Magi: Sinbad no Bouken (TV),2
+38,334,32,6.99440481,Marmalade Boy,1
+38,889,33,6.9444299,Black Lagoon,2
+38,2150,34,6.8932833,Tanoshii Muumin Ikka,2
+38,1118,35,6.85265734,Pokemon Movie 03: Kesshoutou no Teiou Entei,0
+38,13055,36,6.82320182,Sankarea OVA,3
+38,28999,37,6.77740143,Charlotte,2
+38,2685,38,6.76882539,Tsubasa: Tokyo Revelations,2
+38,5712,39,6.74660065,Tanoshii Muumin Ikka Bouken Nikki,1
+38,2983,40,6.74660065,Digital Devil Story: Megami Tensei,5
+38,378,41,6.73360273,eX-Driver the Movie,1
+38,30276,42,6.62818259,One Punch Man,1
+38,20973,43,6.60595249,Sekai Seifuku: Bouryaku no Zvezda,0
+38,1733,44,6.58341164,eX-Driver: Nina & Rei Danger Zone,1
+38,32171,45,6.50277,Ange Vierge,1
+38,1553,46,6.50277,Queen Emeraldas,2
+38,23083,47,6.44454154,Happiness Charge PreCure! Movie: Ningyou no Kuni no Ballerina,2
+38,5717,48,6.44454154,Kiniro no Corda: Secondo Passo,0
+38,10721,49,6.36499534,Mawaru Penguindrum,4
+38,35298,50,6.3512442,Ramen Daisuki Koizumi-san,0
+38,1493,51,6.33115798,Project ARMS: The 2nd Chapter,3
+38,162,52,6.30264152,Pita Ten,1
+38,390,53,6.30264152,Suzuka,1
+38,1571,54,6.20213026,Ghost Hunt,5
+38,3038,55,6.08072498,Senya Ichiya Monogatari,0
+38,1992,56,6.07037483,Chou Kousoku Gran Doll,1
+38,18831,57,6.07037483,Rinkaku,4
+38,2688,58,6.06441854,Akai Koudan Zillion,1
+38,6920,59,6.06441854,Blade,3
+38,182,60,6.03464968,Tenkuu no Escaflowne,3
+38,342,61,5.98219187,Starship Operators,1
+38,514,62,5.98219187,Cossette no Shouzou,3
+38,28929,63,5.97848512,Vampire Holmes,4
+38,6867,64,5.97087528,Halo Legends,1
+38,13201,65,5.96391178,Monster Farm: Legend e no Michi,1
+38,29511,66,5.96391178,Ongaku Shoujo,2
+38,34542,67,5.94213004,Inuyashiki,3
+38,6069,68,5.86668214,Gregory Horror Show,5
+38,10501,69,5.85461879,Bannou Yasai Ninninman,0
+38,35997,70,5.76689203,M√§rchen M√§dchen,1
+38,283,71,5.73237322,Akage no Anne,1
+38,6979,72,5.72664004,Shukufuku no Campanella,1
+38,32321,73,5.6369348,Lupin III (2015): Italian Game,3
+38,7079,74,5.48957699,Ookamikakushi,5
+38,14837,75,5.4660641,Dragon Ball Z Movie 14: Kami to Kami,1
+38,19383,76,5.43237186,Yami Shibai,5
+38,4581,77,5.42450378,Shikabane Hime: Aka,4
+38,279,78,5.42450378,Kyougoku Natsuhiko: Kousetsu Hyaku Monogatari,5
+38,1179,79,5.40322499,Gakuen Senki Muryou,1
+38,21105,80,5.39446104,Love Stage!!,0
+38,35134,81,5.38392454,Koukyoushihen Eureka Seven Hi-Evolution 1,1
+38,37598,82,5.38392454,Phantom in the Twilight,1
+38,2161,83,5.35935841,Skull Man,4
+38,10578,84,5.34394792,C¬≥,0
+38,2795,85,5.33913503,Dragonaut: The Resonance,1
+38,34445,86,5.32470966,Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou,1
+38,10572,87,5.32470966,Ro-Kyu-Bu!,0
+38,5027,88,5.30456059,Stitch!,0
+38,32878,89,5.29050605,ƒìlDLIVE,1
+38,7376,90,5.22750244,Kurumiwari Ningyou,2
+38,27655,91,5.22340036,Aldnoah.Zero 2nd Season,1
+38,39063,92,5.22118211,Fairy Gone,2
+38,10389,93,5.16012303,Momo e no Tegami,4
+38,3112,94,5.15265105,Papillon Rose,0
+38,238,95,5.12587415,Rekka no Honoo,1
+38,4024,96,5.08859052,Sanrio Anime Sekai Meisaku Gekijou,0
+38,31592,97,5.05240809,Pokemon XY&Z,0
+38,12445,98,5.01013168,Tasogare Otome x Amnesia,5
+38,2562,99,5.00919991,Shion no Ou,5
+38,9260,100,5.00136667,Kizumonogatari I: Tekketsu-hen,5
+38,538,101,5.00136667,Shin Tenchi Muyou!,0
+38,2817,102,4.94042851,Cinderella Monogatari,1
+38,2486,103,4.93997601,Rumiko Takahashi Anthology,2
+38,12189,104,4.91499722,Hyouka,3
+38,907,105,4.91188442,Princess Princess,0
+38,11981,106,4.9067461,Mahou Shoujo Madoka‚òÖMagica Movie 3: Hangyaku no Monogatari,5
+38,546,107,4.9067461,Wind: A Breath of Heart (TV),0
+38,14345,108,4.88276433,Btooom!,3
+38,966,109,4.85398748,Crayon Shin-chan,0
+38,1965,110,4.84074057,Sola,1
+38,387,111,4.80839929,Haibane Renmei,5
+38,3512,112,4.80839929,Tenshi Nanka ja Nai,2
+38,14921,113,4.79743952,RDG: Red Data Girl,1
+38,17265,114,4.76965675,Log Horizon,3
+38,5272,115,4.74225254,Tondemo Nezumi Daikatsuyaku,0
+38,36587,116,4.71504554,Granblue Fantasy The Animation Season 2,2
+38,9969,117,4.68820622,Gintama',1
+38,18661,118,4.6838882,Kamisama Hajimemashita OVA,1
+38,6736,119,4.6838882,Mouryou no Hako: Chuuzenji Atsuko no Jikenbo - Hako no Yurei no Koto,5
+38,2994,120,4.66735191,Death Note: Rewrite,5
+38,29,121,4.66167073,Zipang,2
+38,6707,122,4.65296556,Kuroshitsuji II,1
+38,32998,123,4.62307694,91 Days,2
+38,30187,124,4.62307694,Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru,4
+38,21469,125,4.60949082,Stand By Me Doraemon,0
+38,4722,126,4.60949082,Skip Beat!,0
+38,9055,127,4.59898653,Tamayura,0
+38,2557,128,4.57136584,Trapp Ikka Monogatari,0
+38,16239,129,4.560852,One Piece: Episode of Luffy - Hand Island no Bouken,0
+38,25731,130,4.53337504,Cross Ange: Tenshi to Ryuu no Rondo,1
+38,209,131,4.52887145,R.O.D: The TV,2
+38,1196,132,4.51710797,Masuda Kousuke Gekijou Gag Manga Biyori,0
+38,543,133,4.50726609,Vampire Hunter D (2000),3
+38,3220,134,4.50726609,Kanashimi no Belladonna,2
+38,29854,135,4.48401253,Ushio to Tora (TV),0
+38,35073,136,4.47921434,Overlord II,3
+38,8063,137,4.46412296,Sekaiichi Hatsukoi OVA,0
+38,37561,138,4.45973221,Akanesasu Shoujo,1
+38,3059,139,4.4515096,Ninja Senshi Tobikage,2
+38,22359,140,4.41236656,Sanzoku no Musume Ronja,1
+38,5494,141,4.39076976,Konnichiwa Anne: Before Green Gables,0
+38,4173,142,4.39076976,Shigofumi Picture Drama,0
+38,1907,143,4.39076976,Harukanaru Toki no Naka de: Hachiyou Shou OVA,1
+38,23151,144,4.38693581,Shounen Hollywood: Holly Stage for 49,0
+38,670,145,4.38693581,Lamune,1
+38,7058,146,4.37041423,Uragiri wa Boku no Namae wo Shitteiru,1
+38,322,147,4.36518467,Paradise Kiss,0
+38,36296,148,4.36518467,Hinamatsuri,0
+38,715,149,4.36179652,Yume de Aetara,0

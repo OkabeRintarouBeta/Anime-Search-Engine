@@ -1,0 +1,151 @@
+qid,docno,Rank,BM25 score,Title,Genre,label
+qid,37202,0,14.1648001,Radiant,,3
+qid,10259,1,12.7764782,Da Yu Hai Tang (Movie),,5
+qid,32083,2,11.7119192,Luck & Logic,,5
+qid,5998,3,11.5254515,Hottarake no Shima: Haruka to Mahou no Kagami,,2
+qid,33314,4,11.2329587,Digimon Universe: Appli Monsters,,1
+qid,31442,5,11.0770617,Musaigen no Phantom World,,4
+qid,33206,6,10.8291463,Kobayashi-san Chi no Maid Dragon,,5
+qid,3882,7,10.7848953,Seijuuki Cyguard,,5
+qid,202,8,10.4553663,Wolf's Rain,,2
+qid,2261,9,10.4155376,Malice@Doll,,1
+qid,978,10,10.0264345,Change!! Getter Robo: Sekai Saigo no Hi,,1
+qid,2756,11,9.93145712,Cheonnyeon-yeowoo Yeowoobi,,5
+qid,8217,12,9.88777996,Jewelpet Twinkle‚òÜ,,5
+qid,990,13,9.75914775,Kamisama Kazoku,,5
+qid,7337,14,9.64279979,"Hetalia Axis Powers Movie: Paint it, White",,0
+qid,10357,15,9.62606982,Jinrui wa Suitai Shimashita,,5
+qid,3656,16,9.50707273,Monochrome Factor,,0
+qid,2170,17,9.46038152,Sousei no Aquarion OVA,,4
+qid,1806,18,9.45666917,Master Mosquiton '99,,5
+qid,5296,19,9.3740287,Jigoku Sensei Nube: Kyoufu no Natsuyasumi!! Ayashi no Umi no Densetsu!,,5
+qid,4458,20,9.21351885,Bavel no Hon,,3
+qid,977,21,9.15580944,Ginga Teikoku no Metsubou Gaiden: Aoki Ookami-tachi no Densetsu,,3
+qid,4051,22,9.14555089,Net Ghost Pipopa,,4
+qid,32979,23,9.09410371,Flip Flappers,,3
+qid,39567,24,9.07813805,Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana,,5
+qid,18153,25,8.99229822,Kyoukai no Kanata,,3
+qid,790,26,8.97579142,Ergo Proxy,,1
+qid,1361,27,8.90190757,Final Fantasy: The Spirits Within,,2
+qid,2759,28,8.84216503,Evangelion: 1.0 You Are (Not) Alone,,1
+qid,1169,29,8.79136992,Green Legend Ran,,1
+qid,33783,30,8.77827789,Godzilla 1: Kaijuu Wakusei,,1
+qid,2993,31,8.77304337,Rosario to Vampire,,5
+qid,25015,32,8.68297759,Kyoukai no Kanata Movie 1: I'll Be Here - Kako-hen,,5
+qid,5114,33,8.67616904,Fullmetal Alchemist: Brotherhood,,3
+qid,31580,34,8.65144891,Ajin,,4
+qid,31231,35,8.62232517,Pokemon Movie 19: Volcanion to Karakuri no Magearna,,4
+qid,12671,36,8.61420858,Pokemon Movie 15: Kyurem vs. Seikenshi,,4
+qid,39221,37,8.60413226,Bem,,3
+qid,16498,38,8.54129765,Shingeki no Kyojin,,5
+qid,1179,39,8.47384835,Gakuen Senki Muryou,,4
+qid,1815,40,8.35179619,Shakugan no Shana Movie,,5
+qid,385,41,8.32907636,Gilgamesh,,5
+qid,37426,42,8.28758442,Sarazanmai,,5
+qid,7395,43,8.27554854,Card Wang: Mix Master,,3
+qid,11135,44,8.19545512,Hybrid Child,,2
+qid,121,45,8.12533288,Fullmetal Alchemist,,0
+qid,8557,46,8.08929288,Shinryaku! Ika Musume,,4
+qid,32152,47,7.92520257,Closers: Side Blacklambs,,5
+qid,8841,48,7.88777419,Kore wa Zombie Desu ka?,,1
+qid,150,49,7.80314763,Blood+,,3
+qid,838,50,7.77266974,Narutaru: Mukuro Naru Hoshi Tama Taru Ko,,4
+qid,270,51,7.73782839,Hellsing,,5
+qid,2978,52,7.69269162,Shin Getter Robo,,5
+qid,2757,53,7.66352977,Juuni Senshi Bakuretsu Eto Ranger,,5
+qid,28537,54,7.65189918,Garo: Guren no Tsuki,,5
+qid,7279,55,7.63459358,TO,,1
+qid,34525,56,7.63153824,Centaur no Nayami,,0
+qid,4026,57,7.56766288,Pokemon Movie 11: Giratina to Sora no Hanataba Sheimi,,5
+qid,543,58,7.489382,Vampire Hunter D (2000),,3
+qid,1642,59,7.48628329,Sugar Sugar Rune,,1
+qid,22687,60,7.3690441,Terra Formars,,3
+qid,777,61,7.32980774,Hellsing Ultimate,,3
+qid,2744,62,7.29049207,Potemayo,,4
+qid,612,63,7.25831195,PetoPeto-san,,4
+qid,2049,64,7.22673511,Kouryuu Densetsu Villgust,,4
+qid,348,65,7.19635906,Binzume Yousei,,5
+qid,8311,66,7.13217742,Tegamibachi Reverse,,1
+qid,28623,67,7.13217742,Koutetsujou no Kabaneri,,2
+qid,37958,68,7.10780453,Fukigen na Mononokean Tsuzuki,,5
+qid,36511,69,7.10309361,Tokyo Ghoul:re,,3
+qid,25517,70,7.0874646,Magic Kaito 1412,,0
+qid,2068,71,7.01776822,Sousei Kishi Gaiarth,,1
+qid,177,72,6.9790679,Tsubasa Chronicle,,4
+qid,17681,73,6.96357961,Zettai Bouei Leviathan,,2
+qid,1932,74,6.93984549,Yes! Precure 5,,3
+qid,2361,75,6.92484502,Sei Juushi Bismarck,,0
+qid,389,76,6.85363624,Karas,,5
+qid,16524,77,6.82634403,Suisei no Gargantia,,3
+qid,405,78,6.82589482,Blood: The Last Vampire,,5
+qid,6747,79,6.7864714,Dance in the Vampire Bund,,5
+qid,347,80,6.77977398,Wild Arms: Twilight Venom,,2
+qid,1533,81,6.74936017,Ai Tenshi Densetsu Wedding Peach,,5
+qid,1448,82,6.73536794,Hyakujuu-Ou GoLion,,0
+qid,40228,83,6.72477066,Bananya: Fushigi na Nakama-tachi,,0
+qid,4548,84,6.68722745,Yozakura Quartet,,5
+qid,38671,85,6.6787038,Enen no Shouboutai,,1
+qid,335,86,6.66893238,Matantei Loki Ragnarok,,2
+qid,2001,87,6.64335489,Tengen Toppa Gurren Lagann,,0
+qid,24439,88,6.64335489,Kekkai Sensen,,5
+qid,2053,89,6.59895858,Capricorn,,3
+qid,861,90,6.58197188,xxxHOLiC,,3
+qid,14407,91,6.56341225,Persona 3 the Movie 1: Spring of Birth,,3
+qid,37497,92,6.53441246,Irozuku Sekai no Ashita kara,,1
+qid,7711,93,6.46119785,Karigurashi no Arrietty,,5
+qid,37992,94,6.4549077,Jingai-san no Yome,,5
+qid,11717,95,6.4549077,Hoshi no Kirby: Pilot,,0
+qid,32801,96,6.4549077,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka OVA,,3
+qid,27821,97,6.44963167,Fate/stay night: Unlimited Blade Works Prologue,,0
+qid,1276,98,6.44963167,Ys,,5
+qid,32792,99,6.44750577,Mobile Suit Gundam Unicorn RE:0096,,3
+qid,17080,100,6.43871322,Soukyuu no Fafner: Dead Aggressor - Exodus,,4
+qid,9539,101,6.43251478,Cardfight!! Vanguard,,2
+qid,1657,102,6.43251478,Byston Well Monogatari: Garzey no Tsubasa,,1
+qid,15313,103,6.38598765,Wooser no Sono Higurashi,,1
+qid,1952,104,6.36525084,Vampire Hunter,,5
+qid,2606,105,6.35805997,Digimon Savers the Movie: Kyuukyoku Power! Burst Mode Hatsudou!!,,5
+qid,33531,106,6.34107371,Juushinki Pandora,,2
+qid,32664,107,6.32761955,Bananya,,2
+qid,523,108,6.32322769,Tonari no Totoro,,3
+qid,17651,109,6.31064954,Genei wo Kakeru Taiyou,,3
+qid,1325,110,6.27653521,Hamelin no Violin Hiki,,5
+qid,2719,111,6.25926577,MapleStory,,5
+qid,6008,112,6.23988951,Jewelpet,,3
+qid,2795,113,6.21980628,Dragonaut: The Resonance,,4
+qid,789,114,6.15480479,Shinigami no Ballad.,,3
+qid,29017,115,6.14658217,Wooser no Sono Higurashi: Mugen-hen,,3
+qid,1606,116,6.13283674,Kekkaishi (TV),,5
+qid,58,117,6.09373081,Blue Gender,,5
+qid,1647,118,6.08207389,Kakugo no Susume,,0
+qid,690,119,6.07787765,Kyuuketsuhime Miyu (TV),,5
+qid,17074,120,6.06054829,Monogatari Series: Second Season,,5
+qid,32566,121,6.05158956,Noblesse: Pamyeol-ui Sijak,,5
+qid,4415,122,6.05038077,World Destruction: Sekai Bokumetsu no Rokunin,,5
+qid,36816,123,6.04835978,Godzilla 2: Kessen Kidou Zoushoku Toshi,,4
+qid,6324,124,6.04416576,Omamori Himari,,3
+qid,38691,125,6.03935707,Dr. Stone,,0
+qid,5712,126,6.03134473,Tanoshii Muumin Ikka Bouken Nikki,,0
+qid,98,127,6.03134473,Mai-HiME,,2
+qid,1137,128,6.02197415,Mushrambo,,3
+qid,33502,129,6.02144021,Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?,,3
+qid,32160,130,6.01222947,Precure All Stars Movie: Minna de Utau‚ô™ - Kiseki no Mahou,,3
+qid,21407,131,6.01222947,Happiness Charge Precure!,,1
+qid,38297,132,6.01054729,"Maou-sama, Retry!",,1
+qid,1556,133,5.92533584,Kikoushi Enma,,3
+qid,944,134,5.92083814,The Third: Aoi Hitomi no Shoujo,,5
+qid,2408,135,5.92034876,Keroro Gunsou Movie 2: Shinkai no Princess de Arimasu!,,3
+qid,782,136,5.89197896,Gasaraki,,0
+qid,1303,137,5.89193831,The Animatrix,,1
+qid,999,138,5.86636882,Blue Seed 2,,4
+qid,22359,139,5.86636882,Sanzoku no Musume Ronja,,5
+qid,2158,140,5.84686968,Terra e... (TV),,1
+qid,1140,141,5.77566816,Giniro no Kami no Agito,,4
+qid,35828,142,5.76990306,Miira no Kaikata,,3
+qid,2818,143,5.75740381,Madou King Granzort,,3
+qid,31339,144,5.75054849,Drifters,,3
+qid,37744,145,5.72433803,Isekai Cheat Magician,,3
+qid,10379,146,5.71807843,Natsume Yuujinchou San,,3
+qid,3086,147,5.71807843,Strait Jacket,,5
+qid,1004,148,5.71563674,Kanojo to Kanojo no Neko,,2
+qid,2524,149,5.71017781,Jungle de Ikou!,,3

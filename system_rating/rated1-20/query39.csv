@@ -1,0 +1,68 @@
+qid,docno,Rank,BM25 score,Title,label
+39,1,0,17.3738405,Cowboy Bebop,4
+39,34012,1,16.2993535,Isekai Shokudou,1
+39,36308,2,13.0400506,Blade Runner: Black Out 2022,0
+39,3031,3,11.6425456,Digimon Frontier: Ornismon Fukkatsu!!,0
+39,17731,4,11.3951829,Ketsuekigata-kun!,0
+39,10500,5,10.7704255,Ojiisan no Lamp,1
+39,4209,6,10.3038939,Mission-E,0
+39,25173,7,9.90974597,Xiao Kedou Zhao Mama,0
+39,397,8,9.9030287,Seikai no Senki II,1
+39,6383,9,9.44147992,Chargeman Ken!,2
+39,15927,10,9.44147992,Carnival Phantasm: HibiChika Special,1
+39,27525,11,8.87879949,Fate/kaleid liner Prisma‚òÜIllya 2wei Herz!,0
+39,527,12,8.58591286,Pokemon,2
+39,35228,13,8.34123795,Haikara-san ga Tooru Movie 2: Hana no Tokyo Dai Roman,1
+39,33378,14,8.34123795,"Haikara-san ga Tooru Movie 1: Benio, Hana no 17-sai",1
+39,1706,15,8.0971223,Gun Frontier,5
+39,7290,16,8.00425104,Cyborg 009: Kaijuu Sensou,2
+39,26057,17,7.9332138,Fate/kaleid liner Prisma‚òÜIllya 2wei!: Mahou Shoujo in Onsen Ryokou,1
+39,33771,18,7.8581899,Cheating Craft,0
+39,3081,19,7.75249736,Attacker You!,0
+39,8500,20,7.69856791,Haguregumo,3
+39,1168,21,7.46919333,Musekinin Kanchou Tylor OVA,1
+39,817,22,7.44358758,Tactical Roar,1
+39,3285,23,7.44358758,Himitsu no Akko-chan,0
+39,3839,24,7.34478556,Himitsu no Akko-chan 3,0
+39,2564,25,7.16965117,Code-E,0
+39,30251,26,7.05645523,Venus Project: Climax,2
+39,8536,27,6.94677805,Fortune Arterial: Akai Yakusoku,2
+39,8476,28,6.9308052,Otome Youkai Zakuro,2
+39,1769,29,6.89320813,Oh! Super Milk-chan,2
+39,398,30,6.68694326,Seikai no Senki III,3
+39,1248,31,6.58837163,Zone of the Enders: 2167 Idolo,3
+39,10012,32,6.35420471,Carnival Phantasm,1
+39,37055,33,6.29957292,Youjo Senki Movie,3
+39,21167,34,6.19380252,Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi,3
+39,57,35,6.15933062,Beck,0
+39,21511,36,6.09427798,Kantai Collection: KanColle,2
+39,5277,37,5.97212925,Sekirei: Pure Engagement,2
+39,712,38,5.9324939,Zoids Genesis,3
+39,33080,39,5.85478081,Brotherhood: Final Fantasy XV,1
+39,37141,40,5.8166828,Hataraku Saibou (TV),0
+39,2397,41,5.77907741,Digimon Adventure: Bokura no War Game!,2
+39,7079,42,5.66912319,Ookamikakushi,3
+39,558,43,5.63339571,Major S2,0
+39,34966,44,5.59811573,Jigoku Shoujo: Yoi no Togi,0
+39,763,45,5.42814294,Zoids,0
+39,888,46,5.42814294,Megami Kouhosei,0
+39,573,47,5.42814294,Saber Marionette J,3
+39,8086,48,5.3953795,Densetsu no Yuusha no Densetsu,1
+39,3713,49,5.3953795,Jigoku Shoujo Mitsuganae,0
+39,18179,50,5.3630092,Yowamushi Pedal,0
+39,4789,51,5.331025,ef: A Tale of Melodies.,1
+39,458,52,5.29942003,Buttobi!! CPU,0
+39,9331,53,5.2681876,Yumekui Merry,0
+39,1542,54,5.17666077,Brain Powerd,3
+39,1695,55,4.97498409,Les Mis√©rables: Shoujo Cosette,2
+39,27631,56,4.97498409,God Eater,3
+39,32108,57,4.92021669,Digimon Adventure tri. 2: Ketsui,2
+39,5525,58,4.92021669,07-Ghost,3
+39,8525,59,4.84028976,Kami nomi zo Shiru Sekai,0
+39,2398,60,4.73767431,Digimon Adventure 02: Diablomon no Gyakushuu,0
+39,81,61,4.71269669,Mobile Suit Gundam: The 08th MS Team,3
+39,21681,62,4.68798107,Hanayamata,0
+39,1030,63,4.61536555,Heisei Tanuki Gassen Ponpoko,1
+39,976,64,4.41041716,Yokohama Kaidashi Kikou: Quiet Country Cafe,3
+39,2977,65,4.28360622,Youjuu Sensen Adventure Kid,1
+39,20159,66,4.06911082,Pokemon: The Origin,2

@@ -1,0 +1,151 @@
+qid,docno,Rank,BM25 score,Title,label
+28,1485,0,15.379422,Akachan to Boku,2
+28,1935,1,14.7630649,Megazone 23,1
+28,427,2,14.178041,Kaleido Star,4
+28,1557,3,13.2524,Shounen Onmyouji,2
+28,1888,4,12.5200893,Ichigo Mashimaro OVA,5
+28,10012,5,12.1117928,Carnival Phantasm,5
+28,35427,6,11.0289483,Animegataris,4
+28,1992,7,10.3834344,Chou Kousoku Gran Doll,5
+28,2051,8,10.3074637,Akai Kiba: Blue Sonnet,0
+28,38731,9,9.42151208,Diamond no Ace: Act II,3
+28,10278,10,9.40734988,The iDOLM@STER,5
+28,12979,11,9.16723396,Naruto SD: Rock Lee no Seishun Full-Power Ninden,5
+28,1527,12,9.04946133,Pokemon: Senritsu no Mirage Pokemon,5
+28,32551,13,9.01071282,Digimon Adventure tri. 3: Kokuhaku,2
+28,260,14,8.8916025,Happy‚òÜLesson (TV),5
+28,1798,15,8.63475925,Animation Seisaku Shinkou Kuromi-chan 2,4
+28,275,16,8.5808771,Love‚ô•Love?,5
+28,1738,17,8.57024878,Muteki Kanban Musume,3
+28,12711,18,8.54617347,Uta no‚òÜPrince-sama‚ô™ Maji Love 2000%,5
+28,33201,19,8.4181279,Ojisan to Marshmallow: Hige-san to Yume Mashmallow,2
+28,23135,20,8.40182541,PriPara,4
+28,24211,21,8.31989561,Orenchi no Furo Jijou,4
+28,30915,22,8.23377788,Kekkai Sensen: Soresaemo Saitei de Saikou na Hibi,1
+28,40228,23,8.06166143,Bananya: Fushigi na Nakama-tachi,5
+28,35075,24,8.05202083,Hoozuki no Reitetsu 2nd Season,3
+28,7720,25,7.99252866,Ookiku Furikabutte: Natsu no Taikai-hen,3
+28,32899,26,7.92895421,Watashi ga Motete Dousunda,3
+28,2848,27,7.92574439,Kappa no Coo to Natsuyasumi,2
+28,19157,28,7.78231406,Youkai Watch,2
+28,495,29,7.60789284,Bakuretsu Hunters,3
+28,10347,30,7.60789284,Happy Kappy,4
+28,688,31,7.58733035,Uta‚àΩKata,3
+28,9332,32,7.58593879,.hack//Quantum,3
+28,1940,33,7.54735748,Outlanders,2
+28,250,34,7.48777785,Konjiki no Gash Bell!!,3
+28,2406,35,7.45234826,Sazae-san,5
+28,10257,36,7.39081966,Pretty Rhythm: Aurora Dream,1
+28,1591,37,7.37139671,Kujibiki‚ô•Unbalance,3
+28,9047,38,7.36852852,Toaru Kagaku no Railgun: Misaka-san wa Ima Chuumoku no Mato Desu kara,1
+28,635,39,7.34995699,Juubee-chan: Lovely Gantai no Himitsu,2
+28,23787,40,7.34995699,Hi‚òÜsCoool! SeHa Girls,2
+28,1913,41,7.14916057,Shonan Junai Gumi!,5
+28,33142,42,7.10860619,Re:Zero kara Hajimeru Break Time,5
+28,2315,43,7.09567964,Injuu Alien,2
+28,6637,44,7.04291744,Higashi no Eden Movie II: Paradise Lost,5
+28,12117,45,7.03260849,Detective Conan Movie 16: The Eleventh Striker,4
+28,2967,46,7.02775461,Saishuu Shiken Kujira,5
+28,1006,47,7.02775461,Tenchi Muyou! in Love,3
+28,2622,48,6.98539066,Big Wars: Kami Utsu Akaki Kouya ni,1
+28,24823,49,6.96906666,Days,3
+28,3948,50,6.950925,Mahou Sensei Negima!: Introduction Film,0
+28,2947,51,6.93993239,Ojamajo Doremi Sharp Movie,2
+28,715,52,6.90666278,Yume de Aetara,2
+28,5688,53,6.90417083,Gegege no Kitarou (1968),4
+28,38768,54,6.87849669,Black Clover: Jump Festa 2018 Special,5
+28,1613,55,6.87849669,Jikuu Ihoujin Kyoko: Chocola ni Omakase!,4
+28,589,56,6.84536657,Ginga Nagareboshi Gin,2
+28,479,57,6.83984455,Ueki no Housoku,3
+28,10378,58,6.83984455,Shinryaku!? Ika Musume,5
+28,416,59,6.80857558,Kurenai no Buta,3
+28,8440,60,6.80506874,Black Lagoon Omake,3
+28,1544,61,6.79455904,Super Robot Taisen OG The Animation,1
+28,1025,62,6.79087548,Kachou Ouji,4
+28,11759,63,6.77342127,Accel World,4
+28,1837,64,6.76050198,Sumeba Miyako no Cosmos-sou Suttoko Taisen Dokkoida,3
+28,1914,65,6.69843816,Saiunkoku Monogatari 2nd Season,5
+28,4688,66,6.69843816,Minna Agechau‚ô°,2
+28,33155,67,6.69843816,Code Geass: Hangyaku no Lelouch Picture Drama - Hajimari no Zenya,2
+28,27787,68,6.69501117,Nisekoi:,4
+28,656,69,6.59389915,Air in Summer,3
+28,5684,70,6.58873656,Fresh Precure!,4
+28,2724,71,6.56796202,Daicon Opening Animations,5
+28,6023,72,6.55451208,Nogizaka Haruka no Himitsu: Purezza,3
+28,8647,73,6.52639184,Self-Portrait,5
+28,1853,74,6.52133438,Cutey Honey F,5
+28,6793,75,6.4881478,"Kuroshitsuji: Sono Shitsuji, Kougyou",3
+28,5347,76,6.46025279,Bible Black: Imari Ryoujoku Genba,1
+28,234,77,6.44497522,Dan Doh!!,1
+28,34471,78,6.44089838,Youkai Watch Movie 4: Shadow Side - Oni-ou no Fukkatsu,2
+28,36470,79,6.44086398,Tada-kun wa Koi wo Shinai,5
+28,2172,80,6.42299783,Crayon Shin-chan Movie 15: Arashi wo Yobu Utau Ketsu dake Bakudan!,3
+28,196,81,6.42277773,Onegai‚òÜTwins,2
+28,15059,82,6.39544081,Initial D Fifth Stage,3
+28,1750,83,6.39544081,Amaenaide yo!! Katsu!!: Damasarenaide yo!!,3
+28,13755,84,6.39544081,Shanshui Qing,4
+28,3010,85,6.39156832,Kaiketsu Zorro,4
+28,1953,86,6.35871177,Code Geass: Hangyaku no Lelouch Picture Drama,4
+28,342,87,6.35871177,Starship Operators,1
+28,6280,88,6.33903927,Cat Shit One,3
+28,1400,89,6.33903927,Macross 7 Movie: Ginga ga Ore wo Yondeiru!,4
+28,38789,90,6.33191635,One Room 2nd Season Special,1
+28,4918,91,6.31720107,xxxHOLiC Shunmuki,3
+28,3883,92,6.2873666,YU-NO,1
+28,1199,93,6.26497392,Nintama Rantarou,4
+28,31054,94,6.20857953,"Letchu, Getchu, Saru Getchu",5
+28,1749,95,6.20857953,Amaenaide yo!!: Yasumanaide yo!!,1
+28,2823,96,6.20857953,Barbapapa,3
+28,879,97,6.20102542,Simoun,1
+28,34055,98,6.17264611,Berserk 2nd Season,1
+28,253,99,6.14869557,Jungle wa Itsumo Hare nochi Guu,5
+28,949,100,6.1323209,Top wo Nerae! Gunbuster,5
+28,46,101,6.0888341,Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Chinkonka,3
+28,27663,102,6.03455877,Baby Steps 2nd Season,2
+28,2648,103,6.03232766,Doraemon: 2112-nen Doraemon Tanjou,4
+28,4038,104,6.01564577,Zettai Karen Children,4
+28,354,105,5.99419648,UG‚òÜUltimate Girls,1
+28,2061,106,5.98505937,Gall Force 2: Destruction,3
+28,1144,107,5.97773447,Tenchi Muyou! in Love 2: Haruka Naru Omoi,1
+28,21773,108,5.97577997,Sugar*Soldier,1
+28,2891,109,5.97577997,Iblard Jikan,1
+28,1021,110,5.94797237,Kaikan Phrase,1
+28,2766,111,5.93240959,Super Doll Licca-chan,3
+28,35073,112,5.90332754,Overlord II,1
+28,31174,113,5.90332754,Osomatsu-san,5
+28,5298,114,5.90245571,Yu‚òÜGi‚òÜOh! 5D's: Shinkasuru Kettou! Stardust vs. Red Demon's,3
+28,1962,115,5.90245571,Chikyuu Bouei Kazoku,5
+28,2044,116,5.90245571,Mahou no Tenshi Creamy Mami,5
+28,28069,117,5.86580657,Shigatsu wa Kimi no Uso: Moments,2
+28,101,118,5.86172079,Air,3
+28,1324,119,5.85763039,Earthian,1
+28,458,120,5.82602575,Buttobi!! CPU,1
+28,601,121,5.81232393,Nekojiru-sou,3
+28,2583,122,5.81232393,Soukou Kihei Votoms: The Last Red Shoulder,1
+28,36871,123,5.79512662,Ultraman,1
+28,9988,124,5.76999171,Otome wa Boku ni Koishiteru: Futari no Elder The Animation,2
+28,136,125,5.75993572,Hunter x Hunter,1
+28,5279,126,5.75980775,Sekirei: Hajimete no Otsukai,5
+28,594,127,5.75980775,Naruto: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!,4
+28,30103,128,5.75980775,Precure All Stars Movie: Haru no Carnival‚ô™ - Ima Koko kara,1
+28,2723,129,5.70823208,D4 Princess,3
+28,1784,130,5.68493678,Injuu Nerawareta Hanayome,1
+28,5835,131,5.6776379,Hanasakeru Seishounen,4
+28,31246,132,5.65757186,Choegang Habche: Mix Master,3
+28,32491,133,5.64334277,Kanojo to Kanojo no Neko: Everything Flows,1
+28,4415,134,5.63498812,World Destruction: Sekai Bokumetsu no Rokunin,1
+28,30868,135,5.63498812,Ajin Part 1: Shoudou,1
+28,1198,136,5.60780295,Tsuyokiss,1
+28,1910,137,5.58829326,Master Keaton OVA,3
+28,4551,138,5.58829326,Hakushaku to Yousei,2
+28,981,139,5.56195436,Ichigo 100% OVA,3
+28,30127,140,5.56195436,Danchigai,4
+28,12187,141,5.55890202,Carnival Phantasm EX Season,4
+28,2071,142,5.55890202,Hana yori Dango (Movie),1
+28,762,143,5.55890202,Bleach: Memories in the Rain,1
+28,412,144,5.54236591,Kore ga Watashi no Goshujinsama,5
+28,4059,145,5.5221342,"Clannad: Mou Hitotsu no Sekai, Tomoyo-hen",3
+28,9288,146,5.51084657,Heartcatch Precure! Movie: Hana no Miyako de Fashion Show... Desu ka!?,2
+28,10794,147,5.51084657,IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou,3
+28,52,148,5.51084657,Kidou Tenshi Angelic Layer,2
+28,6287,149,5.49718733,Akikan!: Kan Ippatsu!? Onsen Panic,1

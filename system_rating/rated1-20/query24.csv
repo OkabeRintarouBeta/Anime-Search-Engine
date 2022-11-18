@@ -1,0 +1,151 @@
+qid,docno,Rank,BM25 score,Title,Genre,label
+24,1726,0,13.7180594,Devil May Cry,"['Action', 'Demons', 'Fantasy']",0
+24,1486,1,11.2156983,Kodomo no Omocha (TV),"['Comedy', 'Drama', 'Romance', 'Shoujo']",0
+24,30778,2,10.8484461,Fairy Tail Movie 2: Dragon Cry,"['Action', 'Adventure', 'Comedy', 'Magic', 'Fantasy', 'Shounen']",0
+24,1485,3,10.4726413,Akachan to Boku,"['Comedy', 'Drama', 'Shoujo']",1
+24,1153,4,9.69325704,Crying Freeman,"['Action', 'Police', 'Martial Arts', 'Romance', 'Drama', 'Seinen']",0
+24,1059,5,9.07128054,Mutant Turtles: Choujin Densetsu-hen,"['Action', 'Adventure', 'Comedy', 'Sci-Fi', 'Super Power']",0
+24,15059,6,9.01493459,Initial D Fifth Stage,"['Action', 'Cars', 'Sports', 'Drama', 'Seinen']",4
+24,2823,7,8.75153724,Barbapapa,"['Fantasy', 'Comedy']",2
+24,275,8,8.5808771,Love‚ô•Love?,"['Ecchi', 'Comedy', 'Harem', 'Romance']",0
+24,8241,9,8.5050604,Rio: Rainbow Gate!,"['Game', 'Comedy', 'Ecchi']",0
+24,6793,10,8.44138707,"Kuroshitsuji: Sono Shitsuji, Kougyou","['Comedy', 'Historical', 'Demons', 'Supernatural', 'Shounen']",0
+24,2891,11,8.42338585,Iblard Jikan,['Fantasy'],0
+24,28069,12,8.2683687,Shigatsu wa Kimi no Uso: Moments,"['Music', 'Shounen']",0
+24,25857,13,8.01144156,PriPara Movie: Mi~nna Atsumare! Prism‚òÜTours,"['Music', 'Shoujo']",0
+24,8986,14,7.83236988,Supernatural The Animation,"['Action', 'Demons', 'Horror', 'Supernatural']",2
+24,34792,15,7.74769525,Yoake Tsugeru Lu no Uta,"['Adventure', 'Music', 'Supernatural', 'Fantasy']",3
+24,19111,16,7.70481374,Love Live! School Idol Project 2nd Season,"['Music', 'School', 'Slice of Life']",3
+24,37623,17,7.70305024,Chiisana Eiyuu: Kani to Tamago to Toumei Ningen,"['Action', 'Adventure', 'Drama', 'Fantasy']",2
+24,21421,18,7.70144421,Mahou Shoujo Taisen,['Magic'],2
+24,36951,19,7.6359985,Yuu‚òÜYuu‚òÜHakusho: Two Shots/Noru ka Soru ka,"['Action', 'Adventure', 'Comedy', 'Demons', 'Supernatural', 'Martial Arts', 'Shounen']",0
+24,5258,20,7.56018917,Hajime no Ippo: New Challenger,"['Comedy', 'Sports', 'Drama', 'Shounen']",0
+24,101,21,7.54977473,Air,"['Slice of Life', 'Supernatural', 'Drama', 'Romance']",5
+24,2406,22,7.45234826,Sazae-san,"['Slice of Life', 'Comedy']",2
+24,10257,23,7.39081966,Pretty Rhythm: Aurora Dream,"['Slice of Life', 'Sports', 'Music', 'Shoujo']",5
+24,297,24,7.38497293,Grenadier: Hohoemi no Senshi,"['Action', 'Ecchi', 'Adventure', 'Comedy', 'Shounen']",0
+24,2937,25,7.31188048,Bishoujo Senshi Sailor Moon R: Make Up! Sailor Senshi,['Shoujo'],0
+24,1277,26,7.20727416,Ys: Tenkuu no Shinden - Adol Christine no Bouken,"['Adventure', 'Fantasy', 'Magic', 'Demons', 'Drama']",3
+24,4896,27,7.11418577,Umineko no Naku Koro ni,"['Mystery', 'Horror', 'Psychological', 'Supernatural']",3
+24,33142,28,7.10860619,Re:Zero kara Hajimeru Break Time,"['Adventure', 'Comedy', 'Fantasy', 'Parody']",0
+24,2959,29,7.02237795,Utsukushiki Sei no Dendoushi Reirei,"['Hentai', 'Yuri']",0
+24,176,30,6.98323151,Triangle Heart: Sweet Songs Forever,"['Adventure', 'Romance']",2
+24,31645,31,6.96566063,Persona 5 the Animation: The Day Breakers,"['Action', 'Supernatural', 'Fantasy']",0
+24,31417,32,6.92938048,Binan Koukou Chikyuu Boueibu LOVE! LOVE!,"['Slice of Life', 'Comedy', 'Parody', 'Magic', 'School']",0
+24,38768,33,6.87849669,Black Clover: Jump Festa 2018 Special,"['Comedy', 'Fantasy', 'Shounen']",2
+24,1613,34,6.87849669,Jikuu Ihoujin Kyoko: Chocola ni Omakase!,"['Fantasy', 'Comedy']",1
+24,8440,35,6.80506874,Black Lagoon Omake,['Comedy'],1
+24,427,36,6.70347817,Kaleido Star,"['Comedy', 'Sports', 'Drama', 'Fantasy', 'Shoujo']",4
+24,1885,37,6.67212091,Master of Epic: The Animation Age,"['Fantasy', 'Game', 'Comedy']",1
+24,3886,38,6.66548574,Super Mario Brothers: Peach-hime Kyuushutsu Daisakusen!,"['Adventure', 'Comedy', 'Shounen']",0
+24,656,39,6.59389915,Air in Summer,"['Romance', 'Supernatural', 'Comedy', 'Historical', 'Drama']",0
+24,5684,40,6.58873656,Fresh Precure!,"['Action', 'Slice of Life', 'Fantasy', 'Magic', 'Comedy', 'Shoujo']",3
+24,1106,41,6.57448737,Eikyuu Kazoku,"['Psychological', 'Comedy']",0
+24,8647,42,6.52639184,Self-Portrait,"['Comedy', 'Demons']",0
+24,1853,43,6.52133438,Cutey Honey F,"['Action', 'Adventure', 'Comedy', 'Magic', 'Romance', 'Sci-Fi', 'Shoujo']",2
+24,5347,44,6.46025279,Bible Black: Imari Ryoujoku Genba,['Hentai'],0
+24,196,45,6.42277773,Onegai‚òÜTwins,"['Comedy', 'Drama', 'Harem', 'School', 'Sci-Fi']",0
+24,5028,46,6.41115977,Major S5,"['Comedy', 'Drama', 'Romance', 'Shounen', 'Sports']",1
+24,3511,47,6.40139678,Riki-Oh 2: Horobi no Ko,"['Action', 'Martial Arts', 'Super Power', 'Seinen']",2
+24,1750,48,6.39544081,Amaenaide yo!! Katsu!!: Damasarenaide yo!!,"['Ecchi', 'Comedy', 'Romance', 'Supernatural']",0
+24,13755,49,6.39544081,Shanshui Qing,['Music'],4
+24,10012,50,6.38754862,Carnival Phantasm,"['Comedy', 'Parody', 'Supernatural']",0
+24,1953,51,6.35871177,Code Geass: Hangyaku no Lelouch Picture Drama,"['Comedy', 'School', 'Slice of Life']",1
+24,342,52,6.35871177,Starship Operators,"['Drama', 'Military', 'Sci-Fi', 'Space']",0
+24,38789,53,6.33191635,One Room 2nd Season Special,['Ecchi'],1
+24,9951,54,6.29800992,Jiu Se Lu,['Supernatural'],0
+24,6324,55,6.26894009,Omamori Himari,"['Action', 'Harem', 'Comedy', 'Demons', 'Supernatural', 'Romance', 'Ecchi', 'Fantasy']",0
+24,1199,56,6.26497392,Nintama Rantarou,"['Comedy', 'Kids']",1
+24,31054,57,6.20857953,"Letchu, Getchu, Saru Getchu",['Comedy'],0
+24,1749,58,6.20857953,Amaenaide yo!!: Yasumanaide yo!!,"['Ecchi', 'Comedy', 'Romance', 'Supernatural']",0
+24,253,59,6.14869557,Jungle wa Itsumo Hare nochi Guu,"['Slice of Life', 'Comedy', 'School']",1
+24,31706,60,6.0999851,Fate/kaleid liner Prisma‚òÜIllya 3rei!!,"['Action', 'Comedy', 'Fantasy', 'Magic']",2
+24,31988,61,6.03497943,Hibike! Euphonium 2,"['Music', 'School', 'Drama']",4
+24,35082,62,6.03497943,Hibike! Euphonium Movie 2: Todoketai Melody,"['Drama', 'Music', 'School']",1
+24,2648,63,6.03232766,Doraemon: 2112-nen Doraemon Tanjou,"['Kids', 'Fantasy', 'Comedy']",3
+24,1590,64,6.00346821,Legendz: Yomigaeru Ryuuou Densetsu,"['Action', 'Adventure', 'Fantasy', 'Comedy']",0
+24,21773,65,5.97577997,Sugar*Soldier,['Shoujo'],0
+24,3087,66,5.96362487,Cencoroll,"['Action', 'Sci-Fi']",0
+24,688,67,5.94924119,Uta‚àΩKata,"['Psychological', 'Drama', 'Magic']",0
+24,35427,68,5.94370092,Animegataris,"['Comedy', 'Parody', 'School']",0
+24,21395,69,5.83951363,Crayon Shin-chan Movie 22: Gachinko! Gyakushuu no Robo To-chan,"['Sci-Fi', 'Comedy', 'Seinen']",5
+24,8676,70,5.81818704,Amagami SS,"['Slice of Life', 'Comedy', 'Romance', 'School']",0
+24,601,71,5.81232393,Nekojiru-sou,"['Comedy', 'Dementia', 'Psychological']",0
+24,2583,72,5.81232393,Soukou Kihei Votoms: The Last Red Shoulder,"['Action', 'Drama', 'Mecha', 'Military', 'Sci-Fi']",1
+24,34984,73,5.80940332,Koi wa Ameagari no You ni,"['Romance', 'Seinen']",3
+24,19489,74,5.77208625,Little Witch Academia: Mahoujikake no Parade,"['Adventure', 'Comedy', 'Magic', 'Fantasy', 'School']",3
+24,30187,75,5.77208625,Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru,['Mystery'],2
+24,5279,76,5.75980775,Sekirei: Hajimete no Otsukai,['Comedy'],3
+24,594,77,5.75980775,Naruto: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!,"['Action', 'Adventure', 'Comedy', 'Shounen', 'Super Power']",1
+24,30103,78,5.75980775,Precure All Stars Movie: Haru no Carnival‚ô™ - Ima Koko kara,"['Music', 'Magic', 'Fantasy', 'Shoujo']",0
+24,2723,79,5.70823208,D4 Princess,"['Action', 'Sci-Fi', 'Comedy', 'Magic', 'Mecha']",0
+24,28701,80,5.69887211,Fate/stay night: Unlimited Blade Works 2nd Season,"['Action', 'Fantasy', 'Magic', 'Supernatural']",4
+24,24211,81,5.69887211,Orenchi no Furo Jijou,"['Comedy', 'Fantasy', 'Josei']",0
+24,31246,82,5.65757186,Choegang Habche: Mix Master,"['Adventure', 'Fantasy']",0
+24,1198,83,5.60780295,Tsuyokiss,"['Comedy', 'Romance', 'School', 'Slice of Life']",0
+24,12187,84,5.55890202,Carnival Phantasm EX Season,"['Comedy', 'Supernatural']",0
+24,2071,85,5.55890202,Hana yori Dango (Movie),"['Drama', 'Romance', 'Shoujo']",0
+24,762,86,5.55890202,Bleach: Memories in the Rain,"['Action', 'Adventure', 'Supernatural', 'Drama', 'Shounen']",0
+24,2622,87,5.55388327,Big Wars: Kami Utsu Akaki Kouya ni,"['Action', 'Military', 'Sci-Fi', 'Space']",3
+24,9288,88,5.51084657,Heartcatch Precure! Movie: Hana no Miyako de Fashion Show... Desu ka!?,"['Fantasy', 'Kids', 'Magic', 'Shoujo']",4
+24,10794,89,5.51084657,IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou,"['Action', 'Sci-Fi', 'Harem', 'Comedy', 'Ecchi', 'Mecha']",4
+24,52,90,5.51084657,Kidou Tenshi Angelic Layer,"['Sci-Fi', 'Comedy', 'Sports', 'Drama', 'Shounen']",2
+24,966,91,5.48355363,Crayon Shin-chan,"['Slice of Life', 'Comedy', 'Ecchi', 'School', 'Seinen']",3
+24,381,92,5.46361486,Fushigi Yuugi: Dai Ni Bu,"['Adventure', 'Drama', 'Fantasy', 'Historical', 'Martial Arts', 'Romance', 'Shoujo']",4
+24,14293,93,5.45662731,Nerawareta Gakuen,"['Romance', 'School', 'Sci-Fi']",0
+24,322,94,5.45499457,Paradise Kiss,"['Comedy', 'Drama', 'Josei', 'Romance', 'Slice of Life']",1
+24,2398,95,5.45499457,Digimon Adventure 02: Diablomon no Gyakushuu,"['Adventure', 'Comedy', 'Drama', 'Kids', 'Sci-Fi']",0
+24,1011,96,5.42369194,Ranma ¬Ω Super,"['Adventure', 'Comedy', 'Martial Arts', 'Romance', 'Shounen', 'Supernatural']",0
+24,35842,97,5.42369194,FLCL Alternative,"['Action', 'Comedy', 'Dementia', 'Mecha', 'Parody', 'Sci-Fi']",3
+24,12321,98,5.41718588,Thermae Romae,"['Comedy', 'Historical', 'Seinen']",0
+24,2497,99,5.41718588,Shin Cutey Honey,"['Adventure', 'Comedy', 'Ecchi', 'Magic', 'Sci-Fi']",3
+24,6511,100,5.37153934,Chou Seimeitai Transformers Beast Wars Neo,"['Action', 'Adventure', 'Space', 'Mecha', 'Shounen']",0
+24,23135,101,5.35899973,PriPara,"['Music', 'Slice of Life', 'School', 'Shoujo']",0
+24,2388,102,5.3429489,Tachiguishi Retsuden,['Comedy'],4
+24,1557,103,5.32665564,Shounen Onmyouji,"['Action', 'Magic', 'Fantasy', 'Supernatural', 'Demons', 'Historical', 'Shoujo']",4
+24,201,104,5.26480417,Video Girl Ai,"['Comedy', 'Drama', 'Ecchi', 'Romance']",0
+24,32551,105,5.25743252,Digimon Adventure tri. 3: Kokuhaku,"['Action', 'Adventure', 'Comedy', 'Drama']",3
+24,32108,106,5.21442784,Digimon Adventure tri. 2: Ketsui,"['Action', 'Adventure', 'Comedy', 'Drama']",0
+24,3092,107,5.19318825,Junjou Romantica,"['Comedy', 'Drama', 'Romance', 'Shounen Ai']",0
+24,24415,108,5.17386278,Kuroko no Basket 3rd Season,"['Comedy', 'Sports', 'School', 'Shounen']",0
+24,9303,109,5.17386278,Noel no Fushigi na Bouken,"['Adventure', 'Comedy', 'Fantasy']",0
+24,21437,110,5.14424315,Buddy Complex,"['Action', 'Sci-Fi', 'Mecha']",0
+24,1316,111,5.08600979,Idaten Jump,"['Game', 'School', 'Sports']",3
+24,3008,112,5.07235312,Time Bokan Series: Yatterman,"['Adventure', 'Comedy', 'Mecha']",0
+24,1163,113,5.07235312,Neo Ranga,"['Adventure', 'Horror', 'Mecha']",0
+24,35330,114,5.07235312,Poputepipikku,"['Comedy', 'Parody', 'Dementia']",0
+24,32899,115,5.05738473,Watashi ga Motete Dousunda,"['Harem', 'Comedy', 'Romance', 'School', 'Shoujo']",0
+24,1888,116,5.03231144,Ichigo Mashimaro OVA,"['Comedy', 'School', 'Slice of Life']",0
+24,146,117,5.03231144,Kono Minikuku mo Utsukushii Sekai,"['Sci-Fi', 'Comedy', 'Drama', 'Magic', 'Romance', 'Ecchi']",4
+24,5485,118,5.00954288,Shin Mazinger Shougeki! Z-hen,"['Action', 'Super Power', 'Drama', 'Mecha', 'Shounen']",1
+24,19365,119,4.97341073,Samurai Flamenco,"['Action', 'Comedy', 'Parody', 'Super Power']",1
+24,1516,120,4.97341073,Kirarin‚òÜRevolution,"['Comedy', 'Drama', 'Romance', 'Shoujo']",3
+24,25835,121,4.94603569,Shirobako,"['Comedy', 'Drama']",4
+24,37007,122,4.91896036,Hinomaruzumou,"['Martial Arts', 'Shounen', 'Sports']",5
+24,204,123,4.91589176,Yumeria,"['Action', 'Comedy', 'Ecchi', 'Harem', 'Super Power']",0
+24,4232,124,4.87827306,Mobile Suit Gundam MS IGLOO 2: Gravity of the Battlefront,"['Mecha', 'Sci-Fi']",3
+24,258,125,4.87827306,Hitsuji no Uta,"['Horror', 'Drama', 'Vampire']",4
+24,2895,126,4.87827306,Kujiratori,['Adventure'],1
+24,233,127,4.80473689,Daa! Daa! Daa!,"['Comedy', 'Sci-Fi', 'Shoujo']",3
+24,1325,128,4.76879396,Hamelin no Violin Hiki,"['Adventure', 'Drama', 'Fantasy']",1
+24,866,129,4.76879396,Slayers Premium,"['Adventure', 'Comedy', 'Fantasy', 'Magic', 'Shounen']",0
+24,28981,130,4.73338479,Ame-iro Cocoa,"['Comedy', 'Slice of Life']",1
+24,1992,131,4.69849759,Chou Kousoku Gran Doll,"['Action', 'Comedy', 'Mecha', 'School']",2
+24,4719,132,4.69849759,Queen's Blade: Rurou no Senshi,"['Action', 'Adventure', 'Ecchi', 'Fantasy']",0
+24,22135,133,4.68799533,Ping Pong the Animation,"['Drama', 'Psychological', 'Seinen', 'Sports']",3
+24,2051,134,4.6641209,Akai Kiba: Blue Sonnet,"['Action', 'Drama', 'Sci-Fi', 'Shoujo', 'Super Power']",0
+24,541,135,4.6641209,Tenchi Muyou! Ryououki 3rd Season,"['Action', 'Comedy', 'Harem', 'Sci-Fi', 'Shounen', 'Space']",1
+24,11759,136,4.63958484,Accel World,"['Action', 'Game', 'Sci-Fi', 'Romance', 'School']",1
+24,1782,137,4.63024358,Hyakki,"['Hentai', 'Horror']",0
+24,2363,138,4.63024358,Pokemon Housoukyoku,"['Adventure', 'Comedy', 'Kids', 'Fantasy']",2
+24,5830,139,4.5639442,Tsurupika Hagemaru-kun,"['Kids', 'Comedy']",1
+24,8899,140,4.53150144,Kaitei Shounen Marine,"['Action', 'Adventure', 'Kids', 'Sci-Fi']",1
+24,3948,141,4.43356097,Mahou Sensei Negima!: Introduction Film,"['Action', 'Harem', 'Comedy', 'Supernatural', 'Romance', 'Ecchi']",0
+24,10534,142,4.31670464,Doraemon Movie 31: Shin Nobita to Tetsujin Heidan - Habatake Tenshi-tachi,"['Adventure', 'Comedy', 'Kids', 'Fantasy', 'Mecha', 'Shounen']",4
+24,5177,143,4.28767049,Denpa-teki na Kanojo,"['Mystery', 'Thriller', 'School']",4
+24,33091,144,4.25902431,Planetarian: Chiisana Hoshi no Yume,"['Sci-Fi', 'Drama']",0
+24,32829,145,4.23075835,Nobunaga no Shinobi,"['Comedy', 'Historical']",0
+24,6443,146,4.23075835,AIKa Zero,"['Action', 'Ecchi', 'Adventure', 'Comedy']",0
+24,25519,147,4.17533726,Yuuki Yuuna wa Yuusha de Aru,"['Slice of Life', 'Psychological', 'Drama', 'Magic', 'Fantasy']",3
+24,12979,148,4.14816766,Naruto SD: Rock Lee no Seishun Full-Power Ninden,"['Action', 'Comedy', 'Parody']",0
+24,36864,149,4.12134937,Akkun to Kanojo,"['Comedy', 'Josei', 'Romance', 'School']",0

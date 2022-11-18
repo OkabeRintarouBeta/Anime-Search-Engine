@@ -1,0 +1,151 @@
+qid,docno,Rank,BM25 score,title,label
+20,27387,0,11.7400375,Under the Dog,0
+20,1200,1,11.6823256,Gun-dou Musashi,2
+20,3115,2,11.1183014,Toki no Tabibito: Time Stranger,3
+20,38397,3,10.7058766,Nande Koko ni Sensei ga!?,0
+20,32171,4,10.1137279,Ange Vierge,0
+20,6055,5,10.1137279,F,0
+20,2476,6,9.31128463,School Days,5
+20,9509,7,9.27564418,Yami no Purple Eye,0
+20,586,8,8.8291884,Ayakashi: Japanese Classic Horror,0
+20,15863,9,8.63188384,Ginga Kikoutai Majestic Prince,1
+20,1142,10,8.5666136,Hachimitsu to Clover II,4
+20,1992,11,8.49647539,Chou Kousoku Gran Doll,2
+20,1718,12,8.34177419,Winter Garden,3
+20,11783,13,8.31267088,Dog Days',3
+20,28999,14,8.28551412,Charlotte,3
+20,5042,15,8.25246229,Kiss x Sis,2
+20,29511,16,8.1956108,Ongaku Shoujo,5
+20,20541,17,8.07962194,Mikakunin de Shinkoukei,4
+20,4921,18,8.05958953,Ramayana: The Legend of Prince Rama,2
+20,756,19,8.03894703,School Days ONA,1
+20,5150,20,8.03894703,Hatsukoi Limited.,5
+20,39326,21,7.96792994,Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?,4
+20,34539,22,7.95425375,Saint Seiya: Saintia Shou,1
+20,17777,23,7.87445452,"Saikin, Imouto no Yousu ga Chotto Okashiinda ga.",3
+20,201,24,7.87445452,Video Girl Ai,4
+20,577,25,7.85100214,Kagi Hime Monogatari: Eikyuu Alice Rondo,3
+20,6351,26,7.76516711,"Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen",4
+20,1042,27,7.71687825,Bronze: Zetsuai Since 1989,3
+20,320,28,7.67540296,A Kite,3
+20,39022,29,7.66396424,Ling Feng Zhe,2
+20,37982,30,7.64061733,Domestic na Kanojo,5
+20,2252,31,7.5631901,Devilman,1
+20,6987,32,7.44293358,Aki-Sora,4
+20,36214,33,7.37926178,Asagao to Kase-san.,5
+20,33161,34,7.37926178,Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA,0
+20,1634,35,7.23673563,Ai Shimai: Futari no Kajitsu,2
+20,30531,36,7.23597637,Gakuen Handsome The Animation,4
+20,1553,37,7.17923991,Queen Emeraldas,1
+20,28297,38,7.11135099,Ore Monogatari!!,5
+20,35134,39,7.06060497,Koukyoushihen Eureka Seven Hi-Evolution 1,0
+20,1648,40,7.05769692,UFO Princess Valkyrie 4: Toki to Yume to Ginga no Utage,0
+20,3840,41,7.0543086,Crystal Blaze,0
+20,3210,42,7.05180927,Ikoku Irokoi Romantan,1
+20,2131,43,7.05180927,Bokusatsu Tenshi Dokuro-chan 2,4
+20,605,44,7.00022487,Tenshi ni Narumon!,4
+20,669,45,6.98747329,Kujibiki Unbalance,5
+20,3613,46,6.9463932,Toshokan Sensou,1
+20,11135,47,6.94596407,Hybrid Child,1
+20,33419,48,6.9288235,12-sai.: Chicchana Mune no Tokimeki 2nd Season,1
+20,23579,49,6.9288235,12-sai.,1
+20,3110,50,6.92424962,Kaze no Naka no Shoujo: Kinpatsu no Jeanie,0
+20,712,51,6.92046351,Zoids Genesis,0
+20,3087,52,6.92046351,Cencoroll,3
+20,19111,53,6.89814891,Love Live! School Idol Project 2nd Season,1
+20,6610,54,6.88085283,Ibara no Ou,0
+20,33654,55,6.87497993,Hitorijime My Hero,3
+20,3239,56,6.86892539,Cream Lemon,0
+20,2042,57,6.86892539,Five Star Stories,0
+20,1116,58,6.81005401,Junkers Come Here,3
+20,7058,59,6.79728487,Uragiri wa Boku no Namae wo Shitteiru,2
+20,12321,60,6.75218319,Thermae Romae,0
+20,31380,61,6.72266625,To LOVE-Ru Darkness 2nd OVA,0
+20,9919,62,6.71572243,Ao no Exorcist,0
+20,2238,63,6.69528764,Fuyu no Semi,1
+20,2702,64,6.69528764,Bakukyuu Renpatsu!! Super B-Daman,0
+20,31710,65,6.59698395,Divine Gate,0
+20,13201,66,6.58432537,Monster Farm: Legend e no Michi,2
+20,23283,67,6.55833205,Zankyou no Terror,0
+20,2018,68,6.49892629,Warau Hyouteki,4
+20,24037,69,6.49892629,Selector Spread WIXOSS,0
+20,432,70,6.47698113,Iria: Zeiram The Animation,1
+20,35672,71,6.47698113,Yama no Susume: Third Season,2
+20,1965,72,6.47454127,Sola,2
+20,33733,73,6.45562808,Inazuma Eleven: Ares no Tenbin,0
+20,24997,74,6.44834806,Love Live! The School Idol Movie,1
+20,9712,75,6.43901729,Maria‚Ä†Holic Alive,5
+20,3512,76,6.43901729,Tenshi Nanka ja Nai,3
+20,748,77,6.42461092,True Love Story,5
+20,37396,78,6.41925627,Shikioriori,3
+20,20945,79,6.38656279,Iron Kid,1
+20,10347,80,6.3730808,Happy Kappy,0
+20,31798,81,6.35493279,Kiznaiver,0
+20,1532,82,6.27246128,Suki na Mono wa Suki Dakara Shou ga Nai!!,4
+20,32603,83,6.27246128,Okusama ga Seitokaichou!+!,2
+20,852,84,6.22333364,Gokinjo Monogatari,4
+20,9254,85,6.16864994,Mianhada Saranghanda,2
+20,743,86,6.12735144,Umi ga Kikoeru,5
+20,33247,87,6.12735144,Tsubasa to Hotaru (2016),5
+20,3320,88,6.08046209,Harbor Light Monogatari: Fashion Lala yori,0
+20,1912,89,6.03428493,Marginal Prince: Gekkeiju no Ouji-tachi,2
+20,621,90,6.02214238,Night Walker: Mayonaka no Tantei,2
+20,35228,91,5.98880385,Haikara-san ga Tooru Movie 2: Hana no Tokyo Dai Roman,1
+20,33378,92,5.98880385,"Haikara-san ga Tooru Movie 1: Benio, Hana no 17-sai",1
+20,2839,93,5.98294479,Ariel Visual,0
+20,6572,94,5.97344981,Shakugan no Shana S,1
+20,9333,95,5.97344981,Koi‚òÜSento,3
+20,2454,96,5.94400324,Kimagure Orange‚òÜRoad: Ano Hi ni Kaeritai,4
+20,2054,97,5.92553834,Carol,0
+20,1059,98,5.92553834,Mutant Turtles: Choujin Densetsu-hen,0
+20,10578,99,5.89986793,C¬≥,3
+20,6718,100,5.87838933,Yamato 2520,0
+20,256,101,5.85638321,Hoshi no Koe,4
+20,5485,102,5.83980506,Shin Mazinger Shougeki! Z-hen,0
+20,7376,103,5.77130886,Kurumiwari Ningyou,0
+20,195,104,5.77130886,Onegai‚òÜTeacher,4
+20,1374,105,5.74133926,Kyoushoku Soukou Guyver (2005),0
+20,105,106,5.7296919,Boys Be...,5
+20,1021,107,5.69706505,Kaikan Phrase,2
+20,6773,108,5.65346845,Shakugan no Shana III (Final),1
+20,1614,109,5.64823297,Captain Tsubasa: Road to 2002,0
+20,12531,110,5.61119838,Sakamichi no Apollon,2
+20,72,111,5.56824681,Full Metal Panic? Fumoffu,1
+20,415,112,5.56824681,Tonari no Yamada-kun,1
+20,2726,113,5.52659226,Sukeban Deka,1
+20,37623,114,5.49207159,Chiisana Eiyuu: Kani to Tamago to Toumei Ningen,0
+20,1007,115,5.48555631,Ranma ¬Ω OVA,0
+20,12355,116,5.45595785,Ookami Kodomo no Ame to Yuki,2
+20,11981,117,5.4171849,Mahou Shoujo Madoka‚òÖMagica Movie 3: Hangyaku no Monogatari,0
+20,9936,118,5.40528584,Maken-Ki!,3
+20,6505,119,5.3912627,There She Is!!,0
+20,3092,120,5.3666502,Junjou Romantica,3
+20,38573,121,5.36602516,Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka?,2
+20,587,122,5.36602516,Hanbun no Tsuki ga Noboru Sora,4
+20,34902,123,5.36279896,Tsurezure Children,2
+20,5177,124,5.34431295,Denpa-teki na Kanojo,2
+20,9289,125,5.3273307,Hanasaku Iroha,0
+20,1896,126,5.32282163,Akibakei Kanojo,4
+20,1618,127,5.2891903,Soreyuke! Uchuu Senkan Yamamoto Yohko (1999),0
+20,2547,128,5.27337552,Princess Sara,0
+20,7170,129,5.27337552,Kataku,3
+20,39569,130,5.27337552,Sora no Aosa wo Shiru Hito yo,3
+20,31953,131,5.22061797,New Game!,0
+20,5155,132,5.21115412,Genji Monogatari Sennenki,1
+20,1546,133,5.2042966,Negima!?,1
+20,31338,134,5.17797692,Hundred,2
+20,35413,135,5.1704314,Imouto sae Ireba Ii.,3
+20,10711,136,5.14193787,Plastic Neesan,2
+20,4926,137,5.13700408,Marco: Haha wo Tazunete Sanzenri,0
+20,1029,138,5.13700408,Omoide Poroporo,0
+20,604,139,5.10639702,Mahou no Stage Fancy Lala,0
+20,267,140,5.10497865,Gungrave,0
+20,4024,141,5.08859052,Sanrio Anime Sekai Meisaku Gekijou,0
+20,1041,142,5.07720388,Zetsuai 1989,1
+20,2967,143,5.07142956,Saishuu Shiken Kujira,1
+20,1829,144,5.03676915,Gedo Senki,0
+20,615,145,5.03676915,Nurse Witch Komugi-chan Magikarte,0
+20,543,146,4.9761478,Vampire Hunter D (2000),0
+20,2034,147,4.97604948,Lovely‚òÖComplex,5
+20,6201,148,4.96901456,Princess Lover!,3
+20,28595,149,4.96901456,Pac-World,1

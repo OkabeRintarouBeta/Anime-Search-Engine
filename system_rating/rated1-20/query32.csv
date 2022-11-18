@@ -1,0 +1,151 @@
+qid,docno,Rank,BM25 score,Title,label
+32,2406,0,19.9451963,Sazae-san,0
+32,1782,1,11.4823044,Hyakki,3
+32,1003,2,11.0010687,Aa! Megami-sama! (TV) Specials,1
+32,39569,3,10.477188,Sora no Aosa wo Shiru Hito yo,0
+32,31043,4,10.0987882,Boku dake ga Inai Machi,3
+32,12123,5,9.83900466,Yurumates 3D,0
+32,4062,6,9.75797432,Musashi no Ken,0
+32,1342,7,9.74031069,Violence Jack: Jigoku Gai-hen,5
+32,3686,8,9.50456312,Tokimeki Memorial: Only Love Specials,0
+32,904,9,9.42447535,Dragon Ball Z Movie 11: Super Senshi Gekiha!! Katsu no wa Ore da,1
+32,2692,10,9.32862872,CB Chara Go Nagai World,0
+32,38329,11,9.31699731,Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai,0
+32,2450,12,9.27121469,Crayon Shin-chan Movie 09: Arashi wo Yobu Mouretsu! Otona Teikoku no Gyakushuu,0
+32,5267,13,9.24035366,Gamba no Bouken,0
+32,384,14,9.10459473,Gantz,5
+32,33726,15,8.98527572,Saiyuuki Reload Blast,3
+32,2564,16,8.97092793,Code-E,0
+32,4591,17,8.92693338,Yoiko,0
+32,38201,18,8.84325135,Osomatsu-san Movie,0
+32,5162,19,8.83697624,Minami-ke Okaeri,0
+32,4031,20,8.82290612,Sakigake!! Otokojuku Movie,4
+32,2903,21,8.82290612,Sakigake!! Otokojuku,4
+32,3616,22,8.76013961,Kamen no Maid Guy,0
+32,2038,23,8.76013961,Mahou no Star Magical Emi,0
+32,230,24,8.74390221,Air Master,5
+32,275,25,8.5808771,Love‚ô•Love?,0
+32,5902,26,8.22815438,Hyakujitsu no Bara,3
+32,33419,27,8.22633498,12-sai.: Chicchana Mune no Tokimeki 2nd Season,0
+32,23579,28,8.22633498,12-sai.,0
+32,94,29,8.12033531,Mobile Suit Gundam SEED Destiny,3
+32,37662,30,8.0652756,Shinya! Tensai Bakabon,0
+32,6280,31,8.02528532,Cat Shit One,0
+32,37981,32,7.94906653,Kaijuu no Kodomo,0
+32,2775,33,7.895507,Genocyber,5
+32,1341,34,7.895507,Violence Jack: Harlem Bomber-hen,5
+32,4094,35,7.76985922,Batman: Gotham Knight,0
+32,2221,36,7.73079457,Aishite Knight,0
+32,1207,37,7.67772645,Wata no Kuni Hoshi,0
+32,2963,38,7.6277021,Minami-ke,0
+32,10607,39,7.6277021,Rerere no Tensai Bakabon,0
+32,1343,40,7.415817,Violence Jack: Hell's Wind-hen,4
+32,10257,41,7.39081966,Pretty Rhythm: Aurora Dream,0
+32,31478,42,7.138687,Bungou Stray Dogs,0
+32,33142,43,7.10860619,Re:Zero kara Hajimeru Break Time,0
+32,1710,44,7.05709444,Rockman.EXE,0
+32,34902,45,7.00469423,Tsurezure Children,0
+32,4513,46,6.95306644,Hakujaden,0
+32,38768,47,6.87849669,Black Clover: Jump Festa 2018 Special,0
+32,1613,48,6.87849669,Jikuu Ihoujin Kyoko: Chocola ni Omakase!,0
+32,8440,49,6.80506874,Black Lagoon Omake,0
+32,593,50,6.80265054,Mugen no Ryvius,3
+32,747,51,6.75394775,Haru wo Daite Ita,0
+32,8369,52,6.75394775,Crayon Shin-chan Movie 18: Chou Jikuu! Arashi wo Yobu Ora no Hanayome,0
+32,1822,53,6.7494655,The Hakkenden,4
+32,656,54,6.59389915,Air in Summer,0
+32,5684,55,6.58873656,Fresh Precure!,1
+32,8647,56,6.52639184,Self-Portrait,0
+32,1853,57,6.52133438,Cutey Honey F,1
+32,6793,58,6.4881478,"Kuroshitsuji: Sono Shitsuji, Kougyou",0
+32,2158,59,6.47577251,Terra e... (TV),0
+32,5347,60,6.46025279,Bible Black: Imari Ryoujoku Genba,5
+32,1594,61,6.43797257,Jigoku Shoujo Futakomori,4
+32,37407,62,6.43162257,Penguin Highway,0
+32,196,63,6.42277773,Onegai‚òÜTwins,0
+32,3787,64,6.39580525,The Choujo,0
+32,14227,65,6.39580525,Tonari no Kaibutsu-kun,0
+32,15059,66,6.39544081,Initial D Fifth Stage,0
+32,1750,67,6.39544081,Amaenaide yo!! Katsu!!: Damasarenaide yo!!,0
+32,13755,68,6.39544081,Shanshui Qing,0
+32,1953,69,6.35871177,Code Geass: Hangyaku no Lelouch Picture Drama,0
+32,342,70,6.35871177,Starship Operators,3
+32,38789,71,6.33191635,One Room 2nd Season Special,0
+32,5682,72,6.3131063,Phantom: Requiem for the Phantom,4
+32,5476,73,6.30271239,Fushigi na Melmo,0
+32,1199,74,6.26497392,Nintama Rantarou,0
+32,15197,75,6.23251868,Code Geass: Boukoku no Akito 2 - Hikisakareshi Yokuryuu,5
+32,3302,76,6.21960526,Megachu!,0
+32,225,77,6.21960526,Dragon Ball GT,2
+32,31054,78,6.20857953,"Letchu, Getchu, Saru Getchu",0
+32,1749,79,6.20857953,Amaenaide yo!!: Yasumanaide yo!!,0
+32,2823,80,6.20857953,Barbapapa,0
+32,10937,81,6.1788682,Mobile Suit Gundam: The Origin,1
+32,35466,82,6.1788682,ReLIFE: Kanketsu-hen,0
+32,253,83,6.14869557,Jungle wa Itsumo Hare nochi Guu,0
+32,2795,84,6.05634634,Dragonaut: The Resonance,1
+32,1270,85,6.03977248,Black Magic M-66,0
+32,2648,86,6.03232766,Doraemon: 2112-nen Doraemon Tanjou,0
+32,21773,87,5.97577997,Sugar*Soldier,0
+32,2891,88,5.97577997,Iblard Jikan,0
+32,35427,89,5.94370092,Animegataris,0
+32,28069,90,5.86580657,Shigatsu wa Kimi no Uso: Moments,0
+32,101,91,5.86172079,Air,0
+32,522,92,5.85859035,Metropolis,2
+32,309,93,5.83516977,Akahori Gedou Hour Rabuge,0
+32,32601,94,5.83491159,12-sai.: Chicchana Mune no Tokimeki,0
+32,601,95,5.81232393,Nekojiru-sou,3
+32,2583,96,5.81232393,Soukou Kihei Votoms: The Last Red Shoulder,3
+32,578,97,5.79904347,Hotaru no Haka,2
+32,38297,98,5.79904347,"Maou-sama, Retry!",0
+32,9513,99,5.78912509,Beelzebub,3
+32,14345,100,5.78912509,Btooom!,5
+32,25939,101,5.76361363,Mahou Shoujo Lyrical Nanoha ViVid,3
+32,5279,102,5.75980775,Sekirei: Hajimete no Otsukai,0
+32,594,103,5.75980775,Naruto: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!,2
+32,30103,104,5.75980775,Precure All Stars Movie: Haru no Carnival‚ô™ - Ima Koko kara,0
+32,2723,105,5.70823208,D4 Princess,0
+32,929,106,5.65805736,Seisenshi Dunbine,1
+32,31246,107,5.65757186,Choegang Habche: Mix Master,0
+32,1198,108,5.60780295,Tsuyokiss,0
+32,12187,109,5.55890202,Carnival Phantasm EX Season,0
+32,2071,110,5.55890202,Hana yori Dango (Movie),0
+32,762,111,5.55890202,Bleach: Memories in the Rain,3
+32,37055,112,5.55845223,Youjo Senki Movie,3
+32,39195,113,5.5269911,Beastars,0
+32,9288,114,5.51084657,Heartcatch Precure! Movie: Hana no Miyako de Fashion Show... Desu ka!?,0
+32,10794,115,5.51084657,IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou,0
+32,52,116,5.51084657,Kidou Tenshi Angelic Layer,0
+32,6,117,5.49588411,Trigun,2
+32,966,118,5.48355363,Crayon Shin-chan,0
+32,2959,119,5.48355363,Utsukushiki Sei no Dendoushi Reirei,3
+32,25,120,5.46512532,Sunabouzu,0
+32,21421,121,5.46361486,Mahou Shoujo Taisen,0
+32,381,122,5.46361486,Fushigi Yuugi: Dai Ni Bu,1
+32,12431,123,5.46321129,Uchuu Kyoudai,0
+32,12321,124,5.41718588,Thermae Romae,0
+32,2497,125,5.41718588,Shin Cutey Honey,0
+32,36951,126,5.41718588,Yuu‚òÜYuu‚òÜHakusho: Two Shots/Noru ka Soru ka,0
+32,323,127,5.40065907,Mousou Dairinin,5
+32,47,128,5.37488059,Akira,2
+32,6511,129,5.37153934,Chou Seimeitai Transformers Beast Wars Neo,1
+32,1557,130,5.32665564,Shounen Onmyouji,3
+32,32551,131,5.25743252,Digimon Adventure tri. 3: Kokuhaku,0
+32,297,132,5.23910149,Grenadier: Hohoemi no Senshi,0
+32,32108,133,5.21442784,Digimon Adventure tri. 2: Ketsui,0
+32,25857,134,5.19639496,PriPara Movie: Mi~nna Atsumare! Prism‚òÜTours,0
+32,3092,135,5.19318825,Junjou Romantica,0
+32,1277,136,5.11303713,Ys: Tenkuu no Shinden - Adol Christine no Bouken,1
+32,2683,137,5.08070935,Tokyo Majin Gakuen Kenpucho: Tou Dai Ni Maku,4
+32,3008,138,5.07235312,Time Bokan Series: Yatterman,0
+32,1163,139,5.07235312,Neo Ranga,5
+32,35330,140,5.07235312,Poputepipikku,0
+32,1888,141,5.03231144,Ichigo Mashimaro OVA,0
+32,146,142,5.03231144,Kono Minikuku mo Utsukushii Sekai,0
+32,5924,143,5.02282541,Koushoku Ichidai Otoko,3
+32,5485,144,5.00954288,Shin Mazinger Shougeki! Z-hen,1
+32,1556,145,4.99992503,Kikoushi Enma,5
+32,36548,146,4.9735648,Kokkoku,4
+32,176,147,4.95409515,Triangle Heart: Sweet Songs Forever,0
+32,31417,148,4.91589176,Binan Koukou Chikyuu Boueibu LOVE! LOVE!,0
+32,204,149,4.91589176,Yumeria,0

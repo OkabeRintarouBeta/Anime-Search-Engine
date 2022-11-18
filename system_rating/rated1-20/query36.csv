@@ -1,0 +1,151 @@
+qid,docno,Rank,BM25 score,Title,label
+36,40480,0,17.9264008,Sound & Fury,2
+36,13029,1,16.1438122,Arashi no Yoru ni: Himitsu no Tomodachi,1
+36,9063,2,11.7198799,Toaru Kagaku no Railgun: Entenka no Satsuei Model mo Raku Ja Arimasen wa ne.,3
+36,32247,3,11.3344425,Tekkon Kinkreet Pilot,2
+36,27525,4,10.3229491,Fate/kaleid liner Prisma‚òÜIllya 2wei Herz!,2
+36,6922,5,9.92847977,Fate/stay night Movie: Unlimited Blade Works,5
+36,15279,6,9.7423385,Kira Kira 5th Anniversary Live Anime: Kick Start Generation,1
+36,23277,7,9.25697511,Saenai Heroine no Sodatekata,4
+36,26057,8,9.22356252,Fate/kaleid liner Prisma‚òÜIllya 2wei!: Mahou Shoujo in Onsen Ryokou,5
+36,1813,9,9.14242406,Genshiken OVA,1
+36,770,10,9.06270068,Pale Cocoon,5
+36,731,11,8.90735363,Interstella5555: The 5tory of The 5ecret 5tar 5ystem,3
+36,4181,12,8.87731709,Clannad: After Story,3
+36,240,13,8.03041018,Genshiken,1
+36,3229,14,7.9530685,Kimi ga Aruji de Shitsuji ga Ore de,3
+36,415,15,7.83318218,Tonari no Yamada-kun,5
+36,2508,16,7.60393535,Genshiken 2,1
+36,33190,17,7.44061688,Planetarian: Hoshi no Hito,2
+36,23327,18,6.99020672,Space‚òÜDandy 2nd Season,5
+36,30727,19,6.85194816,Saenai Heroine no Sodatekata ‚ô≠,5
+36,6399,20,6.39228681,Higashi no Eden: Falling Down,3
+36,19383,21,6.34959618,Yami Shibai,3
+36,8861,22,6.12506595,"Yosuga no Sora: In Solitude, Where We Are Least Alone.",2
+36,1865,23,5.94537565,Getsumen To Heiki Mina,2
+36,6945,24,5.94012811,Gintama: Shiroyasha Koutan,3
+36,9581,25,5.92966076,MM! Specials,4
+36,28149,26,5.89110369,Nihon Animator Mihonichi,3
+36,6023,27,5.86689369,Nogizaka Haruka no Himitsu: Purezza,2
+36,4966,28,5.85668264,Jigazou,3
+36,18799,29,5.85668264,Take Your Way,4
+36,4813,30,5.785479,Lolita Anime,1
+36,4107,31,5.74876839,Tengen Toppa Gurren Lagann Movie 1: Gurren-hen,2
+36,1797,32,5.70283951,Animation Seisaku Shinkou Kuromi-chan,4
+36,19685,33,5.68918221,Kanojo ga Flag wo Oraretara,1
+36,12449,34,5.68186167,Maken-Ki! Specials,2
+36,1196,35,5.64814245,Masuda Kousuke Gekijou Gag Manga Biyori,2
+36,6935,36,5.61314877,Enkinhou no Hako: Hakase no Sagashimono,1
+36,35427,37,5.59581403,Animegataris,1
+36,2286,38,5.56935309,Little Nemo,2
+36,3444,39,5.55425053,The‚òÜUltraman,2
+36,11917,40,5.54934409,Major: World Series,2
+36,17739,41,5.49017053,Hidamari Sketch: Sae Hiro Sotsugyou-hen,4
+36,37655,42,5.49017053,Sword Gai The Animation Part II,3
+36,17409,43,5.49017053,Sukitte Ii na yo.: Mei and Marshmallow,1
+36,34720,44,5.49017053,In Search of Axis,2
+36,33811,45,5.49017053,Teekyuu 8,3
+36,35370,46,5.49017053,Teekyuu 9,3
+36,31560,47,5.49017053,Miss Monochrome The Animation 3,3
+36,10445,48,5.49017053,Perfect Day,5
+36,1885,49,5.48378049,Master of Epic: The Animation Age,3
+36,29619,50,5.48378049,Good-by Marilyn,3
+36,9253,51,5.47922364,Steins;Gate,5
+36,25875,52,5.45394271,"Wake Up, Girl Zoo!",1
+36,461,53,5.45394271,One Piece Movie 3: Chinjuu-jima no Chopper Oukoku,2
+36,7705,54,5.44197279,Starry‚òÜSky,4
+36,18391,55,5.42755227,Mini Van,2
+36,8986,56,5.42130708,Supernatural The Animation,2
+36,12783,57,5.36634629,Sora no Otoshimono Final: Eternal My Master,2
+36,27927,58,5.36634629,Urawa no Usagi-chan,3
+36,36119,59,5.36634629,Uma no Friends,3
+36,13561,60,5.30650534,Guilty Crown: 4-koma Gekijou,2
+36,40151,61,5.30650534,Shao Nu Qian Xian Ren Xing Xiao Ju Chang,3
+36,19919,62,5.30650534,Tesagure! Bukatsumono,3
+36,7017,63,5.30650534,K-On!: Ura-On!,1
+36,7295,64,5.30650534,Koi Tsubomi,4
+36,13859,65,5.30650534,Accel World: Acchel World.,2
+36,4458,66,5.30202667,Bavel no Hon,2
+36,1812,67,5.30202667,Hanoka,1
+36,30384,68,5.30202667,Miss Monochrome The Animation 2,3
+36,6941,69,5.29979016,Toriko: Jump Super Anime Tour 2009 Special,5
+36,1070,70,5.28092806,Love Get Chu,3
+36,2151,71,5.2726534,Nils no Fushigi na Tabi,3
+36,29617,72,5.2726534,Good-by Elvis and USA,4
+36,6884,73,5.24798426,Ookami to Koushinryou II Specials,3
+36,28381,74,5.24798426,Monster High: Kowa-ike Girls,3
+36,11543,75,5.24798426,Hate You,3
+36,13267,76,5.24798426,Shinryaku!! Ika Musume,3
+36,9203,77,5.24798426,K-On!!: Ura-On!!,2
+36,3906,78,5.24798426,H. P. Lovecraft's The Dunwich Horror and Other Stories,2
+36,12669,79,5.24798426,Amagami SS+ Plus Specials,2
+36,15961,80,5.21487252,Shakotan‚òÖBoogie,3
+36,9591,81,5.19073987,Code Geass: Hangyaku no Lelouch R2 Omake Flash,1
+36,983,82,5.19073987,Cosplay Complex: Extra Identification,2
+36,16317,83,5.19073987,Ishida to Asakura,3
+36,34332,84,5.19073987,Hulaing Babies,3
+36,33818,85,5.19073987,Amanchu!: Yakusoku no Natsu to Atarashii Omoide no Koto,4
+36,9202,86,5.19073987,Seikon no Qwaser: Jotei no Shouzou,3
+36,2617,87,5.19073987,Ghiblies,1
+36,34611,88,5.19073987,Answer (2016),4
+36,25835,89,5.14229771,Shirobako,5
+36,5263,90,5.13473083,Tomorrow's Song,3
+36,31138,91,5.13473083,Overlord: Ple Ple Pleiades,3
+36,33820,92,5.13473083,Ao Oni The Animation (Movie),1
+36,35814,93,5.13473083,Granblue Fantasy The Animation: Kabocha no Lantern,4
+36,24459,94,5.13473083,Tales of Zestiria: Doushi no Yoake,5
+36,21495,95,5.13473083,Denpa Kyoushi,2
+36,30300,96,5.13473083,"High School DxD New: Oppai, Tsutsumimasu!",5
+36,10647,97,5.13473083,Ao no Exorcist: Ura Ex,2
+36,37370,98,5.13053731,The Perfect World,2
+36,3549,99,5.10302848,Allison to Lillia,2
+36,20449,100,5.07991759,"Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!: Motenaishi, Nazomeite Miru",3
+36,7518,101,5.07991759,Boku wa Kuma,3
+36,38046,102,5.07991759,Kyoukaisenjou no Horizon Special,3
+36,6137,103,5.07991759,Tsuki no Waltz,5
+36,3558,104,5.05647315,Doukyuusei (OVA): Natsu no Owari ni,3
+36,6680,105,5.04888642,Doujouji,4
+36,33513,106,5.02626224,Ansatsu Kyoushitsu: 365-nichi no Jikan,3
+36,10189,107,5.02626224,Hunter x Hunter Pilot,3
+36,7474,108,5.02626224,"Onegai‚òÜTeacher: Marie, Ai no Gekijou",2
+36,13479,109,4.9737285,Uchuu Kyoudai: Apo's Dream,2
+36,32613,110,4.9737285,Elsword: El-ui Yeoin,3
+36,37885,111,4.96979373,Dragon Ball Heroes,5
+36,29988,112,4.96979373,Commercial War,2
+36,2934,113,4.96979373,Shiawase Sou no Okojo-san,3
+36,35122,114,4.94397731,Shingeki no Kyotou,3
+36,35658,115,4.92228154,Kuroko no Basket: Last Game NG-shuu,2
+36,11809,116,4.92228154,gdgd Fairies,1
+36,27419,117,4.92228154,"Tari Tari: Kumottari, Kagayaitari, Mata Itsuka Utattari",3
+36,6857,118,4.92228154,Momotarou no Umiwashi,2
+36,6533,119,4.92228154,Atarashii Sekai,5
+36,16131,120,4.92228154,Machine Robo: Butchigiri Battle Hackers,3
+36,4062,121,4.92228154,Musashi no Ken,3
+36,12879,122,4.92228154,Dantalian no Shoka: Ibarahime,3
+36,9735,123,4.91842772,Gintama: Shinyaku Benizakura-hen,2
+36,8687,124,4.91842772,Doraemon (2005),3
+36,3418,125,4.89314084,Jungle no Ouja Taa-chan,1
+36,5272,126,4.87188799,Tondemo Nezumi Daikatsuyaku,3
+36,3737,127,4.87188799,Usavich,4
+36,18149,128,4.87188799,Ishida to Asakura Special,3
+36,14835,129,4.87188799,The iDOLM@STER Shiny Festa,3
+36,1037,130,4.84333919,Saint Beast: Seijuu Kourin-hen,2
+36,9167,131,4.82251583,Shukufuku no Campanella Specials,3
+36,7782,132,4.82251583,K√§mpfer Picture Drama,3
+36,17643,133,4.82251583,Little Busters!: Sekai no Saitou wa Ore ga Mamoru!,4
+36,31676,134,4.82251583,Persona 2: Another Self,1
+36,25567,135,4.77413432,DRAMAtical Murder: Data_xx_Transitory,1
+36,12917,136,4.72671393,Madang-eul Naon Amtalg,3
+36,8774,137,4.72671393,3-tsu no Hanashi,1
+36,14875,138,4.72671393,Eureka Seven AO: Jungfrau no Hanabana-tachi,3
+36,15313,139,4.72316015,Wooser no Sono Higurashi,2
+36,2623,140,4.69983649,Flanders no Inu (Movie),2
+36,10842,141,4.69983649,Fullmetal Alchemist: The Sacred Star of Milos Specials,1
+36,3024,142,4.69983649,Ribbon no Kishi,3
+36,37341,143,4.68022631,Yuru Camp‚ñ≥ Specials,3
+36,14267,144,4.68022631,Persona 4 the Animation: The Factor of Hope,3
+36,10083,145,4.67674206,Shiki Specials,3
+36,1688,146,4.67674206,Nanatsu-iro‚òÖDrops,4
+36,4948,147,4.6346442,Shounen Sarutobi Sasuke,3
+36,12665,148,4.6346442,"Yuru Yuri: Doushite, Tomaranai, Tokimeki, Dokidoki, Paradox, Eternal",3
+36,1798,149,4.61512171,Animation Seisaku Shinkou Kuromi-chan 2,3

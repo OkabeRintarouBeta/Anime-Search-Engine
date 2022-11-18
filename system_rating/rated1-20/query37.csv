@@ -1,0 +1,157 @@
+qid,docno,Rank,BM25 score,Title,label
+37,22215,0,9.96564005,Pretty Rhythm: All Star Selection,0
+37,2740,1,9.80196301,Monkey Turn,3
+37,8986,2,9.56517261,Supernatural The Animation,0
+37,35427,3,9.35719451,Animegataris,1
+37,21439,4,9.20490874,Uta no‚òÜPrince-sama‚ô™ Maji Love Revolutions,3
+37,12481,5,8.82317558,Gregory Horror Show: The Second Guest,3
+37,32013,6,8.81949129,Oshiete! Galko-chan,3
+37,2236,7,8.72742653,Toki wo Kakeru Shoujo,4
+37,23787,8,8.67096728,Hi‚òÜsCoool! SeHa Girls,2
+37,29163,9,8.65482241,Sore ga Seiyuu!,2
+37,1797,10,8.4639347,Animation Seisaku Shinkou Kuromi-chan,4
+37,9167,11,8.31112202,Shukufuku no Campanella Specials,0
+37,25835,12,8.28256753,Shirobako,5
+37,685,13,8.26513437,To Heart: Remember My Memories,2
+37,30384,14,8.25243762,Miss Monochrome The Animation 2,3
+37,29513,15,8.02836587,Aki no Kanade,3
+37,1798,16,7.95369907,Animation Seisaku Shinkou Kuromi-chan 2,4
+37,40369,17,7.91030332,Mini Yuri,3
+37,12711,18,7.77348327,Uta no‚òÜPrince-sama‚ô™ Maji Love 2000%,3
+37,1046,19,7.76059588,Elf wo Karu Mono-tachi II,1
+37,40477,20,7.61644981,Curry Meshi x Zombieland Saga,0
+37,3470,21,7.5889449,Special A,2
+37,11783,22,7.53071639,Dog Days',3
+37,74,23,7.43539267,Gakuen Alice,3
+37,309,24,7.25507315,Akahori Gedou Hour Rabuge,2
+37,615,25,7.13394772,Nurse Witch Komugi-chan Magikarte,1
+37,1080,26,7.13394772,Sentou Yousei Yukikaze,4
+37,17357,27,7.10896334,Dokidoki! Precure Movie: Mana Kekkon!!? Mirai ni Tsunagu Kibou no Dress,3
+37,743,28,7.05414272,Umi ga Kikoeru,1
+37,14075,29,6.96959199,Zetsuen no Tempest,5
+37,22135,30,6.96599312,Ping Pong the Animation,5
+37,2713,31,6.91049102,Rockman.EXE Beast+,2
+37,444,32,6.89463915,Maria-sama ga Miteru: Haru,2
+37,1546,33,6.85359289,Negima!?,2
+37,1674,34,6.85274809,Captain Tsubasa J,4
+37,2791,35,6.84306223,Makasete Iruka!,3
+37,12365,36,6.77859214,Bakuman. 3rd Season,5
+37,10217,37,6.74218926,Kaitou Tenshi Twin Angel: Kyun Kyun‚òÜTokimeki Paradise!!,3
+37,1992,38,6.74218926,Chou Kousoku Gran Doll,3
+37,776,39,6.74218926,Nanaka 6/17,5
+37,31439,40,6.69285983,Wagamama High Spec,2
+37,264,41,6.6671925,Hajime no Ippo: Champion Road,5
+37,9333,42,6.63111407,Koi‚òÜSento,0
+37,5258,43,6.59633527,Hajime no Ippo: New Challenger,4
+37,2585,44,6.52558763,Soukou Kihei Votoms: Red Shoulder Document - Yabou no Roots,3
+37,5578,45,6.51969307,Gosho Aoyama's Collection of Short Stories,3
+37,30205,46,6.45945588,Aoharu x Kikanjuu,4
+37,1466,47,6.42336723,Hakugei Densetsu,3
+37,3576,48,6.41140446,Kodai Ouja Kyouryuu King,1
+37,6399,49,6.39228681,Higashi no Eden: Falling Down,0
+37,103,50,6.36623018,Akazukin Chacha,4
+37,1362,51,6.35417159,Street Fighter II Movie,4
+37,2530,52,6.3358331,G-Taste,3
+37,27775,53,6.32353622,Plastic Memories,1
+37,7059,54,6.32353622,Black‚òÖRock Shooter (OVA),2
+37,30651,55,6.28647994,Itoshi no Muco,3
+37,1524,56,6.27792618,Fuujin Monogatari,2
+37,5298,57,6.27590343,Yu‚òÜGi‚òÜOh! 5D's: Shinkasuru Kettou! Stardust vs. Red Demon's,3
+37,4903,58,6.22824202,Kyou no 5 no 2 (TV),3
+37,3270,59,6.19375818,IGPX: Immortal Grand Prix (2005),1
+37,19319,60,6.16692823,Gundam Build Fighters,3
+37,23327,61,6.15266591,Space‚òÜDandy 2nd Season,4
+37,18119,62,6.11155957,Servant x Service,2
+37,34209,63,6.10932827,Meiji Tokyo Renka,4
+37,39063,64,6.06369789,Fairy Gone,1
+37,8769,65,6.05978714,Ore no Imouto ga Konnani Kawaii Wake ga Nai,2
+37,38483,66,6.045612,Ore wo Suki nano wa Omae dake ka yo,1
+37,897,67,6.02591234,Dragon Ball Z Movie 04: Super Saiyajin da Son Gokuu,3
+37,22,68,6.01949075,Tennis no Ouji-sama,5
+37,40480,69,6.01521395,Sound & Fury,0
+37,1865,70,5.94537565,Getsumen To Heiki Mina,0
+37,6945,71,5.94012811,Gintama: Shiroyasha Koutan,3
+37,9581,72,5.92966076,MM! Specials,4
+37,10572,73,5.91400058,Ro-Kyu-Bu!,3
+37,28149,74,5.89110369,Nihon Animator Mihonichi,2
+37,6023,75,5.86689369,Nogizaka Haruka no Himitsu: Purezza,2
+37,4966,76,5.85668264,Jigazou,1
+37,18799,77,5.85668264,Take Your Way,1
+37,34284,78,5.83850759,Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou,2
+37,600,79,5.8363091,Legend of Duo,1
+37,8899,80,5.82978138,Kaitei Shounen Marine,3
+37,33023,81,5.82489325,Touken Ranbu: Hanamaru,2
+37,13029,82,5.82086308,Arashi no Yoru ni: Himitsu no Tomodachi,2
+37,38419,83,5.78863293,Tokyo One Piece Tower: Tongari Shima no Dai Hihou,3
+37,4813,84,5.785479,Lolita Anime,3
+37,4107,85,5.74876839,Tengen Toppa Gurren Lagann Movie 1: Gurren-hen,4
+37,2705,86,5.74810521,Bakusou Kyoudai Let's & Go,3
+37,1184,87,5.69076897,Lost Universe,2
+37,12449,88,5.68186167,Maken-Ki! Specials,0
+37,4318,89,5.66678824,Ryuu Seiki,2
+37,33668,90,5.65794654,Soushin Shoujo Matoi,2
+37,1196,91,5.64814245,Masuda Kousuke Gekijou Gag Manga Biyori,1
+37,20509,92,5.62316625,Fate/kaleid liner Prisma‚òÜIllya 2wei!,3
+37,6935,93,5.61314877,Enkinhou no Hako: Hakase no Sagashimono,2
+37,31080,94,5.6068777,Anne Happy‚ô™,3
+37,35821,95,5.58881096,Chio-chan no Tsuugakuro,3
+37,1086,96,5.58881096,Kenran Butou Sai: The Mars Daybreak,3
+37,2286,97,5.56935309,Little Nemo,2
+37,995,98,5.55640719,Tennis no Ouji-sama: Zenkoku Taikai-hen,4
+37,3444,99,5.55425053,The‚òÜUltraman,2
+37,11917,100,5.54934409,Major: World Series,3
+37,17739,101,5.49017053,Hidamari Sketch: Sae Hiro Sotsugyou-hen,5
+37,37655,102,5.49017053,Sword Gai The Animation Part II,0
+37,17409,103,5.49017053,Sukitte Ii na yo.: Mei and Marshmallow,1
+37,34720,104,5.49017053,In Search of Axis,2
+37,33811,105,5.49017053,Teekyuu 8,3
+37,35370,106,5.49017053,Teekyuu 9,3
+37,31560,107,5.49017053,Miss Monochrome The Animation 3,3
+37,10445,108,5.49017053,Perfect Day,1
+37,6164,109,5.48821849,Aoi Hana,4
+37,1885,110,5.48378049,Master of Epic: The Animation Age,2
+37,29619,111,5.48378049,Good-by Marilyn,2
+37,25875,112,5.45394271,"Wake Up, Girl Zoo!",2
+37,461,113,5.45394271,One Piece Movie 3: Chinjuu-jima no Chopper Oukoku,5
+37,2577,114,5.4502441,Tom Sawyer no Bouken,3
+37,16157,115,5.44287507,Choujigen Game Neptune The Animation,3
+37,7705,116,5.44197279,Starry‚òÜSky,1
+37,18391,117,5.42755227,Mini Van,2
+37,37305,118,5.39866947,K: Seven Stories Movie 4 - Lost Small World - Ori no Mukou ni,4
+37,2757,119,5.39454113,Juuni Senshi Bakuretsu Eto Ranger,3
+37,37206,120,5.39118311,Anima Yell!,1
+37,32483,121,5.39118311,Cheer Danshi!!,1
+37,1327,122,5.37657162,Aoki Densetsu Shoot!,2
+37,12783,123,5.36634629,Sora no Otoshimono Final: Eternal My Master,1
+37,27927,124,5.36634629,Urawa no Usagi-chan,1
+37,36119,125,5.36634629,Uma no Friends,2
+37,34934,126,5.35959603,Koi to Uso,2
+37,1685,127,5.34426681,Duel Masters,1
+37,13561,128,5.30650534,Guilty Crown: 4-koma Gekijou,4
+37,40151,129,5.30650534,Shao Nu Qian Xian Ren Xing Xiao Ju Chang,3
+37,19919,130,5.30650534,Tesagure! Bukatsumono,3
+37,7017,131,5.30650534,K-On!: Ura-On!,2
+37,7295,132,5.30650534,Koi Tsubomi,4
+37,13859,133,5.30650534,Accel World: Acchel World.,2
+37,395,134,5.30212031,Gantz 2nd Stage,3
+37,4458,135,5.30202667,Bavel no Hon,3
+37,1812,136,5.30202667,Hanoka,0
+37,6941,137,5.29979016,Toriko: Jump Super Anime Tour 2009 Special,1
+37,17265,138,5.29751941,Log Horizon,3
+37,36098,139,5.29751941,Kimi no Suizou wo Tabetai,3
+37,25519,140,5.29466923,Yuuki Yuuna wa Yuusha de Aru,1
+37,1070,141,5.28092806,Love Get Chu,4
+37,2151,142,5.2726534,Nils no Fushigi na Tabi,3
+37,29617,143,5.2726534,Good-by Elvis and USA,2
+37,3297,144,5.27021407,Aria The Origination,4
+37,6884,145,5.24798426,Ookami to Koushinryou II Specials,2
+37,28381,146,5.24798426,Monster High: Kowa-ike Girls,1
+37,11543,147,5.24798426,Hate You,0
+37,13267,148,5.24798426,Shinryaku!! Ika Musume,2
+37,9203,149,5.24798426,K-On!!: Ura-On!!,0
+37,121,150,0,Fullmetal Alchemist,5
+37,2251,151,0,Baccnno!,5
+37,6746,152,0,Durarara!!,4
+37,5114,153,0,Fullmetal Alchemist: Brotherhood,5
+37,9253,154,0,Steins;Gate,5
+37,10620,155,0,Mirai Nikki,4

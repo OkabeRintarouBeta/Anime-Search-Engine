@@ -1,0 +1,151 @@
+qid,docno,Rank,BM25 score,Title,label
+35,1116,0,16.7154115,Junkers Come Here,3
+35,10197,1,14.3765772,Nyanpire The Animation,0
+35,2131,2,13.1006647,Bokusatsu Tenshi Dokuro-chan 2,0
+35,32828,3,12.188221,Amaama to Inazuma,5
+35,12355,4,11.9433444,Ookami Kodomo no Ame to Yuki,4
+35,12531,5,11.0388057,Sakamichi no Apollon,1
+35,32673,6,10.4254629,Udon no Kuni no Kiniro Kemari,4
+35,6033,7,10.2283072,Dragon Ball Kai,0
+35,488,8,9.47089723,Ichigo Mashimaro,2
+35,586,9,9.37277407,Ayakashi: Japanese Classic Horror,0
+35,22,10,9.302816,Tennis no Ouji-sama,0
+35,472,11,9.15434815,To Heart,0
+35,21273,12,9.03818433,Gochuumon wa Usagi Desu ka?,2
+35,10014,13,9.02795183,Shouwa Monogatari,3
+35,37976,14,8.90976337,Zombieland Saga,0
+35,8063,15,8.86766879,Sekaiichi Hatsukoi OVA,0
+35,6572,16,8.85827496,Shakugan no Shana S,0
+35,4688,17,8.48991628,Minna Agechau‚ô°,0
+35,32353,18,8.13475757,Bonobono (TV 2016),1
+35,16890,19,8.04630674,Makai Ouji: Devils and Realist,1
+35,5712,20,8.01240397,Tanoshii Muumin Ikka Bouken Nikki,0
+35,13055,21,7.91501412,Sankarea OVA,0
+35,2817,22,7.85503194,Cinderella Monogatari,1
+35,25879,23,7.81310654,Working!!!,1
+35,14741,24,7.78240203,Chuunibyou demo Koi ga Shitai!,1
+35,3162,25,7.58574637,Makiba no Shoujo Katri,4
+35,2800,26,7.15339151,Candy Candy,3
+35,1042,27,7.14204957,Bronze: Zetsuai Since 1989,0
+35,10162,28,7.11907083,Usagi Drop,5
+35,2172,29,7.08207155,Crayon Shin-chan Movie 15: Arashi wo Yobu Utau Ketsu dake Bakudan!,5
+35,37396,30,6.82664813,Shikioriori,4
+35,32998,31,6.78470036,91 Days,1
+35,347,32,6.67454663,Wild Arms: Twilight Venom,0
+35,9938,33,6.6425156,Ikoku Meiro no Crois√©e The Animation,5
+35,28851,34,6.57297932,Koe no Katachi,1
+35,35997,35,6.54438136,M√§rchen M√§dchen,2
+35,3946,36,6.54085234,Jarinko Chie,4
+35,3320,37,6.54085234,Harbor Light Monogatari: Fashion Lala yori,1
+35,1762,38,6.52926509,Arslan Senki,1
+35,38680,39,6.51748712,Fruits Basket 1st Season,3
+35,2718,40,6.44760569,Umi no Triton,3
+35,4581,41,6.44225408,Shikabane Hime: Aka,1
+35,21395,42,6.41954229,Crayon Shin-chan Movie 22: Gachinko! Gyakushuu no Robo To-chan,4
+35,11135,43,6.41534782,Hybrid Child,4
+35,35134,44,6.39406133,Koukyoushihen Eureka Seven Hi-Evolution 1,5
+35,3905,45,6.291053,Wanpaku Ouji no Orochi Taiji,4
+35,6421,46,6.19297953,Fullmetal Alchemist: Brotherhood Specials,3
+35,37662,47,6.16352312,Shinya! Tensai Bakabon,5
+35,6987,48,6.16352312,Aki-Sora,0
+35,5830,49,6.1193961,Tsurupika Hagemaru-kun,4
+35,4896,50,6.11115205,Umineko no Naku Koro ni,1
+35,1106,51,6.11046252,Eikyuu Kazoku,5
+35,4181,52,6.03781159,Clannad: After Story,5
+35,74,53,5.99727592,Gakuen Alice,3
+35,3005,54,5.90791108,Shadow Skill,4
+35,30649,55,5.87176108,Shin Atashin'chi,5
+35,2823,56,5.72984983,Barbapapa,5
+35,2547,57,5.67265615,Princess Sara,1
+35,31861,58,5.61504743,Tenchi Muyou! Ryououki 4th Season,5
+35,5496,59,5.59834682,Feng Yun Jue,2
+35,2200,60,5.59213715,Muteki Choujin Zanbot 3,3
+35,1209,61,5.56191747,Nasu: Andalusia no Natsu,3
+35,3229,62,5.5493317,Kimi ga Aruji de Shitsuji ga Ore de,3
+35,103,63,5.53948244,Akazukin Chacha,1
+35,2369,64,5.52776695,Rental Magica,2
+35,1029,65,5.52595916,Omoide Poroporo,4
+35,415,66,5.50636916,Tonari no Yamada-kun,5
+35,15605,67,5.49492818,Brothers Conflict,2
+35,1689,68,5.46406673,Byousoku 5 Centimeter,2
+35,10016,69,5.43433621,Kizuna Ichigeki,4
+35,3969,70,5.42689246,Kagaku Kyuujo-tai TechnoVoyager,0
+35,3509,71,5.42082083,Riki-Oh: Toukatsu Jigoku,0
+35,27387,72,5.42082083,Under the Dog,0
+35,31636,73,5.41646548,Dagashi Kashi,4
+35,543,74,5.35292343,Vampire Hunter D (2000),1
+35,2162,75,5.35292343,Koutetsu Sangokushi,0
+35,3673,76,5.34249094,Nijuu Mensou no Musume,1
+35,254,77,5.25369862,Jungle wa Itsumo Hare nochi Guu Deluxe,4
+35,36936,78,5.24255063,Mirai no Mirai,5
+35,3720,79,5.22210654,Jack to Mame no Ki,2
+35,1699,80,5.20823245,Romeo x Juliet,4
+35,590,81,5.19612546,Kage kara Mamoru!,4
+35,7148,82,5.1678095,Ladies versus Butlers!,1
+35,1572,83,5.15906687,Jungle Taitei,2
+35,1691,84,5.1476915,Kaze no Stigma,3
+35,38000,85,5.09627615,Kimetsu no Yaiba,4
+35,4024,86,5.08859052,Sanrio Anime Sekai Meisaku Gekijou,0
+35,38101,87,5.06903512,5-toubun no Hanayome,4
+35,443,88,5.06165568,Onegai‚òÜTeacher: Himitsu na Futari,4
+35,25755,89,5.06165568,Yowamushi Pedal: Re:RIDE,3
+35,3577,90,5.03829552,Kyouran Kazoku Nikki,0
+35,396,91,5.03073607,Seikai no Senki,1
+35,2559,92,5.01541749,Romeo no Aoi Sora,4
+35,4639,93,5.00418937,Gosenzo-sama Banbanzai!,4
+35,2038,94,4.97792137,Mahou no Star Magical Emi,4
+35,36098,95,4.94992781,Kimi no Suizou wo Tabetai,0
+35,2486,96,4.93997601,Rumiko Takahashi Anthology,1
+35,2544,97,4.92620409,Kazoku Robinson Hyouryuuki: Fushigi na Shima no Flone,5
+35,76,98,4.92142702,Mahou Shoujo Lyrical Nanoha,1
+35,1962,99,4.90074635,Chikyuu Bouei Kazoku,5
+35,18411,100,4.90074635,Gingitsune,3
+35,940,101,4.87555038,Inukami!,1
+35,269,102,4.86594798,Bleach,2
+35,338,103,4.86594798,Versailles no Bara,3
+35,104,104,4.8328838,Ayashi no Ceres,2
+35,3841,105,4.82592776,Chi's Sweet Home,5
+35,5084,106,4.78370834,Mai Mai Shinko to Sennen no Mahou,1
+35,34338,107,4.78370834,Lost Song,3
+35,196,108,4.77730506,Onegai‚òÜTwins,3
+35,1795,109,4.77730506,Dirty Pair: Bouryaku no 005-bin,1
+35,12189,110,4.75708439,Hyouka,1
+35,5272,111,4.74225254,Tondemo Nezumi Daikatsuyaku,0
+35,1408,112,4.70972176,Kao no nai Tsuki,0
+35,1635,113,4.70972176,Ai Shimai 2: Futari no Kajitsu,0
+35,1975,114,4.70618075,Mutekiou Tri-Zenon,0
+35,18661,115,4.6838882,Kamisama Hajimemashita OVA,3
+35,6736,116,4.6838882,Mouryou no Hako: Chuuzenji Atsuko no Jikenbo - Hako no Yurei no Koto,0
+35,2994,117,4.66735191,Death Note: Rewrite,0
+35,36259,118,4.66340126,Pingu in the City,4
+35,8358,119,4.66340126,Crayon Shin-chan Movie 01: Action Kamen vs. Haigure Maou,0
+35,2795,120,4.62828955,Dragonaut: The Resonance,0
+35,835,121,4.61798301,Sister Princess: Re Pure,5
+35,39071,122,4.61344486,Machikado Mazoku,1
+35,34566,123,4.60336296,Boruto: Naruto Next Generations,1
+35,16700,124,4.59898653,Higurashi no Naku Koro ni Kaku: Outbreak,1
+35,9055,125,4.59898653,Tamayura,1
+35,6217,126,4.59223249,Crayon Shin-chan Movie 03: Unkokusai no Yabou,3
+35,2557,127,4.57136584,Trapp Ikka Monogatari,5
+35,10521,128,4.5701018,Working'!!,5
+35,16239,129,4.560852,One Piece: Episode of Luffy - Hand Island no Bouken,0
+35,4087,130,4.55430669,Michiko to Hatchin,2
+35,1824,131,4.52647421,Hadashi no Gen,3
+35,1196,132,4.51710797,Masuda Kousuke Gekijou Gag Manga Biyori,0
+35,2648,133,4.48688569,Doraemon: 2112-nen Doraemon Tanjou,2
+35,37779,134,4.48367172,Yakusoku no Neverland,3
+35,5485,135,4.45926532,Shin Mazinger Shougeki! Z-hen,0
+35,309,136,4.45926532,Akahori Gedou Hour Rabuge,0
+35,260,137,4.44482514,Happy‚òÜLesson (TV),0
+35,5162,138,4.44167112,Minami-ke Okaeri,5
+35,22359,139,4.41236656,Sanzoku no Musume Ronja,3
+35,124,140,4.40354583,Fushigi Yuugi: Eikouden,2
+35,5494,141,4.39076976,Konnichiwa Anne: Before Green Gables,4
+35,4173,142,4.39076976,Shigofumi Picture Drama,0
+35,1907,143,4.39076976,Harukanaru Toki no Naka de: Hachiyou Shou OVA,0
+35,23151,144,4.38693581,Shounen Hollywood: Holly Stage for 49,2
+35,670,145,4.38693581,Lamune,3
+35,2406,146,4.38012518,Sazae-san,5
+35,3272,147,4.36302619,Kinnikuman,3
+35,715,148,4.36179652,Yume de Aetara,0
+35,11769,149,4.36179652,Gokujo.: Gokurakuin Joshikou Ryou Monogatari,0

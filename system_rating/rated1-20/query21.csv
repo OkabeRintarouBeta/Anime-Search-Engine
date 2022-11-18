@@ -1,0 +1,151 @@
+qid,docno,Rank,BM25 score,Title,Genre,label
+21,3478,0,14.4985661,Mrs. Junkie,['Hentai'],5
+21,6922,1,12.6979635,Fate/stay night Movie: Unlimited Blade Works,"['Action', 'Fantasy', 'Magic', 'Supernatural']",5
+21,6023,2,12.021281,Nogizaka Haruka no Himitsu: Purezza,"['Comedy', 'Ecchi', 'Romance']",4
+21,4813,3,11.7352493,Lolita Anime,['Hentai'],5
+21,31138,4,11.6622932,Overlord: Ple Ple Pleiades,"['Action', 'Comedy', 'Magic', 'Fantasy']",1
+21,12449,5,11.4611137,Maken-Ki! Specials,"['Ecchi', 'Sports']",2
+21,1046,6,11.3563149,Elf wo Karu Mono-tachi II,"['Adventure', 'Comedy', 'Fantasy']",0
+21,6641,7,11.1453816,Tonari no 801-chan R,"['Comedy', 'Music']",0
+21,9167,8,10.9531727,Shukufuku no Campanella Specials,['Ecchi'],0
+21,21421,9,10.8187737,Mahou Shoujo Taisen,['Magic'],0
+21,7705,10,10.7408137,Starry‚òÜSky,"['Harem', 'School', 'Shoujo']",1
+21,1865,11,10.5396067,Getsumen To Heiki Mina,"['Comedy', 'Parody', 'Sci-Fi']",1
+21,40369,12,10.4249364,Mini Yuri,"['Slice of Life', 'Comedy', 'School', 'Shoujo Ai']",1
+21,3853,13,10.1475995,Crayon Shin-chan Manatsu no Yoru ni Ora Sanjou! Arashi wo Yobu Den-O vs. Shin-O 60-bu Special!!,"['Action', 'Comedy', 'Super Power', 'Seinen']",0
+21,38673,14,10.131763,Mini Toji,"['Action', 'Comedy', 'Fantasy']",5
+21,2796,15,10.0987582,Afro-Ken,"['Comedy', 'Kids']",1
+21,1885,16,9.97567251,Master of Epic: The Animation Age,"['Fantasy', 'Game', 'Comedy']",0
+21,17731,17,9.85462795,Ketsuekigata-kun!,['Comedy'],0
+21,8986,18,9.81532005,Supernatural The Animation,"['Action', 'Demons', 'Horror', 'Supernatural']",0
+21,35122,19,9.60906495,Shingeki no Kyotou,"['Action', 'Fantasy', 'Shounen']",0
+21,34839,20,9.52553323,Sanrio Danshi,"['Slice of Life', 'Drama', 'School']",0
+21,1070,21,9.46234243,Love Get Chu,"['Comedy', 'Romance']",5
+21,1083,22,9.32806265,Human Crossing,"['Drama', 'Slice of Life', 'Sports']",2
+21,29325,23,9.18468276,Koukaku Kidoutai Arise: Alternative Architecture,"['Sci-Fi', 'Police', 'Psychological', 'Mecha']",0
+21,1674,24,9.03119134,Captain Tsubasa J,"['Action', 'Sports', 'Shounen']",0
+21,38226,25,8.8827458,Choukadou Girl ‚Öô,"['Comedy', 'Romance', 'Seinen']",0
+21,1233,26,8.59197156,Aozora Shoujo-tai,"['Action', 'Comedy', 'Military', 'Romance', 'Shounen']",3
+21,27947,27,8.53213921,Lupin III (2015),"['Action', 'Adventure', 'Comedy', 'Mystery', 'Seinen']",0
+21,1679,28,8.47665361,Green Green Specials,"['Comedy', 'Ecchi', 'Romance', 'Slice of Life']",5
+21,32321,29,8.46531315,Lupin III (2015): Italian Game,"['Action', 'Adventure', 'Comedy', 'Seinen']",4
+21,485,30,8.37864199,Damekko Doubutsu,"['Slice of Life', 'Comedy']",0
+21,5957,31,8.334753,Nyoro-n Churuya-san,['Comedy'],5
+21,31953,32,8.29582737,New Game!,"['Game', 'Slice of Life', 'Comedy']",5
+21,23277,33,8.24901244,Saenai Heroine no Sodatekata,"['Harem', 'Comedy', 'Romance', 'Ecchi', 'School']",0
+21,4903,34,8.20815893,Kyou no 5 no 2 (TV),"['Comedy', 'Ecchi', 'School', 'Seinen']",2
+21,11763,35,8.11437369,Sekai de Ichiban Tsuyoku Naritai!,"['Action', 'Ecchi', 'Sports']",5
+21,32353,36,8.02531769,Bonobono (TV 2016),"['Slice of Life', 'Comedy']",0
+21,1206,37,8.02531769,Ihatov Gensou: Kenji no Haru,"['Drama', 'Historical', 'Slice of Life']",0
+21,7870,38,7.98692227,Baka to Test to Shoukanjuu Specials,"['Magic', 'Comedy', 'School']",1
+21,38824,39,7.62880102,Baby I Love You Daze,"['Music', 'Romance']",2
+21,32013,40,7.61113314,Oshiete! Galko-chan,"['Slice of Life', 'Comedy', 'School']",5
+21,2157,41,7.58178131,Koutetsushin Jeeg,"['Mecha', 'Sci-Fi']",1
+21,16904,42,7.56606634,K: Missing Kings,"['Action', 'Super Power', 'Supernatural']",0
+21,2923,43,7.41034244,Shugo Chara!,"['Comedy', 'Magic', 'School', 'Shoujo']",5
+21,36000,44,7.40879458,Sora to Umi no Aida,"['Sci-Fi', 'Adventure', 'Space', 'Fantasy']",5
+21,2321,45,7.39839637,Giant Robo the Animation: Chikyuu ga Seishi Suru Hi,"['Action', 'Sci-Fi', 'Super Power', 'Drama', 'Mecha', 'Shounen']",0
+21,300,46,7.33377077,3x3 Eyes,"['Action', 'Demons', 'Fantasy', 'Horror', 'Romance']",0
+21,1556,47,7.33281318,Kikoushi Enma,"['Horror', 'Demons', 'Supernatural', 'Magic', 'Ecchi', 'Fantasy', 'Seinen']",4
+21,2876,48,7.31884849,Hoshi no Orpheus,"['Fantasy', 'Kids']",2
+21,36793,49,7.28760291,3D Kanojo: Real Girl,"['Romance', 'School', 'Shoujo']",2
+21,8302,50,7.26576869,Ladies versus Butlers! Specials,"['Ecchi', 'Seinen']",4
+21,837,51,7.26576869,Kyou no 5 no 2,"['Comedy', 'Ecchi', 'School', 'Seinen']",2
+21,1143,52,7.13575447,.hack//Intermezzo,"['Adventure', 'Fantasy', 'Game', 'Magic', 'Mystery', 'Sci-Fi']",3
+21,2406,53,7.03309889,Sazae-san,"['Slice of Life', 'Comedy']",5
+21,34561,54,7.02266772,Re:Creators,"['Action', 'Sci-Fi', 'Fantasy', 'Mecha']",0
+21,30347,55,7.01374708,Nanatsu no Taizai OVA,"['Action', 'Adventure', 'Supernatural', 'Magic', 'Fantasy', 'Shounen']",0
+21,1496,56,6.98544496,Fushigi no Kuni no Miyuki-chan,"['Comedy', 'Ecchi', 'Fantasy', 'Shoujo Ai']",5
+21,12875,57,6.98544496,Ginga e Kickoff!!,"['Sports', 'Shounen']",1
+21,28077,58,6.97941754,"Go! Go! 575: Meippai ni, Hajiketeru?",['Slice of Life'],0
+21,37308,59,6.97941754,K: Seven Stories - The Idol K,"['Music', 'Comedy', 'Parody']",0
+21,4024,60,6.97332323,Sanrio Anime Sekai Meisaku Gekijou,"['Adventure', 'Fantasy', 'Kids']",0
+21,6408,61,6.94686676,"""Bungaku Shoujo"" Movie","['Mystery', 'Drama', 'Romance', 'School']",0
+21,30749,62,6.84833205,Saijaku Muhai no Bahamut,"['Action', 'Harem', 'Supernatural', 'Romance', 'Ecchi', 'Fantasy', 'Mecha', 'School']",2
+21,20033,63,6.81424381,Miss Monochrome The Animation,"['Music', 'Slice of Life', 'Comedy']",5
+21,260,64,6.78899803,Happy‚òÜLesson (TV),"['Comedy', 'Drama', 'Harem', 'Romance', 'Slice of Life']",4
+21,33142,65,6.74593188,Re:Zero kara Hajimeru Break Time,"['Adventure', 'Comedy', 'Fantasy', 'Parody']",0
+21,5501,66,6.74023834,Gun x Sword-san,"['Action', 'Parody', 'Dementia']",4
+21,9750,67,6.72594827,Itsuka Tenma no Kuro Usagi,"['Comedy', 'Supernatural', 'Romance', 'Ecchi', 'Vampire']",2
+21,34675,68,6.72594827,Chou Yuu Sekai: Being the Reality,"['Action', 'Game', 'Adventure', 'Romance', 'Fantasy']",3
+21,34914,69,6.68158535,New Game!!,"['Game', 'Slice of Life', 'Comedy']",5
+21,13855,70,6.67153656,Queen's Blade: Rebellion Specials,['Ecchi'],4
+21,2408,71,6.66405882,Keroro Gunsou Movie 2: Shinkai no Princess de Arimasu!,"['Action', 'Adventure', 'Comedy', 'Drama', 'Sci-Fi', 'Shounen']",5
+21,9940,72,6.59876422,Mai no Mahou to Katei no Hi,"['Drama', 'Magic']",5
+21,8078,73,6.59876422,Kure-nai OVA,"['Action', 'Comedy']",1
+21,37505,74,6.59876422,Grancrest Senki Tsuisou,"['Action', 'Fantasy']",0
+21,8479,75,6.56330548,Hetalia World Series,"['Comedy', 'Historical', 'Parody']",0
+21,1553,76,6.54363508,Queen Emeraldas,"['Action', 'Sci-Fi', 'Adventure', 'Space']",5
+21,1720,77,6.52756234,To Heart 2 OVA,"['Comedy', 'Drama', 'Harem', 'Romance', 'School']",5
+21,6127,78,6.52756234,Toradora!: SOS! Kuishinbou Banbanzai,['Comedy'],3
+21,25857,79,6.52223129,PriPara Movie: Mi~nna Atsumare! Prism‚òÜTours,"['Music', 'Shoujo']",5
+21,2757,80,6.49608191,Juuni Senshi Bakuretsu Eto Ranger,"['Action', 'Fantasy', 'Comedy']",0
+21,20543,81,6.48455061,Bayonetta: Bloody Fate,"['Action', 'Demons', 'Fantasy', 'Super Power']",5
+21,19151,82,6.48455061,Walkure Romanze,"['Action', 'Ecchi', 'Romance', 'Harem', 'School', 'Sports']",0
+21,21427,83,6.45788062,Minna Atsumare! Falcom Gakuen,"['Parody', 'Comedy', 'School', 'Seinen']",0
+21,5002,84,6.45788062,Bari Bari Densetsu,"['Action', 'Drama', 'Shounen', 'Sports']",0
+21,1089,85,6.42316815,Macross: Do You Remember Love?,"['Action', 'Space', 'Mecha', 'Romance', 'Military', 'Music', 'Sci-Fi']",3
+21,6399,86,6.39228681,Higashi no Eden: Falling Down,['Music'],0
+21,25689,87,6.38967089,Hyakka Ryouran: Samurai After,"['Ecchi', 'Harem']",0
+21,1274,88,6.3709446,Injuu Gakuen EX,"['Hentai', 'Demons']",5
+21,1686,89,6.3709446,Bleach Movie 1: Memories of Nobody,"['Action', 'Adventure', 'Comedy', 'Super Power', 'Supernatural', 'Shounen']",4
+21,38091,90,6.35104875,Hachigatsu no Cinderella Nine (TV),"['School', 'Sports']",0
+21,17655,91,6.322887,Mobile Suit Gundam AGE: Memory of Eden,"['Action', 'Mecha', 'Military', 'Sci-Fi', 'Drama']",0
+21,36754,92,6.31538896,Kakuriyo no Yadomeshi,"['Demons', 'Supernatural']",5
+21,2475,93,6.31538896,6 Angels,"['Action', 'Sci-Fi']",5
+21,2014,94,6.2850656,Taiho Shichau zo: Second Season,"['Action', 'Comedy', 'Police', 'Shounen']",4
+21,6205,95,6.28384007,K√§mpfer,"['Action', 'Comedy', 'Ecchi', 'Romance', 'School', 'Shoujo Ai', 'Super Power']",3
+21,3239,96,6.26079385,Cream Lemon,"['Parody', 'Fantasy', 'Comedy', 'Romance', 'Hentai', 'Drama', 'Sci-Fi', 'Yuri']",1
+21,769,97,6.26079385,Burn Up! W,"['Sci-Fi', 'Comedy', 'Ecchi', 'Mecha', 'Shounen']",5
+21,1757,98,6.2574847,Di Gi Charat Christmas Special,['Comedy'],1
+21,1414,99,6.20713458,Lupin III: Tenshi no Tactics - Yume no Kakera wa Koroshi no Kaori,"['Action', 'Adventure', 'Mystery', 'Comedy', 'Seinen']",3
+21,2384,100,6.20713458,Yakusai Kochou,"['Comedy', 'Supernatural', 'Ecchi']",5
+21,863,101,6.20713458,Joshikousei: Girl's High,"['Comedy', 'Drama', 'Ecchi', 'School', 'Slice of Life']",5
+21,2969,102,6.20713458,Appleseed Saga Ex Machina,"['Action', 'Mecha', 'Military', 'Sci-Fi']",5
+21,10298,103,6.19342155,Kaichou wa Maid-sama!: Goshujinsama to Asonjao‚ô•,"['Comedy', 'School', 'Shoujo']",0
+21,323,104,6.18756557,Mousou Dairinin,"['Mystery', 'Dementia', 'Police', 'Psychological', 'Supernatural', 'Drama', 'Thriller']",4
+21,606,105,6.15438728,Kazemakase Tsukikage Ran,"['Adventure', 'Comedy', 'Historical', 'Martial Arts', 'Samurai']",5
+21,2580,106,6.13065685,Tsukuyomi: Moon Phase Special,"['Comedy', 'Dementia', 'Slice of Life']",0
+21,35327,107,6.13065685,Hiyoko no Basket Movie: Last Game 0401,"['Parody', 'Sports']",0
+21,6505,108,6.1025289,There She Is!!,"['Comedy', 'Romance']",4
+21,33478,109,6.1025289,UQ Holder!: Mahou Sensei Negima! 2,"['Action', 'Sci-Fi', 'Magic', 'Fantasy', 'Shounen']",2
+21,2997,110,6.06915151,Hi no Tori: Houou-hen,"['Drama', 'Fantasy', 'Historical']",0
+21,10532,111,6.06915151,Working'!! Announcement Specials,['Comedy'],0
+21,6736,112,6.06915151,Mouryou no Hako: Chuuzenji Atsuko no Jikenbo - Hako no Yurei no Koto,"['Mystery', 'Seinen', 'Supernatural', 'Thriller']",0
+21,1750,113,6.06915151,Amaenaide yo!! Katsu!!: Damasarenaide yo!!,"['Ecchi', 'Comedy', 'Romance', 'Supernatural']",0
+21,591,114,6.05153717,Amaenaide yo!!,"['Comedy', 'Ecchi', 'Harem', 'Romance', 'Supernatural']",0
+21,40480,115,6.01521395,Sound & Fury,"['Sci-Fi', 'Music', 'Samurai']",0
+21,704,116,6.00886801,Kanon Kazahana,"['Drama', 'Romance', 'Slice of Life', 'Supernatural']",1
+21,2819,117,6.00435024,Dragon Quest: Abel Yuusha Densetsu,"['Action', 'Adventure', 'Fantasy', 'Shounen']",1
+21,38068,118,6.00435024,Poputepipikku Kinen,"['Parody', 'Sports']",0
+21,13203,119,6.00139053,Lupin the Third: Mine Fujiko to Iu Onna,"['Action', 'Adventure', 'Comedy', 'Ecchi', 'Samurai', 'Seinen']",5
+21,32606,120,6.00139053,Onigiri,"['Comedy', 'Supernatural', 'Fantasy']",5
+21,38472,121,5.97469988,Isekai Quartet,"['Comedy', 'Fantasy', 'Parody']",3
+21,1016,122,5.95206815,Gunnm,"['Drama', 'Mecha', 'Sci-Fi', 'Shounen']",2
+21,2204,123,5.95206815,Karakurizoushi Ayatsuri Sakon,"['Mystery', 'Horror', 'Thriller', 'Shounen']",2
+21,35857,124,5.9497703,Lupin III: Part 5,"['Action', 'Adventure', 'Mystery', 'Comedy', 'Seinen']",0
+21,9332,125,5.9497703,.hack//Quantum,"['Action', 'Adventure', 'Fantasy', 'Game', 'Sci-Fi']",0
+21,6945,126,5.94012811,Gintama: Shiroyasha Koutan,"['Action', 'Sci-Fi', 'Comedy', 'Historical', 'Parody']",0
+21,9581,127,5.92966076,MM! Specials,"['Comedy', 'Ecchi', 'School']",0
+21,26085,128,5.90354988,Military!,"['Ecchi', 'Slice of Life', 'Comedy', 'Military', 'Seinen']",3
+21,621,129,5.90354988,Night Walker: Mayonaka no Tantei,"['Action', 'Comedy', 'Horror', 'Mystery', 'Vampire']",4
+21,2207,130,5.90354988,Hamelin no Violin Hiki: The Movie,"['Adventure', 'Comedy', 'Fantasy']",3
+21,1191,131,5.90354988,Saber Marionette J Again,"['Action', 'Sci-Fi', 'Harem', 'Comedy', 'Romance', 'Mecha']",4
+21,2840,132,5.89182372,Youkoso Lodoss-tou e!,"['Comedy', 'Parody']",0
+21,28149,133,5.89110369,Nihon Animator Mihonichi,"['Action', 'Dementia', 'Ecchi', 'Fantasy', 'Mecha', 'Military', 'Music', 'School', 'Sci-Fi', 'Space', 'Supernatural']",0
+21,29803,134,5.85897009,Overlord,"['Action', 'Adventure', 'Fantasy', 'Game', 'Magic', 'Supernatural']",0
+21,4966,135,5.85668264,Jigazou,['Comedy'],0
+21,18799,136,5.85668264,Take Your Way,"['Action', 'Supernatural', 'Music', 'Seinen']",0
+21,2432,137,5.8558162,Discipline,"['Hentai', 'School', 'Yuri']",3
+21,1079,138,5.8558162,Armitage III,"['Action', 'Adventure', 'Romance', 'Mecha', 'Sci-Fi', 'Police']",5
+21,2383,139,5.85251727,Cybersix,"['Action', 'Adventure', 'Romance', 'Sci-Fi']",0
+21,13029,140,5.82086308,Arashi no Yoru ni: Himitsu no Tomodachi,"['Adventure', 'Drama']",0
+21,1444,141,5.80884824,Sol Bianca: Taiyou no Fune,"['Adventure', 'Mecha', 'Sci-Fi', 'Space']",5
+21,2692,142,5.77925203,CB Chara Go Nagai World,"['Action', 'Parody', 'Comedy']",0
+21,9754,143,5.77925203,Kuragehime: Eiyuu Retsuden‚òÜ,"['Slice of Life', 'Comedy', 'Josei']",0
+21,4357,144,5.76262772,El,"['Action', 'Hentai', 'Sci-Fi']",2
+21,4107,145,5.74876839,Tengen Toppa Gurren Lagann Movie 1: Gurren-hen,"['Action', 'Comedy', 'Mecha']",0
+21,771,146,5.72456405,Ginyuu Mokushiroku Meine Liebe Wieder,"['Drama', 'Fantasy', 'Shoujo']",1
+21,33245,147,5.72456405,Ame-iro Cocoa in Hawaii,"['Slice of Life', 'Comedy']",3
+21,3035,148,5.72046353,Chouon Senshi Borgman,"['Action', 'Sci-Fi', 'Demons']",0
+21,55,149,5.71713694,Arc the Lad,"['Action', 'Adventure', 'Fantasy', 'Horror', 'Sci-Fi']",1
