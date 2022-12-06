@@ -1,21 +1,21 @@
 qid,docno,Rank,BM25 score,Title,label
 40,2236,0,13.509812,Toki wo Kakeru Shoujo,5
-40,9253,1,11.6846966,Steins;Gate,2
-40,2420,2,11.5698072,Spirit of Wonder: Shounen Kagaku Club,5
-40,5462,3,10.5034529,Top wo Nerae! Kagaku Kouza,5
-40,2389,4,10.0581045,Kagaku Ninja-tai Gatchaman,3
+40,9253,1,11.6846966,Steins;Gate,5
+40,2420,2,11.5698072,Spirit of Wonder: Shounen Kagaku Club,0
+40,5462,3,10.5034529,Top wo Nerae! Kagaku Kouza,0
+40,2389,4,10.0581045,Kagaku Ninja-tai Gatchaman,0
 40,3391,5,9.47413188,Maicching Machiko-sensei,0
 40,256,6,8.77584521,Hoshi no Koe,3
-40,286,7,8.65477453,B'T X,1
+40,286,7,8.65477453,B'T X,0
 40,170,8,8.54268991,Slam Dunk,0
 40,11743,9,8.39772141,Toaru Majutsu no Index Movie: Endymion no Kiseki,3
 40,37407,10,7.7106827,Penguin Highway,1
-40,545,11,7.65846948,Mousou Kagaku Series: Wandaba Style,3
+40,545,11,7.65846948,Mousou Kagaku Series: Wandaba Style,0
 40,29589,12,7.4565014,Denpa Kyoushi (TV),0
 40,201,13,6.97621846,Video Girl Ai,0
-40,6213,14,6.95230226,Toaru Kagaku no Railgun,2
-40,226,15,6.95230226,Elfen Lied,3
-40,385,16,6.90982647,Gilgamesh,2
+40,6213,14,6.95230226,Toaru Kagaku no Railgun,3
+40,226,15,6.95230226,Elfen Lied,1
+40,385,16,6.90982647,Gilgamesh,4
 40,878,17,6.89541759,Zegapain,4
 40,133,18,6.85571501,Green Green,0
 40,38707,19,6.70137378,RobiHachi,3
@@ -37,7 +37,7 @@ qid,docno,Rank,BM25 score,Title,label
 40,11239,35,4.00096206,Hidamari Sketch x Honeycomb,1
 40,11307,36,4.00096206,Ginga Patrol PJ,0
 40,2162,37,3.95499536,Koutetsu Sangokushi,1
-40,1795,38,3.95178509,Dirty Pair: Bouryaku no 005-bin,3
+40,1795,38,3.95178509,Dirty Pair: Bouryaku no 005-bin,0
 40,33026,39,3.92628932,Time Bokan 24,4
 40,37555,40,3.9069351,Hangyakusei Million Arthur,4
 40,1274,41,3.9006746,Injuu Gakuen EX,0
@@ -45,13 +45,13 @@ qid,docno,Rank,BM25 score,Title,label
 40,29513,43,3.87869961,Aki no Kanade,0
 40,35250,44,3.87869961,Urahara,0
 40,6217,45,3.8344054,Crayon Shin-chan Movie 03: Unkokusai no Yabou,5
-40,781,46,3.82022142,Detective Conan Movie 03: The Last Wizard of the Century,3
+40,781,46,3.82022142,Detective Conan Movie 03: The Last Wizard of the Century,0
 40,276,47,3.82022142,Mahoromatic: Automatic Maiden,1
 40,5191,48,3.79638989,Trouble Evocation,0
 40,11441,49,3.79638989,Rurouni Kenshin: Meiji Kenkaku Romantan - Shin Kyoto-hen,4
 40,2238,50,3.79322105,Fuyu no Semi,1
 40,215,51,3.79322105,Pia Carrot e Youkoso!! 2 DX,0
-40,1889,52,3.79216595,Higurashi no Naku Koro ni Kai,4
+40,1889,52,3.79216595,Higurashi no Naku Koro ni Kai,5
 40,610,53,3.77829218,Popotan,1
 40,8250,54,3.7144624,Soukou Kihei Votoms: Koei Futatabi,0
 40,16051,55,3.7114288,Ro-Kyu-Bu! SS,0
@@ -108,7 +108,7 @@ qid,docno,Rank,BM25 score,Title,label
 40,893,106,3.2886418,Dragon Ball Movie 4: Saikyou e no Michi,0
 40,1824,107,3.28626365,Hadashi no Gen,1
 40,28539,108,3.28626365,Garo Movie: Divine Flame,3
-40,584,109,3.28626365,Noein: Mou Hitori no Kimi e,5
+40,584,109,3.28626365,Noein: Mou Hitori no Kimi e,2
 40,2398,110,3.28547169,Digimon Adventure 02: Diablomon no Gyakushuu,0
 40,12403,111,3.27065232,Yuru Yuri‚ô™‚ô™,0
 40,1107,112,3.27065232,Youjuu Toshi,4
@@ -136,7 +136,7 @@ qid,docno,Rank,BM25 score,Title,label
 40,34984,134,3.16539244,Koi wa Ameagari no You ni,0
 40,19489,135,3.15090586,Little Witch Academia: Mahoujikake no Parade,3
 40,3907,136,3.13871761,Ginga Sengoku Gunyuuden Rai,3
-40,1345,137,3.13871761,Soujuu Senshi Psychic Wars,5
+40,1345,137,3.13871761,Soujuu Senshi Psychic Wars,4
 40,2583,138,3.13871761,Soukou Kihei Votoms: The Last Red Shoulder,0
 40,1119,139,3.13655128,Pokemon Movie 04: Celebi Toki wo Koeta Deai,2
 40,1006,140,3.13655128,Tenchi Muyou! in Love,2

@@ -1,33 +1,33 @@
 qid,docno,Rank,BM25 score,Title,label
 31,6219,0,17.9478909,Nijiiro Hotaru: Eien no Natsuyasumi,3
 31,1729,1,17.2837578,Maria-sama ga Miteru 3rd,5
-31,10794,2,16.8861343,IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou,3
+31,10794,2,16.8861343,IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou,2
 31,36990,3,16.8357785,Non Non Biyori Movie: Vacation,5
-31,9958,4,16.6626508,Hayate no Gotoku! Heaven Is a Place on Earth,5
-31,37981,5,14.5565971,Kaijuu no Kodomo,5
-31,622,6,14.4349646,Natsu-iro no Sunadokei,4
+31,9958,4,16.6626508,Hayate no Gotoku! Heaven Is a Place on Earth,3
+31,37981,5,14.5565971,Kaijuu no Kodomo,2
+31,622,6,14.4349646,Natsu-iro no Sunadokei,1
 31,3512,7,14.084403,Tenshi Nanka ja Nai,1
-31,34620,8,14.0819648,Kono Yo no Hate de Koi wo Utau Shoujo YU-NO,3
-31,2979,9,13.1194744,Akiko,1
+31,34620,8,14.0819648,Kono Yo no Hate de Koi wo Utau Shoujo YU-NO,0
+31,2979,9,13.1194744,Akiko,0
 31,21473,10,13.0367695,Persona 3 the Movie 2: Midsummer Knight's Dream,4
-31,4382,11,13.0205915,Suzumiya Haruhi no Yuuutsu (2009),2
-31,21677,12,12.7326884,Captain Earth,2
-31,688,13,12.5456101,Uta‚àΩKata,5
-31,1296,14,12.4572418,Project A-Ko 2: Daitokuji Zaibatsu no Inbou,5
+31,4382,11,13.0205915,Suzumiya Haruhi no Yuuutsu (2009),5
+31,21677,12,12.7326884,Captain Earth,1
+31,688,13,12.5456101,Uta‚àΩKata,4
+31,1296,14,12.4572418,Project A-Ko 2: Daitokuji Zaibatsu no Inbou,0
 31,10014,15,12.0754981,Shouwa Monogatari,3
 31,30654,16,11.8586517,Ansatsu Kyoushitsu 2nd Season,0
 31,34277,17,11.2420836,"New Game!: Watashi, Shain Ryokou tte Hajimete nano de...",0
-31,5597,18,11.1686462,Natsu no Arashi!,5
+31,5597,18,11.1686462,Natsu no Arashi!,1
 31,7169,19,10.7802731,Ibarahime Mata wa Nemurihime,0
 31,5772,20,10.6404132,Akaneiro ni Somaru Saka: Hardcore,3
 31,35673,21,10.4904302,Yama no Susume: Omoide Present,2
-31,6211,22,10.3645527,Tokyo Magnitude 8.0,3
+31,6211,22,10.3645527,Tokyo Magnitude 8.0,0
 31,23083,23,10.0744473,Happiness Charge PreCure! Movie: Ningyou no Kuni no Ballerina,0
 31,15039,24,9.79860246,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie,3
 31,869,25,9.64272287,Slayers Return,0
 31,29511,26,9.47381426,Ongaku Shoujo,0
 31,35075,27,9.21731137,Hoozuki no Reitetsu 2nd Season,0
-31,1752,28,9.21731137,Di Gi Charat: Hoshi no Tabi,4
+31,1752,28,9.21731137,Di Gi Charat: Hoshi no Tabi,0
 31,365,29,9.21064596,Fake,0
 31,2104,30,9.10775862,Seto no Hanayome,5
 31,31678,31,8.95440363,Long Zhi Gu: Jingling Wangzuo,0

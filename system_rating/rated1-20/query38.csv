@@ -1,19 +1,19 @@
 qid,docno,Rank,BM25 score,Title,label
-38,6980,0,14.4752857,Kaidan Restaurant,4
-38,3656,1,10.450625,Monochrome Factor,4
+38,6980,0,14.4752857,Kaidan Restaurant,2
+38,3656,1,10.450625,Monochrome Factor,1
 38,6645,2,10.2330018,Chu-Bra!!,0
 38,1532,3,9.50597843,Suki na Mono wa Suki Dakara Shou ga Nai!!,1
-38,2025,4,9.4393777,Darker than Black: Kuro no Keiyakusha,4
-38,23281,5,9.38654837,Psycho-Pass 2,3
-38,850,6,9.36492745,Gakuen Heaven,1
+38,2025,4,9.4393777,Darker than Black: Kuro no Keiyakusha,3
+38,23281,5,9.38654837,Psycho-Pass 2,5
+38,850,6,9.36492745,Gakuen Heaven,0
 38,31665,7,8.94130944,Hibike! Euphonium: Kakedasu Monaka,0
 38,195,8,8.74647688,Onegai‚òÜTeacher,0
 38,1743,9,8.65049243,Super Milk-chan,1
-38,6421,10,8.3022024,Fullmetal Alchemist: Brotherhood Specials,3
+38,6421,10,8.3022024,Fullmetal Alchemist: Brotherhood Specials,1
 38,28619,11,8.17967508,Ranpo Kitan: Game of Laplace,5
 38,586,12,8.15271848,Ayakashi: Japanese Classic Horror,5
 38,1387,13,8.10026456,Yakin Byoutou,0
-38,4835,14,8.09272573,Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu,4
+38,4835,14,8.09272573,Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu,3
 38,39836,15,7.92841799,Yami Shibai 7,5
 38,38628,16,7.92841799,Hero Mask,4
 38,16700,17,7.90185409,Higurashi no Naku Koro ni Kaku: Outbreak,5
@@ -36,12 +36,12 @@ qid,docno,Rank,BM25 score,Title,label
 38,2150,34,6.8932833,Tanoshii Muumin Ikka,2
 38,1118,35,6.85265734,Pokemon Movie 03: Kesshoutou no Teiou Entei,0
 38,13055,36,6.82320182,Sankarea OVA,3
-38,28999,37,6.77740143,Charlotte,2
+38,28999,37,6.77740143,Charlotte,1
 38,2685,38,6.76882539,Tsubasa: Tokyo Revelations,2
 38,5712,39,6.74660065,Tanoshii Muumin Ikka Bouken Nikki,1
 38,2983,40,6.74660065,Digital Devil Story: Megami Tensei,5
 38,378,41,6.73360273,eX-Driver the Movie,1
-38,30276,42,6.62818259,One Punch Man,1
+38,30276,42,6.62818259,One Punch Man,0
 38,20973,43,6.60595249,Sekai Seifuku: Bouryaku no Zvezda,0
 38,1733,44,6.58341164,eX-Driver: Nina & Rei Danger Zone,1
 38,32171,45,6.50277,Ange Vierge,1
@@ -72,7 +72,7 @@ qid,docno,Rank,BM25 score,Title,label
 38,35997,70,5.76689203,M√§rchen M√§dchen,1
 38,283,71,5.73237322,Akage no Anne,1
 38,6979,72,5.72664004,Shukufuku no Campanella,1
-38,32321,73,5.6369348,Lupin III (2015): Italian Game,3
+38,32321,73,5.6369348,Lupin III (2015): Italian Game,2
 38,7079,74,5.48957699,Ookamikakushi,5
 38,14837,75,5.4660641,Dragon Ball Z Movie 14: Kami to Kami,1
 38,19383,76,5.43237186,Yami Shibai,5
@@ -122,7 +122,7 @@ qid,docno,Rank,BM25 score,Title,label
 38,2994,120,4.66735191,Death Note: Rewrite,5
 38,29,121,4.66167073,Zipang,2
 38,6707,122,4.65296556,Kuroshitsuji II,1
-38,32998,123,4.62307694,91 Days,2
+38,32998,123,4.62307694,91 Days,3
 38,30187,124,4.62307694,Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru,4
 38,21469,125,4.60949082,Stand By Me Doraemon,0
 38,4722,126,4.60949082,Skip Beat!,0
@@ -135,7 +135,7 @@ qid,docno,Rank,BM25 score,Title,label
 38,543,133,4.50726609,Vampire Hunter D (2000),3
 38,3220,134,4.50726609,Kanashimi no Belladonna,2
 38,29854,135,4.48401253,Ushio to Tora (TV),0
-38,35073,136,4.47921434,Overlord II,3
+38,35073,136,4.47921434,Overlord II,1
 38,8063,137,4.46412296,Sekaiichi Hatsukoi OVA,0
 38,37561,138,4.45973221,Akanesasu Shoujo,1
 38,3059,139,4.4515096,Ninja Senshi Tobikage,2
@@ -144,8 +144,15 @@ qid,docno,Rank,BM25 score,Title,label
 38,4173,142,4.39076976,Shigofumi Picture Drama,0
 38,1907,143,4.39076976,Harukanaru Toki no Naka de: Hachiyou Shou OVA,1
 38,23151,144,4.38693581,Shounen Hollywood: Holly Stage for 49,0
-38,670,145,4.38693581,Lamune,1
-38,7058,146,4.37041423,Uragiri wa Boku no Namae wo Shitteiru,1
+38,670,145,4.38693581,Lamune,0
+38,7058,146,4.37041423,Uragiri wa Boku no Namae wo Shitteiru,0
 38,322,147,4.36518467,Paradise Kiss,0
 38,36296,148,4.36518467,Hinamatsuri,0
 38,715,149,4.36179652,Yume de Aetara,0
+38,11111,150,0,Another,5
+38,10620,151,0,Mirai Nikki,5
+38,13601,152,0,Psycho-Pass,5
+38,934,153,0,Higurashi no Naku Koro ni,5
+38,4879,154,0,Mouryou no Hako,5
+38,1535,155,0,Death Note,5
+38,28223,156,0,Death Parade,5
