@@ -113,5 +113,5 @@ def search_query(model,query):
     print(ans)
     
     return ans
-model=init_search()
-search_query(model,'new game')
+# model=init_search()
+# search_query(model,'new game')
