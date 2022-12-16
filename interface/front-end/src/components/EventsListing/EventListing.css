@@ -1,0 +1,40 @@
+.search-result-item{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    max-width: 70vw;
+    height: 300px;
+    padding-bottom: 20px;
+    border:1px solid white;
+    border-radius: 30px;
+}
+.search-result-item:hover{
+    background-color:rgb(231, 225, 225);
+    transition: background-color 2s;
+}
+.search-result-text{
+    align-self: center;
+    justify-self: center;
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    max-height: 300px;
+    overflow: scroll;
+    
+}
+.search-result-text h1{
+    line-height: 20pt;
+    font-size: 20px;
+}
+.search-result-content{
+    overflow:scroll;
+    
+}
+.search-result-img{
+    padding-top:10px;
+    align-self: center;
+    max-height: 250px;
+    overflow: scroll;
+}
+.search-result-img>img{
+    width: 175px;
+}
