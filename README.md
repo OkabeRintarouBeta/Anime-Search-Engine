@@ -12,7 +12,7 @@
 
   - You could see a demo [Here](https://drive.google.com/file/d/1dPeGEyibLY2dUrV5dkMzup8CoegBTVmk/view?usp=drivesdk) 
 
-- You could also run the file by using the file `interface/backend/search_model.py`:
+- You could also do a search directly by using the file `interface/backend/search_model.py`:
   ```python
   model=init_search()
   search_query(model,'new game') # input any query to search without punctuations(the ReactJS way could handle punctuations)
