@@ -4,7 +4,7 @@
 
 - To run search engine(with ReactJS installed)
   - `cd interface`
-  - 'cd backend'
+  - `cd backend`
     - `flask run` to start the back-end
   - `cd front-end`
     - `npm install` to install all dependencies
